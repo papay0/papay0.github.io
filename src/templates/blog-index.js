@@ -1,5 +1,9 @@
 import { Link, graphql } from 'gatsby';
-import { formatPostDate, formatReadingTime } from '../utils/helpers';
+import {
+  formatPostDate,
+  formatReadingTime,
+  formatCategory,
+} from '../utils/helpers';
 
 import Bio from '../components/Bio';
 import Footer from '../components/Footer';
@@ -66,6 +70,7 @@ class BlogIndexTemplate extends React.Component {
                   <small>
                     {formatPostDate(node.frontmatter.date, langKey)}
                     {` • ${formatReadingTime(node.timeToRead)}`}
+                    {` • ${formatCategory(node.frontmatter.category)}`}
                   </small>
                 </header>
                 <p

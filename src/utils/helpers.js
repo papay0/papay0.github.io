@@ -1,3 +1,5 @@
+import { Categories } from '../components/Header';
+
 export function formatReadingTime(minutes) {
   let cups = Math.round(minutes / 5);
   let bowls = 0;
@@ -7,6 +9,19 @@ export function formatReadingTime(minutes) {
       .join('')} ${minutes} min read`;
   } else {
     return `${new Array(cups || 1).fill('☕️').join('')} ${minutes} min read`;
+  }
+}
+
+export function formatCategory(category) {
+  switch (category) {
+    case Categories.ARTICLE:
+      return 'Article';
+    case Categories.PROJECT:
+      return 'Project';
+    case Categories.JOB:
+      return 'Job';
+    default:
+      return '';
   }
 }
 

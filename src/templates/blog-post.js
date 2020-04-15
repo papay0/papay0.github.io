@@ -8,7 +8,11 @@ import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import Signup from '../components/Signup';
 import Panel from '../components/Panel';
-import { formatPostDate, formatReadingTime } from '../utils/helpers';
+import {
+  formatPostDate,
+  formatReadingTime,
+  formatCategory,
+} from '../utils/helpers';
 import { rhythm, scale } from '../utils/typography';
 import {
   codeToLanguage,
@@ -164,6 +168,7 @@ class BlogPostTemplate extends React.Component {
               >
                 {formatPostDate(post.frontmatter.date, lang)}
                 {` • ${formatReadingTime(post.timeToRead)}`}
+                {` • ${formatCategory(post.frontmatter.category)}`}
               </p>
               {translations.length > 0 && (
                 <Translations
