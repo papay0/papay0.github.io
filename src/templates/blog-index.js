@@ -22,8 +22,6 @@ class BlogIndexTemplate extends React.Component {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
     const langKey = this.props.pageContext.langKey;
     const selectedCategories = this.state.selectedCategories;
-    console.log('selected categories');
-    console.log(selectedCategories);
     const posts = get(this, 'props.data.allMarkdownRemark.edges').filter(
       post => {
         const category = post.node.frontmatter.category;

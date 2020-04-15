@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: 'Lifegorithms',
+    author: 'Arthur Papailhau',
+    description: 'Personal blog by Arthur Papailhau.',
+    siteUrl: 'https://lifegorithms.io',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@papay0',
     },
   },
-  pathPrefix: '/',
+  pathPrefix: '/lifegorithms.io',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -94,6 +94,7 @@ module.exports = {
 
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.spoiler,
+                  category: edge.node.frontmatter.category,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
@@ -119,6 +120,7 @@ module.exports = {
                         title
                         date
                         spoiler
+                        category
                       }
                     }
                   }
@@ -165,11 +167,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `Lifegorithms`,
+        short_name: `Lifegorithms`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#ffa7c4`,
+        theme_color: `#1184e8`,
         display: `minimal-ui`,
         icon: `src/assets/icon.png`,
         theme_color_in_head: false,

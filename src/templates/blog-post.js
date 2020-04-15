@@ -195,7 +195,7 @@ class BlogPostTemplate extends React.Component {
               fontFamily: systemFont,
             }}
           >
-            <Signup cta={post.frontmatter.cta} />
+            {/* <Signup cta={post.frontmatter.cta} /> */}
           </div>
           <h3
             style={{
@@ -207,7 +207,7 @@ class BlogPostTemplate extends React.Component {
               style={{
                 boxShadow: 'none',
                 textDecoration: 'none',
-                color: 'var(--pink)',
+                color: 'var(--blue)',
               }}
               to={'/'}
             >
@@ -270,6 +270,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         spoiler
         cta
+        category
       }
       fields {
         slug
