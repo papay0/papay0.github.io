@@ -80,7 +80,7 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 const siteUrl = site.siteMetadata.siteUrl;
                 const postText = `
-                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at overreacted.io. You can read it online by <a href="${siteUrl +
+                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at lifegorithms.io. You can read it online by <a href="${siteUrl +
                   edge.node.fields.slug}">clicking here</a>.)</div>
               `;
 
@@ -128,7 +128,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's Overreacted Blog RSS Feed",
+            title: "Arthur Papailhau's Lifegorithms Blog RSS Feed",
           },
         ],
       },
@@ -136,7 +136,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-ebook`,
       options: {
-        filename: 'overreacted-ebook.epub',
+        filename: 'lifegorithms-ebook.epub',
         query: `
           {
             site {
@@ -173,7 +173,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#1184e8`,
         display: `minimal-ui`,
-        icon: `src/assets/icon.png`,
+        // icon: `src/assets/icon.png`,
         theme_color_in_head: false,
       },
     },
