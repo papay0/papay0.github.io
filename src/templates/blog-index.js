@@ -9,19 +9,40 @@ import React from 'react';
 import SEO from '../components/SEO';
 import get from 'lodash/get';
 import { rhythm } from '../utils/typography';
+import Header from '../components/Header';
 
 class BlogIndexTemplate extends React.Component {
+  state = { selectedCategories: [] };
+
+  updateSelectedCategories = categories => {
+    this.setState({ selectedCategories: categories });
+  };
+
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
     const langKey = this.props.pageContext.langKey;
-
-    const posts = get(this, 'props.data.allMarkdownRemark.edges');
+    const selectedCategories = this.state.selectedCategories;
+    console.log('selected categories');
+    console.log(selectedCategories);
+    const posts = get(this, 'props.data.allMarkdownRemark.edges').filter(
+      post => {
+        const category = post.node.frontmatter.category;
+        if (selectedCategories.length === 0) {
+          return true;
+        } else if (selectedCategories.includes(category)) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+    );
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO />
         <aside>
           <Bio />
+          <Header updateSelectedCategories={this.updateSelectedCategories} />
         </aside>
         <main>
           {langKey !== 'en' && langKey !== 'ru' && (
@@ -101,6 +122,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             spoiler
+            category
           }
         }
       }
