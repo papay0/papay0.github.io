@@ -15,11 +15,11 @@ export function formatReadingTime(minutes) {
 export function formatCategory(category) {
   switch (category) {
     case Categories.ARTICLE:
-      return 'Articles';
+      return 'Article';
     case Categories.PROJECT:
-      return 'Projects';
+      return 'Project';
     case Categories.JOB:
-      return 'Jobs';
+      return 'Job';
     default:
       return '';
   }
