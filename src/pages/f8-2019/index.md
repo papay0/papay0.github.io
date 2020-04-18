@@ -113,9 +113,9 @@ This is a [video](https://vimeo.com/242899818?fbclid=IwAR1Xm2iHMOcrw6uZKbJ9xuriZ
 Now that I talked to them, I still believe there are ahead of Uber in many ways, but not as much as I thought.  
 They told me that their codebase is super hacky, many teams are building the same features etc. For example Stories, they have Messenger Stories, WhatsApp Stories, Insta Stories, Facebook Stories… all built by different people without sharing any code!
 
-They announced the new Messenger, which is Harder Better Faster Stronger, but I learnt that it’s still mainly written in C and Obj-C. 😢
+They announced the new Messenger, which is Harder Better Faster Stronger, but I learned that it’s still mainly written in C and Obj-C. 😢
 
-_Update - March 2nd, 2020:_ Facebook release an [article](https://engineering.fb.com/data-infrastructure/messenger/) describind the rewrite of Messenger.
+_Update - March 2nd, 2020:_ Facebook release an [article](https://engineering.fb.com/data-infrastructure/messenger/) describing the rewrite of Messenger.
 
 Funny story about this new app;
 The main thing is about memory, the app should only be ~30MB, current 130MB.
@@ -160,7 +160,7 @@ So they answered that they would pay for everything etc. I couldn’t believe it
 ## Conclusion
 The past few days were incredible.  
 I met so many talented people from all over the world.  
-I learnt a lot about engineering and about Facebook’s organization from the inside.
+I learned a lot about engineering and about Facebook’s organization from the inside.
 Uber is using a lot of Facebook tools (Phab, Buck, React, ...) so it was interesting to talk to them in real life.  
 I think I took every opportunity to talk and learn from them and how they work.
 
