@@ -3,12 +3,12 @@ module.exports = {
     title: 'Lifegorithms',
     author: 'Arthur Papailhau',
     description: 'Personal blog by Arthur Papailhau.',
-    siteUrl: 'https://lifegorithms.io',
+    siteUrl: 'https://lifegorithms.com',
     social: {
       twitter: '@papay0',
     },
   },
-  pathPrefix: '/lifegorithms.io',
+  pathPrefix: '/lifegorithms.com',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -80,7 +80,7 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 const siteUrl = site.siteMetadata.siteUrl;
                 const postText = `
-                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at lifegorithms.io. You can read it online by <a href="${siteUrl +
+                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at lifegorithms.com. You can read it online by <a href="${siteUrl +
                   edge.node.fields.slug}">clicking here</a>.)</div>
               `;
 

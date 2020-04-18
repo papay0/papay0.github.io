@@ -22,7 +22,7 @@ import {
 } from '../utils/i18n';
 
 const GITHUB_USERNAME = 'papay0';
-const GITHUB_REPO_NAME = 'lifegorithms.io';
+const GITHUB_REPO_NAME = 'lifegorithms.com';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
@@ -141,7 +141,7 @@ class BlogPostTemplate extends React.Component {
       enSlug.length - 1
     )}/index${lang === 'en' ? '' : '.' + lang}.md`;
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(
-      `https://lifegorithms.io${enSlug}`
+      `https://lifegorithms.com${enSlug}`
     )}`;
 
     return (
