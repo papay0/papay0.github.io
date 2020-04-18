@@ -2,7 +2,6 @@
 title: Lifegorithms, what is it about?
 date: '2020-04-14'
 spoiler: Why would I have a website, in 2020?
-cta: 'react'
 category: 'article'
 ---
 

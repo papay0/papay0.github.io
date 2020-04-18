@@ -2,7 +2,6 @@
 title: My Facebook F8/Hackathons 2019 experience 😍
 date: '2019-05-01'
 spoiler: Why would Facebook invite me? 🙄
-cta: 'react'
 category: 'article'
 ---
 
