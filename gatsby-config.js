@@ -173,7 +173,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#1184e8`,
         display: `minimal-ui`,
-        // icon: `src/assets/icon.png`,
+        icon: `src/assets/icon.png`,
         theme_color_in_head: false,
       },
     },
