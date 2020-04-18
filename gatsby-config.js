@@ -8,7 +8,6 @@ module.exports = {
       twitter: '@papay0',
     },
   },
-  pathPrefix: '/lifegorithms.com',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
