@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Apr 2020 23:52:17 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about?]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Apr 2020 01:31:06 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about? 🤔]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
 &lt;p&gt;It all started with &lt;a href=&quot;https://www.skyrock.com/blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Skyblog&lt;/a&gt; when I was like 12, but unfortunately I might have deleted it a few years ago when I realized what kind of content I was posting. 😂 Now I do regret having deleted it…&lt;br&gt;
 But I can tell you it was random stuff, from ideas to describing an afternoon spent with friends.&lt;/p&gt;
 &lt;p&gt;After that, I learned HTML/CSS, built a few websites kinda useless.&lt;br&gt;
@@ -53,6 +53,67 @@ In this section, I want to describe where I worked, what I learned, what I liked
 &lt;p&gt;PS: I will date every articles, projects and jobs concerning the past with the actual date of real life event. For instance, if I describe my job from 2017, the date of the post will be from 2017.&lt;br&gt;
 It would be confusing otherwise.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/lifegorithms-goal/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Day2Day, your task manager operating on Google Docs 🤓]]></title><description><![CDATA[Trust me you will feel so good after using it for two days!]]></description><link>https://lifegorithms.com/day2day/</link><guid isPermaLink="false">https://lifegorithms.com/day2day/</guid><pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/5fcd8/day2day.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 37.40275284260922%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAAA6ElEQVQoz42QyU7EMBBE8/8fw29w5cgFKVKQkoBnhnhfU3Q3Y0gkhLBU6vZSz2UPL9MV6v0NH5uGc05kjIU2RnqtNa63DRtVay1iSsg5o7WGSuKhbgYPjxuenl8x8CHnAx0mkGWghw8RgcTAGCNBssyD9En2j+K9Vrh6DCEmMXSVUnEcDLxcFK2X03rKhS748bmQ6FUElNsJ2pUJyOZlWaCUkjpN0zdw33dROviYwUm5nhIKMH8Z13XFPM/St/tfMajXDuxeTwkjzYfjc3vCWqvAOJ33/pTsT2D6DXhPyMBxHCVdh/0H+AmJ1SEA7C9vtgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Day2Day&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/799d3/day2day.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/00d96/day2day.png 148w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/0b23c/day2day.png 295w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/799d3/day2day.png 590w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/2a3d6/day2day.png 885w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/ae92f/day2day.png 1180w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/5fcd8/day2day.png 3342w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;what-is-day2day&quot;&gt;&lt;a href=&quot;#what-is-day2day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is Day2Day?&lt;/h2&gt;
+&lt;p&gt;Day2Day is a task manager I wrote soperating on Google Docs.&lt;br&gt;
+It’s simple and it just works. 😃&lt;br&gt;
+I have tried a lot of productivity apps, some are great but too overwhelming. Lots of features that I don’t need, it becomes hard to do simple things.&lt;/p&gt;
+&lt;h2 id=&quot;why-would-i-use-day2day&quot;&gt;&lt;a href=&quot;#why-would-i-use-day2day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why would I use Day2Day?&lt;/h2&gt;
+&lt;p&gt;Well, let’s see what people think about it:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“All of a sudden, I was able to leave my office by 3pm!”&lt;/em&gt; — Marta&lt;br&gt;
+&lt;em&gt;“I didn’t want to believe it, but Day2Day brought order to my life!”&lt;/em&gt; — Pierre&lt;br&gt;
+&lt;em&gt;“My productivity increased by +200% after using Day2Day for only 1 day! 🤯”&lt;/em&gt; — Pavel  &lt;/p&gt;
+&lt;h2 id=&quot;how-does-day2day-work&quot;&gt;&lt;a href=&quot;#how-does-day2day-work&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How does Day2Day work?&lt;/h2&gt;
+&lt;p&gt;Every day, you will write your tasks and subtasks on a Google Docs, following the pre-filled template provided by my script.&lt;br&gt;
+In order to mark the task as done, you only have to strikethrough it. (Cmd+shift+x on Mac or Alt+Shift+5 on Windows/Linux)&lt;br&gt;
+The script will be run automatically every weekday at midnight, will copy the uncompleted tasks from the previous day and paste it to the new day.&lt;br&gt;
+No need for any manual work here. 🥳&lt;/p&gt;
+&lt;h2 id=&quot;motivation--previous-work&quot;&gt;&lt;a href=&quot;#motivation--previous-work&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Motivation &amp;#x26; Previous work&lt;/h2&gt;
+&lt;p&gt;I am using this Google Docs for daily tasks for a few years now. I always found it too much to copy-paste the previous day, to remove the completed tasks, every single day. (Yes, I like automation! 🤖)  &lt;/p&gt;
+&lt;p&gt;So I wrote a React Web App to do this job for me, the code is available here. But after a while, it became too complex for the simple task manager I needed, so I wrote Day2Day on Google App Script. (ie, the content of this article)  &lt;/p&gt;
+&lt;p&gt;You can see a quick demo of my previous work:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://lifegorithms.com/bbc5293be5d966aba46091117755c880/day2day_gif.gif&quot; alt=&quot;First version Day2Day&quot;&gt;&lt;/p&gt;
+&lt;p&gt;It would also generate what you have to say for your team &lt;strong&gt;Standup&lt;/strong&gt;. 😅&lt;/p&gt;
+&lt;p&gt;There is also a Markdown editor useful to simply store important information, that you might want to quickly find for instance when it’s time for Promo season in your company.&lt;/p&gt;
+&lt;h2 id=&quot;how-to-set-day2day-up&quot;&gt;&lt;a href=&quot;#how-to-set-day2day-up&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How to set Day2Day up?&lt;/h2&gt;
+&lt;p&gt;You can follow these 8 simple steps:&lt;br&gt;
+I don’t want this article to be too long here, so please go to &lt;a href=&quot;https://medium.com/@papay0/day2day-task-manager-operating-on-google-docs-bca099d75e45&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;my original medium article&lt;/a&gt; and the 8 easy steps are explained. 😈&lt;/p&gt;
+&lt;p&gt;You can now start writing your tasks following the same pattern as the picture on the top of this article, ie using bulleted lists.&lt;/p&gt;
+&lt;p&gt;Enjoy! 🥳&lt;/p&gt;
+&lt;h2 id=&quot;how-to-contribute-🤩&quot;&gt;&lt;a href=&quot;#how-to-contribute-%F0%9F%A4%A9&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How to contribute 🤩&lt;/h2&gt;
+&lt;p&gt;Day2Day is open sourced!&lt;br&gt;
+Simply go to the &lt;a href=&quot;https://github.com/papay0/Day2Day&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;GitHub project&lt;/a&gt; and go for it, I’m waiting for your PR 😃&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/day2day/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[My Facebook F8/Hackathons 2019 Experience 😍]]></title><description><![CDATA[Why would Facebook invite me? 🙄]]></description><link>https://lifegorithms.com/f8-2019/</link><guid isPermaLink="false">https://lifegorithms.com/f8-2019/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;f8--hackathon-2019&quot;&gt;&lt;a href=&quot;#f8--hackathon-2019&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;F8 / Hackathon 2019&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;April 28th - May 1st 2019&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
