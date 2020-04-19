@@ -66,48 +66,55 @@ class Header extends React.Component {
           marginBottom: rhythm(1 / 4),
         }}
       >
-        <Link
-          style={
-            this.state.selectedCategories.includes(Categories.ARTICLE)
-              ? this.selectedStyle
-              : this.unselectedStyle
-          }
-          rel="bookmark"
-          to=""
-          onClick={() => {
-            this.onClickCategory(Categories.ARTICLE);
+        <div
+          style={{
+            display: 'flex',
+            flexWrap: 'wrap',
           }}
         >
-          Articles
-        </Link>
-        <Link
-          style={
-            this.state.selectedCategories.includes(Categories.PROJECT)
-              ? this.selectedStyle
-              : this.unselectedStyle
-          }
-          to=""
-          rel="bookmark"
-          onClick={() => {
-            this.onClickCategory(Categories.PROJECT);
-          }}
-        >
-          Projects
-        </Link>
-        <Link
-          style={
-            this.state.selectedCategories.includes(Categories.JOB)
-              ? this.selectedStyle
-              : this.unselectedStyle
-          }
-          to=""
-          rel="bookmark"
-          onClick={() => {
-            this.onClickCategory(Categories.JOB);
-          }}
-        >
-          Jobs
-        </Link>
+          <Link
+            style={
+              this.state.selectedCategories.includes(Categories.ARTICLE)
+                ? this.selectedStyle
+                : this.unselectedStyle
+            }
+            rel="bookmark"
+            to=""
+            onClick={() => {
+              this.onClickCategory(Categories.ARTICLE);
+            }}
+          >
+            Articles
+          </Link>
+          <Link
+            style={
+              this.state.selectedCategories.includes(Categories.PROJECT)
+                ? this.selectedStyle
+                : this.unselectedStyle
+            }
+            to=""
+            rel="bookmark"
+            onClick={() => {
+              this.onClickCategory(Categories.PROJECT);
+            }}
+          >
+            Projects
+          </Link>
+          <Link
+            style={
+              this.state.selectedCategories.includes(Categories.JOB)
+                ? this.selectedStyle
+                : this.unselectedStyle
+            }
+            to=""
+            rel="bookmark"
+            onClick={() => {
+              this.onClickCategory(Categories.JOB);
+            }}
+          >
+            Jobs
+          </Link>
+        </div>
       </h3>
     );
   }
