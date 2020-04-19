@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Apr 2020 01:44:45 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about? 🤔]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Apr 2020 03:52:51 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about? 🤔]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
 &lt;p&gt;It all started with &lt;a href=&quot;https://www.skyrock.com/blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Skyblog&lt;/a&gt; when I was like 12, but unfortunately I might have deleted it a few years ago when I realized what kind of content I was posting. 😂 Now I do regret having deleted it…&lt;br&gt;
 But I can tell you it was random stuff, from ideas to describing an afternoon spent with friends.&lt;/p&gt;
 &lt;p&gt;After that, I learned HTML/CSS, built a few websites kinda useless.&lt;br&gt;
@@ -792,4 +792,311 @@ We also all went dancing with Uber employees from the Mexico city office, just t
 I advise everyone to go if you have the opportunity.&lt;br&gt;
 It was also a good 1-week team building event; I “knew” everyone from this trip already, but after this week I feel like I know them 200% more than before. It will make it easier to work together in the future. 👍&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/ux-research-mexico-uber/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[IBM Extreme Blue 2016 🍻]]></title><description><![CDATA[Dublin, we had a great time!]]></description><link>https://lifegorithms.com/ibm-extreme-blue-2016-internship/</link><guid isPermaLink="false">https://lifegorithms.com/ibm-extreme-blue-2016-internship/</guid><pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post summarizes my 2016 internship experience at IBM Dublin, &lt;strong&gt;from June to September 2016&lt;/strong&gt;.  &lt;/p&gt;
+&lt;p&gt;TLDR; That was awesome! 👏&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/76e82/ibm-crew.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.256578947368425%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAAClUlEQVQozxXQ20uTAQCG8Y+6CXRpU9OZc/OQfc6d3Dxs7rNNpzv6qZlW09IpFdqBLMk0TbTUaUurGVFhYRjdBUEXXRRdVFdedBNEhFRQgQVJh4sOFE/r/QOeF37Ct5/f+fH3F5+/rLLy6SPLr9+ytPSMJ4+f8vDBA24tLrJwfZ65C7OEdrSQl5uPyWCkrNSG1VqKc6sLORjA45Opl2WEF69ecS12nt/84f9Wv37m/YcVlt+84/mLl1y+eJHp6Side7tx1/oI1jXgD9bT2raH9vYOeg/3MNx/lGM9YWYjpxBmzkboamzg/r273L45z43oOAuXL/Ho3h1ig72MdXcxsK+VK3MRDu3vZOzkCQZ6uohNjnBybxtXL0wwNzXEudP9zIz3I4iFTgzFXqyb8zFr1WSmZVNSZOZ4ZxsHQjsIB5pwiVsY7JAZaQ/S4nFTJ9nYVefn2DZ3nGKCyYkhxoaPEI0MIazTtqG1huMWblJTNqHaJFJeJjE1HmFq9AyxkTNIOgNOvUhPSxXi5gLWrktFbyqnVfZgklwoK5tIMjpR2YMINneYEqkRo9GCYn06omjGW+0mOhmhPdRKbRx9q6UEyVxEZ5MLW0kpGzPy8AdkGuV6TJVuUuJBhcFFotmDIPu9eDweNiSnkKhIZXc8Eh0dYHpsBIPehCCsiR+lUV1mIRSsoLLSRXJaDnaplprqGsxVfpSORhRGF0kWH0KmKgvJbkOjVqPV5hJqbmKw9yCDfX1YzMXkarJJz8hELNBh0G3B5qhmoyofpUqHWqOn2BkguVwmUe9CYapBUCpTkJxOHOUWzHodUkUFAZ+Xnc3bqXKUkadRx6NqTEU6nHYLdpuDwrhptiaf9Jwisrxh1lt9JIgVJBiq+AeLkWqceasr2AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IBM Crew&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/799d3/ibm-crew.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/00d96/ibm-crew.png 148w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/0b23c/ibm-crew.png 295w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/799d3/ibm-crew.png 590w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/2a3d6/ibm-crew.png 885w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/ae92f/ibm-crew.png 1180w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/76e82/ibm-crew.png 2432w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;what-is-extreme-blue&quot;&gt;&lt;a href=&quot;#what-is-extreme-blue&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is Extreme Blue?&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/93d1b/ibm-extreme-blue.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFucjpLREhP/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxITIf/aAAgBAQABBQK3stTG4hdKQskM8R//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BrH//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8BEX//xAAZEAADAQEBAAAAAAAAAAAAAAAAASECEVH/2gAIAQEABj8CuqenNFpU0Q//xAAbEAEBAQACAwAAAAAAAAAAAAARAQAQUSExQf/aAAgBAQABPyGNGEPGH3LEFc/1ffCRaAZe9//aAAwDAQACAAMAAAAQI8//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Q1Uv/xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQIBAT8QimP/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMVFhgXH/2gAIAQEAAT8QM36hWfIPanCs8xjAqvlE1PYVNvpCqR6VIFgSxj//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IBM Extreme Blue&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/88218/ibm-extreme-blue.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/7237a/ibm-extreme-blue.jpg 148w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/0cfdf/ibm-extreme-blue.jpg 295w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/88218/ibm-extreme-blue.jpg 590w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/77d57/ibm-extreme-blue.jpg 885w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/5a917/ibm-extreme-blue.jpg 1180w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/93d1b/ibm-extreme-blue.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ibm.com/employment/extremeblue/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Extreme Blue&lt;/strong&gt;&lt;/a&gt; is the internship program proposed by IBM.&lt;br&gt;
+As they currently write in their website, &lt;em&gt;There are internships, and then there’s Extreme Blue™&lt;/em&gt;.&lt;br&gt;
+I agree, I did a few internships and Extreme Blue was … different. I think it’s a good summary to say that Extreme Blue is an internship program, but it’s not the same as being “an intern” at IBM.&lt;/p&gt;
+&lt;p&gt;An intern in a company, from my previous experiences, is like being a full-time employee except that you don’t have the same expectation in terms of work, you’re here to learn first, and the time is generally limited, 3 to 6 months.&lt;/p&gt;
+&lt;p&gt;With Extreme Blue you don’t necessarily work on an IBM product/project, it’s more a project specially thought for this program. You’re only with other interns, as opposed to my other internships where I was part of a team with other full-time employees.&lt;/p&gt;
+&lt;h2 id=&quot;why-ibm-and-not-somewhere-else&quot;&gt;&lt;a href=&quot;#why-ibm-and-not-somewhere-else&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why IBM and not somewhere else?&lt;/h2&gt;
+&lt;p&gt;My goal/dream was always to work in Tech in Silicon Valley.&lt;br&gt;
+I knew that as a French, it is possible but the solutions are limited.&lt;br&gt;
+For this internship period, I applied at a lot of places but didn’t even pass the resume step at other big tech companies. I knew that a big name like IBM would help me in the future to at least have an interview.&lt;/p&gt;
+&lt;p&gt;I ended up interviewing with two companies, IBM and &lt;a href=&quot;https://www.earny.co/home&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Earny&lt;/a&gt; and received offers from both of them.&lt;br&gt;
+My role at Earny was about being one of the first engineers of the startup, and TLDR of what Earny is doing is &lt;em&gt;“Earny’s app gets your money back on purchases after prices drop”&lt;/em&gt;.&lt;br&gt;
+Earny is based in Los Angeles and was in a Startup Incubator in Santa Monica.&lt;/p&gt;
+&lt;p&gt;I had a hard time to decide, both companies seemed to have equally interesting projects! On one hand, Earny was located in Los Angeles, which would bring me closer to my Silicon Valley life, on the other hand IBM was a big name and would possibly either bring me to the US or at least add a valuable name on my resume.&lt;/p&gt;
+&lt;p&gt;As you can guess, I hope, I ended up choosing IBM. 🥳&lt;/p&gt;
+&lt;h2 id=&quot;selection-process&quot;&gt;&lt;a href=&quot;#selection-process&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Selection process&lt;/h2&gt;
+&lt;p&gt;The process for Early was a few phone calls with the founders, some technical calls but nothing to complex, more high level than code.  &lt;/p&gt;
+&lt;p&gt;The process for IBM was more similar to what we can expect from a tech company, some online coding interviews etc.&lt;br&gt;
+Overall, it was &lt;em&gt;waaaaay&lt;/em&gt; easier than any of my following Google/Uber/etc interviews because it was less coding and more of everything.&lt;br&gt;
+For instance, I had a managerial interview, a coding design challenge to do at home where I had to design/architecture a video game, some coding exercises and finally a skype live coding interview.&lt;br&gt;
+But still, easier than Google.  &lt;/p&gt;
+&lt;h2 id=&quot;where-was-it&quot;&gt;&lt;a href=&quot;#where-was-it&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Where was it?&lt;/h2&gt;
+&lt;p&gt;Extreme Blue has a program in a few city in Europe/US, but I think I only applied for the Dublin program. I don’t know why only Dublin, maybe at the time I didn’t realize they had other cities.&lt;br&gt;
+I was excited because Dublin is Dublin 🇮🇪, the city of 🍻and live music 🎶! (At the time I was still drinking beers)&lt;br&gt;
+But most importantly excited because I would improve my english! I was so bad in english, really bad, and I knew it was a requirement for my career in Software Engineering.&lt;/p&gt;
+&lt;h2 id=&quot;what-did-i-do-during-this-internship&quot;&gt;&lt;a href=&quot;#what-did-i-do-during-this-internship&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What did I do during this internship?&lt;/h2&gt;
+&lt;p&gt;We were a total of 9 interns, split into two groups.&lt;br&gt;
+The project Toscana and the project Security, both super interesting!&lt;/p&gt;
+&lt;p&gt;I was in the project Toscana with 4 other peers.&lt;br&gt;
+Toscana was the internal name of the enterprise chat solution IBM was building.&lt;br&gt;
+The tech stack was mainly around JavaScript, React for the front, Node for the back.
+I knew these technologies from previous side project, so it was nothing entirely new but I still learned a lot because it’s clearly not the same coding for a small side project and coding in a large codebase in a big company!&lt;/p&gt;
+&lt;p&gt;Toscana was super interesting, it was about reducing the noise in a group chat.&lt;/p&gt;
+&lt;p&gt;To solve that, we were analyzing the content of the conversation and proposing smart &lt;strong&gt;reaction&lt;/strong&gt; (for instance short sentences &lt;em&gt;“Thanks!”&lt;/em&gt; or emojis 👍/👎) based on the context of the chat.&lt;br&gt;
+To do so, we were using a set of tools provided by IBM Watson like sentiment analysis, tone analysis etc.&lt;br&gt;
+It worked well, I was surprised! 😂&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updates 2020&lt;/em&gt;:&lt;br&gt;
+Around two years after the internship, Toscana was discontinued and around 4 years after, IBM switched to Slack for all employees which had an important consequence on Slack stocks. When IBM announced they were switching to Slack, &lt;a href=&quot;https://markets.businessinsider.com/news/stocks/slack-stock-price-ibm-biggest-account-global-employees-messaging-platform-2020-2-1028890304&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Slack had a +21% jump on their stocks&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&quot;the-final-presentation&quot;&gt;&lt;a href=&quot;#the-final-presentation&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The final presentation!&lt;/h2&gt;
+&lt;p&gt;The last week of the internship, all teams from across Europe came to Dublin to give a presentation about their projects. I don’t remember exactly how many people were at the presentation, let’s say 15 teams composed by 5 people + a mentor per team + some IBM employees from Dublin = 15 * (5+1) + 100 ~= 200 people.  &lt;/p&gt;
+&lt;p&gt;We trained every single week for this presentation by doing mock presentations in the hall of the IBM cafeteria.  &lt;/p&gt;
+&lt;p&gt;It was stressful to talk in front of a lot of people, but overall it went really well!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/3ed1b/presentation-toscana.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG+tmrF6Z8T/8QAGxAAAgMAAwAAAAAAAAAAAAAAAQMAAhIREzH/2gAIAQEAAQUCa2nHdWJbXBQCfRoif//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERASIVFh/9oACAEBAAY/AtexYlK3aH4cM//EABgQAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEBAAE/IRacS9AOs2rq24BSSDbTVk50qf/aAAwDAQACAAMAAAAQMw//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QdER//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxCKtf/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQWGRscH/2gAIAQEAAT8QTIU5dOHZ6YUyOQ4yXB3ZICdB8gy41mxsHPmGBuQd7gUI2oZ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Presentation Toscana&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/88218/presentation-toscana.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/7237a/presentation-toscana.jpg 148w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/0cfdf/presentation-toscana.jpg 295w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/88218/presentation-toscana.jpg 590w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/77d57/presentation-toscana.jpg 885w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/5a917/presentation-toscana.jpg 1180w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/3ed1b/presentation-toscana.jpg 5184w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;At the end of the day, IBM rented the Guinness Storehouse at St. James’s Gate, we had a lot of fun, we learned a lot and we drank a lot! 😎&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/2cfc4/guinness-storehouse.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75.29566360052563%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEDklEQVQ4yx2U+0+TVxjH3xkSrqVXoEV6fVv6ltaKCAIWqFqgFAMBCqUK2uAFRgQHVcTLvIzFGFEJ6MjCJglziS5GnBo22GYWp4jxFzeXJcsWw7Ltt/0Tnx36w0nO+zzv83y/z/d8z5EUtxuX04XLLuOVXWLJNDeGiMXaUTxuvB4PNVWVhOp2Eg7V0rinjtqqHfhEbpvfh+KWcStOSopdeIqdSGUVVVQHg5RWV+Dd6sPvVdgd2M6VidMc6osLMActAqCns4X+RIx4ezO7dm4nWL0Ds6WIIoeDOgESaqhFKVGQiuwOgqF6mjva2Btro7tvH3saa5m6eom159/THN7F2NBRJi+OM3npFKPvJ2ht2k1ZmZ+QAOpLHCASqcfmsJJfYEIKRBrYIth9dP0a8wsLnJ+4xOD4KWK9PTxdWWZh/nPOnhxh+vJFJs6cZLCvl/bWZpIjQ5w4PkigspSS7Vsprw2kppSi8RixfTFmZm6w9PBrkseHOTd2kumpKb6Y+5QPBgYYT47S3xMnEW3lYHeURG+cA61hSoV24YYQif7DfHh1kqb2MNLQ4GEunBvn1YvnvF1b5e3rV7x58ROvnq5w//YcDxbm+Wp2hudLj/jz11+4OzvF5JkkS/fv8frZU1Z/+JbFu3e4eWuGE2NHkOLxKMGaWt69+4OPx07w+5ufWV5+wsqjB/z2co3FuTm+u/Ml96amebz4kP/+XufFN4/4Z32dzz65yfnkMZ79+IRbs9c5c3oIyWg0k5dnoqqijM6mTl4urxJvbWL6yjWS/cNcGD7L49uLjHX1cmFklH//Wice7aQlHCFfp2GLx0tbtJ34/g6OH+tD0mr1ZGepxMpKJY8cPETH3saU93RqLXsqglwenaC7pYvK0m0c6ozidbkw6fNQqXKoqQ5QXl5O4kgvVy8mkTQaHRnpGej1OiRJYtOm9/ApMlXbPGg0avJFYXh3M5WBCJkZGRjUamSrGYspXzRU4SvxCsvI7ArVCG/6kVSqXNLTM8kzGMjKzCInJwfZZiYSLMclvKXRaDAVWYl2HaXM76exPkgkHCItLY3MzEyKXcXYZQf6jfpsFVJOdq5olI2xoIDNhSZKtygC1Ul9zQ7GhwaorwugEyxHR8ZoF+Yv9SvsF9bR6XTkCjJerw+rw4bFakn9J6ly1OTmqik0mTCIsT1uF5XlfpoEk+GBw0KjSowi53Q6sVjMaLUacY8VNpuMFIuYz+fDLq6n1WahoMAoNNQZyBYsNz7Uao3QMg+nw45TtuMQyI6NvTgExa0g220YxGgb2hmNBZQobmTxmJhtNmSnLGKiodFsESOrRDOtYKpl45AKCwsxm4tSxVqtVoynFwxloZcoEsz0ekMK3Gg0YbXaKbJYxUNhTcX/B4q1KCRxYn5yAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Guinness Storehouse&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/799d3/guinness-storehouse.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/00d96/guinness-storehouse.png 148w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/0b23c/guinness-storehouse.png 295w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/799d3/guinness-storehouse.png 590w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/2a3d6/guinness-storehouse.png 885w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/ae92f/guinness-storehouse.png 1180w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/2cfc4/guinness-storehouse.png 1522w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;how-is-living-in-dublin&quot;&gt;&lt;a href=&quot;#how-is-living-in-dublin&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How is living in Dublin?&lt;/h2&gt;
+&lt;p&gt;I had a really good time in Dublin, but I don’t think I’d live there again. Of course, never say never, that’s why I say &lt;em&gt;I don’t think I’d live there again&lt;/em&gt;. 😇&lt;/p&gt;
+&lt;p&gt;The main reason is the weather, really bad weather. 🌧
+But I highly advise to visit Dublin or the country, great views, great bars, great (live) music, lots of great things!&lt;/p&gt;
+&lt;p&gt;I discovered my favorite beer of the time, &lt;a href=&quot;https://www.guinness.com/en/our-beers/guinness-hop-house-13/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Hop House 13 Lager&lt;/a&gt;, I was living near the city center, I met really smart, fun &amp;#x26; nice people and I visited a few times all the bars of Dublin! 😳&lt;/p&gt;
+&lt;p&gt;Around the end of the internship we (almost) all went in a trip to Galway for a long weekend, it was &lt;strong&gt;grreeeaaaaaat&lt;/strong&gt;! You can guess our main activity there. 🙄&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/fd7f0/trip-galway.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHHShipAKf/xAAYEAADAQEAAAAAAAAAAAAAAAAAAQIREP/aAAgBAQABBQKl2bMQ3r//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAAhEhMf/aAAgBAQAGPwLLOuCGy//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExUXH/2gAIAQEAAT8her1srKOxKdd+wERY0uHcw8JvT//aAAwDAQACAAMAAAAQ6z//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPxC2Eo//xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxBJ/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIUExYf/aAAgBAQABPxBIzN8e/YXNinA9lgOD0YO5ghmoSw5Gvo9KOEdWBfJ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Trip Galway&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/88218/trip-galway.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/7237a/trip-galway.jpg 148w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/0cfdf/trip-galway.jpg 295w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/88218/trip-galway.jpg 590w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/77d57/trip-galway.jpg 885w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/5a917/trip-galway.jpg 1180w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/fd7f0/trip-galway.jpg 2576w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/669ac/trip-galway2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.69684721099435%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD40lEQVQ4yx2TSW9aVwBGnw3YPPwMj+HBY34MD4wxZjI2NgZPARs3dj3FTrBTmkGJYmJVSSMlbQapVZppUUWJuuiiqbKtVHXXVfsDqi667J/ofzi9yeJu7uLTOd/9rlRIeylNBGlUkswW0xTMCF6PinPcTTiSxasFGVcUgpoP15idyViEOxv7vN66zfvOCx7UrrE8VeW0e8wnuQWkiK5gxjXqJZOFygS1qQyhUJRyocm797+ze3Ad2aGyWChTjKcoppLc+fSAb3b73G1c4HJuk052nv7SHguxKpLdYcWjjuLzyGQSQaYFYTqqM5sr8uDsK5r1FUGaYmOmzkzapGKmuLG5xcOjHsf1Ja4srvP48JBBe4dls46ke+0sTsXZLCWZCPuI6yqllM60YRDxBAh7ffh9fj5rd1gq5Cik4pzt7fPw5ISdWpW/3nzLv+9ecn2jznw2g3TraINLqzUG2ytUUhE01U49EyCfSBAJhDD8IjxssN9sMhEVBuk4dy8d8cXhPuuVPG+uHjBYn+d6p87ObB7p0dEar/pdBrurTCeDdKdNykmdvBGmlk2T0DXifh9mWCepeykafrq1Mr3OGtWMweVmhdO1Ofprdc7PFZCe9bd43Nvk5lqRz5cqvDjeFl2F8LtlYn4VM+RjLhMjqakkfU7ubbTo1UusVqfRfSqFqJejRp7dxTyNfATp7a0LnJ1foDUR4t76Ak/3uqxMJtDcDkKaQqecZbC6SG8uJ4JD3DnX4OZKnULaENNyYLdJlAwv1axG0O9EutjK0ymmhI6Lwbk5Ls9OkQyqZGIaT046fHdzm/5ykz+eXuSnB4c0hGbR0PG6xwkHRRWRIFFBOmK3IIudSmZAYbOao1GcYErMJiv6C3od3BfUv1xtcbJYpF1O8s+7M77vrZAX1JLNgi4q8IugmakcmZTBkFVi3OlAUsdGaeUMJqM+IgI5qbtpiC0OVku8vTTPk94Oz0XQ36/ucXthmpBiw+UaJxbSUETAh+NyjTGm2AmLFUjK2AipgIuAS8atjGCKHbZEBTGfzI32LPcP1/n59JhXvfNc6zbp1Ao0Jw00j/JxFZWswbBtGI+g1cN+JLdbQZZHsFmHcYoe4pqDWkbD5xgm4ZBIyhLL6QBtM8Bvz7/mzx+e8WV7hh/FY/7361tenx5h+aArKGVhK3m8inCXsVqGUMU3DCgWEqqValihGVepR50clGP0ZzNsR11cyQXotYo8Ou7SW6syY4ZwCjPrqJVh65Ag9DhwOEaQhqSPF7JsEeo2Im47xaCDUsDOUlJlpxihbbhZijvRxm0YqkTeb8MtW7HbbciiQ+uohf8BgBvVmowaZ8QAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Trip Galway 2&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/799d3/trip-galway2.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/00d96/trip-galway2.png 148w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/0b23c/trip-galway2.png 295w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/799d3/trip-galway2.png 590w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/2a3d6/trip-galway2.png 885w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/ae92f/trip-galway2.png 1180w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/669ac/trip-galway2.png 2474w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/669ac/trip-galway3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.93936944219887%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADzUlEQVQ4yx2Uy28bVRSHvQLsOH7P2+N52B7P2IljJ3biJnWa1HacpE2aEkJJQ0mgtAhapFSAVFqJdlMqISFVolKRitiAygIJFcQaWCLYsWHFFom/4uO0i6tzNffMd37ncW/MK0zg5CdQMgmUbAI9N4Gu5UlMJIgn4iSerXicVDKBmkthKlmKWo5aSaETWjR9hZqZZlzx6ek6sbKaxFeSaFkBCdiUvavnqek5immByMpnJqmXClxZb7M3mKFcLBA6AnJUrJz4iwA7nyaTeIFYTZ8kMFLYalp+jKMLcE6cb55ucu/oHDv9FmUrx8G0y5NXT/FyN8DX0tR9lYpdoJidpCDZqGLTiZeIhWaKZyqVbJKl6ZCKo9N1Ve6MZ3lwfMTW6oIEKPB4fYZ3BdYS5ec6dRbqHg3PYDRbEyFpKVWKyfiLxCI7R8UtYhoKr60tS0onCFyTWd+i6+ssNqrMuRrXFkMG7TqhmuPDnSFXt1ZZn2/w8cEG7ZpDOhknl0qKQt9k1J/n5tUDDraGTJVt3j434uKgT8XSGc/PYGTTLDciDiVgp+w9B48Wu1Rdnxv7Q061q9K8JJOSeiyoOBwf7fLXdw/5+u4xoV1ib+0k7ShEUQwU1ULL5RnMzfHe0T6jbhdLvuXVEtmCTUsCNesNTMsTf+lyqaixPV7ihy/usDvuU5KDSHfIZhTyeY2VTpdxp8W43eJw+wyXNoZMRw2BORTtCiU3xLIDrGIZTS8RyxdU+r0Wbx1sU3YtHC+gbpRZm4q4Pl7l4f4ml3sztF2HwWzEZq/N4cYK++vLNKJI/OvYTiDwMp7jE9N0F13IhmETBT5lx6VoVJkOmiy3Ory/2ef67llCt8Qrq8tSvynmqyaXxz05b+AITDV8aazHG6MusaJdlfwrEiF8bk/2RwzWzlOphKiFvNQvg++6hDWX+WbEVMWlZGsMWzUuDXusLTRZkf1Gt87hsENMN8sCC54DG1GT+3du8+Y7N1g6vUU98ghsRW6FRSDLM1VKcivUTBI9M4GRm6RoFan6vkyHw0zgEasHEfmCxURKF6jL1Ytb3Lp+yK0b17i2v835nfM0p6dkNhUZExXPVun0TtCcXaBaa4jt0VpYQTE9kuk8sZ8ffcKTz2/z6O4HPL53kx+/+oy/f/sW/vuDP58+ZvfiFcySj6GKGiMjD0eWmd4plkbbDLb2OLP3Oqvjs3Tn2igyXrELMjJPv/yUf3//iX9+/Z5fvnnA/Y+ucPf4MoOlLqbtoxsGmpJCKySxzALjnT3OXjjk9OYuc4sDonqTM70GnrxC/wNi9Nm1s0H8tgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Trip Galway 3&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/799d3/trip-galway3.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/00d96/trip-galway3.png 148w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/0b23c/trip-galway3.png 295w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/799d3/trip-galway3.png 590w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/2a3d6/trip-galway3.png 885w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/ae92f/trip-galway3.png 1180w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/669ac/trip-galway3.png 2474w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;why-didnt-i-join-full-time-there&quot;&gt;&lt;a href=&quot;#why-didnt-i-join-full-time-there&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why didn’t I join full-time there?&lt;/h2&gt;
+&lt;p&gt;They proposed me to directly join full-time as soon as I’d graduate, but I refused. At first I refused by saying a joke like &lt;em&gt;“Ho no sorry, it’s too rainy for me”&lt;/em&gt; but they didn’t really understand the joke so they proposed me to increase my package. 💰 (that was a funny moment for me, because when I try to negotiate for real it just doesn’t work)&lt;br&gt;
+The reason of my rejection was because I wanted to join the US, I was stubborn, and the offer was for Dublin.&lt;br&gt;
+I did ask them if I could join IBM Austin but they were not super excited about the idea.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updates end-2019:&lt;/em&gt; But it’s okay, I made it to the US 🇺🇸!&lt;/p&gt;
+&lt;h3 id=&quot;more-resources&quot;&gt;&lt;a href=&quot;#more-resources&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;More resources&lt;/h3&gt;
+&lt;p&gt;Every week we had to write in turn an article in the &lt;a href=&quot;https://ibmextremeblueireland.wordpress.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;IBM Extreme Blue blog&lt;/a&gt;, it’s great I highly encourage to check it out! 🙃&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/7241a/ibm-dublin.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52.78450363196126%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADJElEQVQozx2OW08TBgCF+xeW6ebSZcLmNDLAMiSzdmTYFait3CrFSjqgFSeXjnsdHWXWgR1rV+iNS7EUeoGAEQErRUcnSjYKDsFonMnYJcte9rBsTy5xWfat8eHkS05OvhyBIfQPjcFnGELPaA4/xTj6iE/8D/jIu01jMobBZIbu0zS8RfPwfdp9m3QMr9EW/AXj3H90X/+X3hjYlsF5GwTm8E90hXcwhXboDHyPcyKGe+I67lAUbySGJ7LI4GSM4aklPKEFHP5ZrN5JxqPfMbv+O4GlJ4zMbeOaTuAIryLoH1tMjm7QN7KAxTmNb2aF8flvaDxvQV1VR4WuEXV1PeqaRko0NVzsH8MViXNv+xF//fEbiY0NorE44ekFRgJXEIgkpWRIVBw8ouItyUnc4ze4Ft9GVqbjhdQc9mQWsDsjn9dEBexKfZu2CwMErt5lY+shfz/9kyc/7LC6tkn05iozs7cQqPUmyqqMFFebUGqNDIYWWYhvJt/oeTMzB9F7CsSyE2RJlaRlHaHTYmdqfoXlO6v02vupOVuHRltNabmGItUpBNJiLdl5Sg7nysmWyOkdmGBueYvjJWpSDqSRkezzFCWkScsRvn6QL+xOvlpZZ+nWTTKz32G3MIVX9u57TmHK/qRQ9j7H8mXkJ6mQy+npc2F3Xaay6gNys0ScKlKiLFYil+ZRdEJJS3MLft8QwctDNNXpOKevor62hrozVTTU6hDYrN30fNqB9TMjvZYWRnx22ltruRL20nBOR//nZuKLk9gvmbBaPuaCqYkv7V1csjbhcZvxuMy4nWZ6kh7XQBcCV0iHxVtIl+sYRpuEseCHfD3v4OHdSFLWydUJB2sxP/MRJ6Oui0SnvNjsrWibJNQYc9CfF6PveJezHVo09WIEnrCabncmNk8hM+PtBAZMtBpqqaw8TXmFhjL1aRSlFchLKlCqKp8zt+Akh8RyUtMPseuNPby472WOFpTx0v5XETi85VybbODxbR+/JiL8nAjx47dBHt8J8CDuZz3m497SKInFEab9fbS1GJAeV1FYVIFMoUacV8gBUQZ709MRpgn5HweCG66ObT3aAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IBM Dublin&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/799d3/ibm-dublin.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/00d96/ibm-dublin.png 148w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/0b23c/ibm-dublin.png 295w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/799d3/ibm-dublin.png 590w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/2a3d6/ibm-dublin.png 885w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/ae92f/ibm-dublin.png 1180w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/7241a/ibm-dublin.png 2478w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/ibm-extreme-blue-2016-internship/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item></channel></rss>
