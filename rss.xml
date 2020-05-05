@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Apr 2020 06:39:17 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about? 🤔]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 May 2020 18:21:23 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about? 🤔]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
 &lt;p&gt;It all started with &lt;a href=&quot;https://www.skyrock.com/blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Skyblog&lt;/a&gt; when I was like 12, but unfortunately I might have deleted it a few years ago when I realized what kind of content I was posting. 😂 Now I do regret having deleted it…&lt;br&gt;
 But I can tell you it was random stuff, from ideas to describing an afternoon spent with friends.&lt;/p&gt;
 &lt;p&gt;After that, I learned HTML/CSS, built a few websites kinda useless.&lt;br&gt;
@@ -9,7 +9,7 @@ I use this Google Drive folder to write down future ideas, but also to keep memo
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/a6c40/drive-projects.png&quot;
+    href=&quot;https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/6297e/drive-projects.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -21,15 +21,15 @@ I use this Google Drive folder to write down future ideas, but also to keep memo
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 47.94520547945205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABM0lEQVQoz31SC47FIAjs/Y+6bbVaP7W2sgxKX/OyWRJDBBmGwWlZVkopkbWW7vum1trj3+fJfcX0DoOfjlLGhfhBT6i11+P/DMCFceCnebVkNk8+JCq1kfORtm2jnDMpFpquxsgk3ns6z5NqrRILIdB1XXSBLQABtPNJuVC9GoXI9z3QcRxPIbo758Urk5PjiOHNRwIeGWwMd8rcHQawdTUUYxQ28JnBf+ZZ7gCDlXJybJFJ7sFOGIIyznF0LeNg+DawcM4Ndp0NYhvHUIu4LokBo7CADgqIUfCwM2pSYIwVGXTbALR2E0l0gV1D34sBhGRgcO2McWQpDITv9QbEyMuQJrJcPdcAuJOODUAk3dBOu8uWuRhFuoDKE6UBBK9jT9ALYCl1NsKQF6UPcL4BleVf9gunKA6RpU0w8AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 47.972972972972975%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABM0lEQVQoz31SC47FIAjs/Y+6bbVaP7W2sgxKX/OyWRJDBBmGwWlZVkopkbWW7vum1trj3+fJfcX0DoOfjlLGhfhBT6i11+P/DMCFceCnebVkNk8+JCq1kfORtm2jnDMpFpquxsgk3ns6z5NqrRILIdB1XXSBLQABtPNJuVC9GoXI9z3QcRxPIbo758Urk5PjiOHNRwIeGWwMd8rcHQawdTUUYxQ28JnBf+ZZ7gCDlXJybJFJ7sFOGIIyznF0LeNg+DawcM4Ndp0NYhvHUIu4LokBo7CADgqIUfCwM2pSYIwVGXTbALR2E0l0gV1D34sBhGRgcO2McWQpDITv9QbEyMuQJrJcPdcAuJOODUAk3dBOu8uWuRhFuoDKE6UBBK9jT9ALYCl1NsKQF6UPcL4BleVf9gunKA6RpU0w8AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;My Google Drive project list&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/799d3/drive-projects.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/00d96/drive-projects.png 148w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/0b23c/drive-projects.png 295w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/799d3/drive-projects.png 590w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/2a3d6/drive-projects.png 885w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/ae92f/drive-projects.png 1180w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/a6c40/drive-projects.png 2044w&quot;
+        src=&quot;https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/fcda8/drive-projects.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/12f09/drive-projects.png 148w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/e4a3f/drive-projects.png 295w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/fcda8/drive-projects.png 590w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/efc66/drive-projects.png 885w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/c83ae/drive-projects.png 1180w,https://lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/6297e/drive-projects.png 2044w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -56,7 +56,7 @@ It would be confusing otherwise.&lt;/p&gt;
               </content:encoded></item><item><title><![CDATA[Day2Day, your task manager operating on Google Docs 🤓]]></title><description><![CDATA[Trust me you will feel so good after using it for two days!]]></description><link>https://lifegorithms.com/day2day/</link><guid isPermaLink="false">https://lifegorithms.com/day2day/</guid><pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/5fcd8/day2day.png&quot;
+    href=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/0244a/day2day.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -68,15 +68,15 @@ It would be confusing otherwise.&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 37.40275284260922%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAAA6ElEQVQoz42QyU7EMBBE8/8fw29w5cgFKVKQkoBnhnhfU3Q3Y0gkhLBU6vZSz2UPL9MV6v0NH5uGc05kjIU2RnqtNa63DRtVay1iSsg5o7WGSuKhbgYPjxuenl8x8CHnAx0mkGWghw8RgcTAGCNBssyD9En2j+K9Vrh6DCEmMXSVUnEcDLxcFK2X03rKhS748bmQ6FUElNsJ2pUJyOZlWaCUkjpN0zdw33dROviYwUm5nhIKMH8Z13XFPM/St/tfMajXDuxeTwkjzYfjc3vCWqvAOJ33/pTsT2D6DXhPyMBxHCVdh/0H+AmJ1SEA7C9vtgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 37.16216216216216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAAA6ElEQVQoz42QyU7EMBBE8/8fw29w5cgFKVKQkoBnhnhfU3Q3Y0gkhLBU6vZSz2UPL9MV6v0NH5uGc05kjIU2RnqtNa63DRtVay1iSsg5o7WGSuKhbgYPjxuenl8x8CHnAx0mkGWghw8RgcTAGCNBssyD9En2j+K9Vrh6DCEmMXSVUnEcDLxcFK2X03rKhS748bmQ6FUElNsJ2pUJyOZlWaCUkjpN0zdw33dROviYwUm5nhIKMH8Z13XFPM/St/tfMajXDuxeTwkjzYfjc3vCWqvAOJ33/pTsT2D6DXhPyMBxHCVdh/0H+AmJ1SEA7C9vtgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Day2Day&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/799d3/day2day.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/00d96/day2day.png 148w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/0b23c/day2day.png 295w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/799d3/day2day.png 590w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/2a3d6/day2day.png 885w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/ae92f/day2day.png 1180w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/5fcd8/day2day.png 3342w&quot;
+        src=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/fcda8/day2day.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/12f09/day2day.png 148w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/e4a3f/day2day.png 295w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/fcda8/day2day.png 590w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/efc66/day2day.png 885w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/c83ae/day2day.png 1180w,https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/0244a/day2day.png 3342w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -119,7 +119,7 @@ Simply go to the &lt;a href=&quot;https://github.com/papay0/Day2Day&quot; target
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/b6af8/f8-profile.png&quot;
+    href=&quot;https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/71b12/f8-profile.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -131,15 +131,15 @@ Simply go to the &lt;a href=&quot;https://github.com/papay0/Day2Day&quot; target
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 111.7737003058104%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 111.48648648648648%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/799d3/f8-profile.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/00d96/f8-profile.png 148w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/0b23c/f8-profile.png 295w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/799d3/f8-profile.png 590w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/2a3d6/f8-profile.png 885w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/ae92f/f8-profile.png 1180w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/b6af8/f8-profile.png 1308w&quot;
+        src=&quot;https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/fcda8/f8-profile.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/12f09/f8-profile.png 148w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/e4a3f/f8-profile.png 295w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/fcda8/f8-profile.png 590w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/efc66/f8-profile.png 885w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/c83ae/f8-profile.png 1180w,https://lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/71b12/f8-profile.png 1308w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -176,7 +176,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/27cda/f8-team.png&quot;
+    href=&quot;https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/064b2/f8-team.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -188,15 +188,15 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75.02668089647813%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEP0lEQVQ4yx2TeUzTZxzGuz8Wo5HJoVQQZEAt9MRiC3RcllIO5VCKGNCNKUIKuCFUtnFoscIATwQnqJ0wGaIgwpAKCHgCEVEJJkOXTJLFLNmRLGbZsiyb+ezn3uT945u8+TzP+zz5igYdjYx0NfPs4S2eP37I2DcDHK210Wwv4er5I7Qdq6G/u5euM00sPJ7F2d1B/9cXmbs/yV+v/uTbR1MMXmrlj1eveP3Pv4hmh9qZGbrAjLOd7x6MMj85wRVHMzMjnUzfuMjYQBcDl7sY6j7LQGcr3Y5WRgavc3uwh+mxYa51fcn380/4/defebHwFNGdzpMMOxroa7FxpekgNzpaGOhoY2roGgtTd3g0Mcpd5zD3nE4eTIxzb3iYuTvX+fHZDM9n7/FoeorfXr5g8ekMT+6PIVq828PjQQej7fWcO2zlk8IicjKzqbZ+RoOtEXvV50IEJzlWe4IvGk9x4lAdbQ11dJ0+Tr+jibt9ncyN9TM/McD8+FVELyd7mbvhYKqvhb7WGvK2Z5JnzqVkVyHllkL2WyyUFxdSXVqGbb+VA9YyQaycA2Xl1Aiz3bqPy821TF918OwN8If73VSV7MGcYmRPdpoA20yYUo1GriZBG0qkQk54UBAGzXoSdBtI0UdgNsaxLTmZmtJC2uor6T3byOJkPz/NOhEtjLaTnprCOpkKuTIEmVzJKk8f1gXIqTMnEyGPYsnyID4VBN83mHhriTeurqtI0YbwUVYa5tREstIT2ZuXw8LoV4hmeo6TkhRPeHjE/8CNYVqMwuO1fiEUbIxBFpTPSp8sqkyRFCUlEaOL4O3lHhQZwrFuiiYwSIZUphSuSuihAdEvi/PcGu6n9VARGVuTyY7Vc3BLnADXkGoyERoawSqxL2lhIWikEhSBAbh7eiP3W8u2WB2aUC3REVosOSncvFCL6PXrv3lz2pvrSE80oJEFsztej1QajNEQhyxYwbLlK8jL3k5aUgJLXdxwc3NHvNqbeKOJ2OgY/Nb6UrFbALbbhAwfOLFai9mdbaYiJ501Pr7U781ls8lAQe5OAvwlSCRStgqxGKPeE+YAgoXCpFIZGnUIKqUSF1cPtKpgTh2wILokbIVasP3xru3cbLNTW7qHzNRNROnDaDliQ6VQsF6tpsVewY6MVMSeYoxGA+mCQHVJAV5rfHFzX8l6jYIjtlJEpfuK0cUkUmnZye3zhxm5cJTURCNB6yT4C248VopxeceNg8WCa0Mk0kB/ygq38GFmMg2VVlzdPPDy8iJcq6bWmic4bK1mb34WHY2VPO07Q9/pQ1xsbmTHplj0KgmRqkBMURtQyIQ2JRKiI/XUVOXzrp8vS5e54O3ljVgsJlanJCtJh2i86QNa9pmEr+Yzfs7OyQoLO9IMlJv1FCXIyYtXUpMbQ8aWDJQhOuJiorHviqUgTcoKV3dWe3rg7+cjLII/xRmR/AehZKWNmed9xgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEP0lEQVQ4yx2TeUzTZxzGuz8Wo5HJoVQQZEAt9MRiC3RcllIO5VCKGNCNKUIKuCFUtnFoscIATwQnqJ0wGaIgwpAKCHgCEVEJJkOXTJLFLNmRLGbZsiyb+ezn3uT945u8+TzP+zz5igYdjYx0NfPs4S2eP37I2DcDHK210Wwv4er5I7Qdq6G/u5euM00sPJ7F2d1B/9cXmbs/yV+v/uTbR1MMXmrlj1eveP3Pv4hmh9qZGbrAjLOd7x6MMj85wRVHMzMjnUzfuMjYQBcDl7sY6j7LQGcr3Y5WRgavc3uwh+mxYa51fcn380/4/defebHwFNGdzpMMOxroa7FxpekgNzpaGOhoY2roGgtTd3g0Mcpd5zD3nE4eTIxzb3iYuTvX+fHZDM9n7/FoeorfXr5g8ekMT+6PIVq828PjQQej7fWcO2zlk8IicjKzqbZ+RoOtEXvV50IEJzlWe4IvGk9x4lAdbQ11dJ0+Tr+jibt9ncyN9TM/McD8+FVELyd7mbvhYKqvhb7WGvK2Z5JnzqVkVyHllkL2WyyUFxdSXVqGbb+VA9YyQaycA2Xl1Aiz3bqPy821TF918OwN8If73VSV7MGcYmRPdpoA20yYUo1GriZBG0qkQk54UBAGzXoSdBtI0UdgNsaxLTmZmtJC2uor6T3byOJkPz/NOhEtjLaTnprCOpkKuTIEmVzJKk8f1gXIqTMnEyGPYsnyID4VBN83mHhriTeurqtI0YbwUVYa5tREstIT2ZuXw8LoV4hmeo6TkhRPeHjE/8CNYVqMwuO1fiEUbIxBFpTPSp8sqkyRFCUlEaOL4O3lHhQZwrFuiiYwSIZUphSuSuihAdEvi/PcGu6n9VARGVuTyY7Vc3BLnADXkGoyERoawSqxL2lhIWikEhSBAbh7eiP3W8u2WB2aUC3REVosOSncvFCL6PXrv3lz2pvrSE80oJEFsztej1QajNEQhyxYwbLlK8jL3k5aUgJLXdxwc3NHvNqbeKOJ2OgY/Nb6UrFbALbbhAwfOLFai9mdbaYiJ501Pr7U781ls8lAQe5OAvwlSCRStgqxGKPeE+YAgoXCpFIZGnUIKqUSF1cPtKpgTh2wILokbIVasP3xru3cbLNTW7qHzNRNROnDaDliQ6VQsF6tpsVewY6MVMSeYoxGA+mCQHVJAV5rfHFzX8l6jYIjtlJEpfuK0cUkUmnZye3zhxm5cJTURCNB6yT4C248VopxeceNg8WCa0Mk0kB/ygq38GFmMg2VVlzdPPDy8iJcq6bWmic4bK1mb34WHY2VPO07Q9/pQ1xsbmTHplj0KgmRqkBMURtQyIQ2JRKiI/XUVOXzrp8vS5e54O3ljVgsJlanJCtJh2i86QNa9pmEr+Yzfs7OyQoLO9IMlJv1FCXIyYtXUpMbQ8aWDJQhOuJiorHviqUgTcoKV3dWe3rg7+cjLII/xRmR/AehZKWNmed9xgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/799d3/f8-team.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/00d96/f8-team.png 148w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/0b23c/f8-team.png 295w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/799d3/f8-team.png 590w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/2a3d6/f8-team.png 885w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/ae92f/f8-team.png 1180w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/27cda/f8-team.png 1874w&quot;
+        src=&quot;https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/fcda8/f8-team.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/12f09/f8-team.png 148w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/e4a3f/f8-team.png 295w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/fcda8/f8-team.png 590w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/efc66/f8-team.png 885w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/c83ae/f8-team.png 1180w,https://lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/064b2/f8-team.png 1874w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -214,7 +214,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/3405a/f8-hackathon-day.png&quot;
+    href=&quot;https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/da952/f8-hackathon-day.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -226,15 +226,15 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.78632478632478%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEQ0lEQVQ4yw2Sa1CUBRSGv19NzXRxzNFpKKMMiBwurQiIwLLIwiIXQSGuCYQisAgshKBsXsJL5CQRk6MSusIKurAsGxdZSAEXuYiskSAXZbmIJg2laUxNP3r6fpx5z5wf73nmPUd48dsSg90d/GqdZHF6kgnLALd7m7GO9TEzdoPpsSGGulu51VlPt1HDPUsf1tFeFmdGuDtoYrCnjYHrbSxMTzDQ04kw+2CWhbkFekytotF1FmamuD9qZumhhX+Wf2f56bRoeos/lxaYHOnl8cwY/4rz50vzzI73MnVvmDkRpMfUxsToGMLyX8vwHzyeX6D9x0ZaGrR0tul5Mnebp4uj/PHkLiNDXczfv8Mtc5uov/D3s0c8fGDhyfx9xkcsPBj9GevkBM+fvUB4/GgJ6/iUSDnP/Mwc+ksXMV/vZGjgJneG+7nRYaC+tpqOZh1NDVe4ca2DqfFR7lgszE5N0mo0MDwwyJx1jnnrLEKPQUf7xSpaNJV06Kq5WleFQVNB/cVKmnW1dLU00VhnQFdzhboLtRhqtVxr1mNq0nPNqKdb7LuMOlprqvhJdxmh+lghi+IRzA1VtF8+i7lRg1FTxoGcdHYnp7E//wv25xWjLjhIYe4BilRqUQtR5+Wir/qObr0Ws+ESTXUaRq/qECKkUs4fzMd8qRyz7jRd9efIy/qMbSEKPnaWsM7OjQ/st2BnJ8PewR+Hj6Rs3OBF7PbtqLJ2Yaz+nn6DhtYLp+jVnkbYlx5PanQ4pbmpdFZ/g+7MUezXO/O+gxNrbe1ZabOR1222s8JGIVYQb9j48Y6tA3YfurBmrT1FOXsYbKzEUHGMguRYBGWcL7lJcqK2+pKdFEpNWQG74kNRyHx5721bXl4p56UVibz6ph2vrfbnlVWxrFn1FgHePiJlMBUlKsrUGSSEyUiKkiMEeTki93TES+JIWmIIJYVpyLw9CfDZjCIsGom3Ejevr7CVpLHaLhMHiZLwmBTC/L3x9tjAudIClKmxuDo74eHqiBATGYaPpzvuLo7sy8nmapuJbVsDSf4kAi9vKb4+fmTmxBEaKiMkSEZMbDDSgAA+TYxC7u9H6ZH9qIv3UnI8H1WmEqEkfyfJwVLSldtoMO1Erz1MUuwO/DZK8PJy52RaIsdjIsgQjVLCfclMjSRUIacwOw1/H08igregSk/gy6Ml3OxrRziRK+OoKo8W07dUNEWK2+IID9lKRvoe8WWy0ZQepjA8nIRAKXlR/nyeFs+RojzOnDxMYnQk0XJPEnbI0WoPMT57AuGQOp+EhEjSVT7szfJnT4aCkEA3GitPod6XjyJQztp19mx2dqU8JYwdm9w4e6KQqf5mho2nqVHHoPDzoOp8Mef1cQhzllaKc1Ko/HovbZoiouI3UZDkSo1KwgYnOzzWv4u7GHhxVBDarCB+2O1BrdKFvvIY+stCUaf44OriRMgWN46pk/gfBwv/bi/fIkcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEQ0lEQVQ4yw2Sa1CUBRSGv19NzXRxzNFpKKMMiBwurQiIwLLIwiIXQSGuCYQisAgshKBsXsJL5CQRk6MSusIKurAsGxdZSAEXuYiskSAXZbmIJg2laUxNP3r6fpx5z5wf73nmPUd48dsSg90d/GqdZHF6kgnLALd7m7GO9TEzdoPpsSGGulu51VlPt1HDPUsf1tFeFmdGuDtoYrCnjYHrbSxMTzDQ04kw+2CWhbkFekytotF1FmamuD9qZumhhX+Wf2f56bRoeos/lxaYHOnl8cwY/4rz50vzzI73MnVvmDkRpMfUxsToGMLyX8vwHzyeX6D9x0ZaGrR0tul5Mnebp4uj/PHkLiNDXczfv8Mtc5uov/D3s0c8fGDhyfx9xkcsPBj9GevkBM+fvUB4/GgJ6/iUSDnP/Mwc+ksXMV/vZGjgJneG+7nRYaC+tpqOZh1NDVe4ca2DqfFR7lgszE5N0mo0MDwwyJx1jnnrLEKPQUf7xSpaNJV06Kq5WleFQVNB/cVKmnW1dLU00VhnQFdzhboLtRhqtVxr1mNq0nPNqKdb7LuMOlprqvhJdxmh+lghi+IRzA1VtF8+i7lRg1FTxoGcdHYnp7E//wv25xWjLjhIYe4BilRqUQtR5+Wir/qObr0Ws+ESTXUaRq/qECKkUs4fzMd8qRyz7jRd9efIy/qMbSEKPnaWsM7OjQ/st2BnJ8PewR+Hj6Rs3OBF7PbtqLJ2Yaz+nn6DhtYLp+jVnkbYlx5PanQ4pbmpdFZ/g+7MUezXO/O+gxNrbe1ZabOR1222s8JGIVYQb9j48Y6tA3YfurBmrT1FOXsYbKzEUHGMguRYBGWcL7lJcqK2+pKdFEpNWQG74kNRyHx5721bXl4p56UVibz6ph2vrfbnlVWxrFn1FgHePiJlMBUlKsrUGSSEyUiKkiMEeTki93TES+JIWmIIJYVpyLw9CfDZjCIsGom3Ejevr7CVpLHaLhMHiZLwmBTC/L3x9tjAudIClKmxuDo74eHqiBATGYaPpzvuLo7sy8nmapuJbVsDSf4kAi9vKb4+fmTmxBEaKiMkSEZMbDDSgAA+TYxC7u9H6ZH9qIv3UnI8H1WmEqEkfyfJwVLSldtoMO1Erz1MUuwO/DZK8PJy52RaIsdjIsgQjVLCfclMjSRUIacwOw1/H08igregSk/gy6Ml3OxrRziRK+OoKo8W07dUNEWK2+IID9lKRvoe8WWy0ZQepjA8nIRAKXlR/nyeFs+RojzOnDxMYnQk0XJPEnbI0WoPMT57AuGQOp+EhEjSVT7szfJnT4aCkEA3GitPod6XjyJQztp19mx2dqU8JYwdm9w4e6KQqf5mho2nqVHHoPDzoOp8Mef1cQhzllaKc1Ko/HovbZoiouI3UZDkSo1KwgYnOzzWv4u7GHhxVBDarCB+2O1BrdKFvvIY+stCUaf44OriRMgWN46pk/gfBwv/bi/fIkcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/799d3/f8-hackathon-day.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/00d96/f8-hackathon-day.png 148w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/0b23c/f8-hackathon-day.png 295w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/799d3/f8-hackathon-day.png 590w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/2a3d6/f8-hackathon-day.png 885w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/ae92f/f8-hackathon-day.png 1180w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/3405a/f8-hackathon-day.png 1872w&quot;
+        src=&quot;https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/fcda8/f8-hackathon-day.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/12f09/f8-hackathon-day.png 148w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/e4a3f/f8-hackathon-day.png 295w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/fcda8/f8-hackathon-day.png 590w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/efc66/f8-hackathon-day.png 885w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/c83ae/f8-hackathon-day.png 1180w,https://lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/da952/f8-hackathon-day.png 1872w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -245,7 +245,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/27cda/f8-hackathon-night.png&quot;
+    href=&quot;https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/064b2/f8-hackathon-night.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -257,15 +257,15 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.70651013874067%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEEUlEQVQ4yyWTa1DUZRTGz3+5LQvsAnsDdtmLILosN0EIcJlVcVjkYoCsqKCwyHgBMnXFSTTLC6JyyajGHJou1mQ1amU1Yn5IJ62RxrLJpmZsRodspqZmrKYPzfTh19v04Zn3vPOe85zznvMcMS96AltwHGfZJvKX9BMIDbC2cxejx6Y4evxlokNHiPRup2VVmLaWMD0bu9k7NMjIwd1cOH+W/fuGCdZvI6/lTTJqRxHtwq/Iqd+J77lDanAaT83TlAc2MjrxFvufHKOn93HC6wZYtizEsqUrCLevZ3t/L9HHNjF+4jit7RFySzqxLZ/E0P4uIt3vEbPpKnFTcyTs+gZrzRiFNUM0DZxn9OwNLs3McGhknO71ETZ0dLFnT5Qz0wd49sQuOtZ2UVodJqs4gqHnCtrpOUU49h0ydAcZvoUWvUdc5C7pdeewdHxM6ZlZTk5fZsfO5whGxlgemWD34AFeGD/M1p4tlAcHyaw6ib5rlriRH9A6P1GEzsNI80XkkZeQumvIM/8g4xA3fJ/sqdvsuPmQ7vcfYJ/5C9crc/R/8BUDH94lsP0c1rY3iI3eRzartk3/gtRfVYS+I0j6KnTGJWhWdeb0ozVOIuHXkYO3SOu7jGX4CrodnxLbex3j8/cxHPoNic4iS0+hNRxF5+lDl9WEZgshelcvusyIIm1GTHVI2kpi0hWsjeicm5GsNSqgB82zES13ACk+ifiHFEEHsfaQ8m1AzI0qtgmxdiJ5/ga8vmZcC1Zjz2nH6FlDguNRhRYM7vUkZbeS5FG2s5kkRwPJbnXPqMXgCKHPXIle+aapmKy8dbj9G5AMi5f5rjwcmX6FQoxpBSSn+nA6FmEyF5Fu9uPOLsFsU7AXY7UVYbIUkpzux+ksJs2cT5qlCK+zgIVeH2Iw+tCb5hGfYsdgtLGwpJqconoKytrIzltBeXU7CwqWYMooIsnqo6Q6REGFevNWUVbVhiWrRBH7STEXYndUqKFo2SQamjEmTJCoTVJTtw7vwgBeTyV1gSDN9U24c/JJtfuxu8uoDAYIBEOUFlbidpdisxeSl1NKpieXefPL1QxkFpv8jVkeYpQv0eQplcWPxVxLV2MrHpf6lqOSRFMBZoufBH02Rls+5twWkl0NxNiWIouGSWh9m8SKPf8RzpEq35IiV0mWi6rKF4kRJYGYCrRY5Ry3GElcgRhbEe8wMj+KlClZdf+I7ATZ9jOySq1c522k756attxSld1UZJcUPlL2DZXga1K0GUza58RrfapiC1rmCBK8jn71Z+T0XsMSfgddWC1E3/fIlp+UuFWCrQ9UYvkCg7xGvBwgTsEo11ULwCJ/KPyJQXtV6UtVmFxLrKsP+/LTLF49hS+0F2PVIFK1T2lv6/9azOjgX08NIu3EhILeAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEEUlEQVQ4yyWTa1DUZRTGz3+5LQvsAnsDdtmLILosN0EIcJlVcVjkYoCsqKCwyHgBMnXFSTTLC6JyyajGHJou1mQ1amU1Yn5IJ62RxrLJpmZsRodspqZmrKYPzfTh19v04Zn3vPOe85zznvMcMS96AltwHGfZJvKX9BMIDbC2cxejx6Y4evxlokNHiPRup2VVmLaWMD0bu9k7NMjIwd1cOH+W/fuGCdZvI6/lTTJqRxHtwq/Iqd+J77lDanAaT83TlAc2MjrxFvufHKOn93HC6wZYtizEsqUrCLevZ3t/L9HHNjF+4jit7RFySzqxLZ/E0P4uIt3vEbPpKnFTcyTs+gZrzRiFNUM0DZxn9OwNLs3McGhknO71ETZ0dLFnT5Qz0wd49sQuOtZ2UVodJqs4gqHnCtrpOUU49h0ydAcZvoUWvUdc5C7pdeewdHxM6ZlZTk5fZsfO5whGxlgemWD34AFeGD/M1p4tlAcHyaw6ib5rlriRH9A6P1GEzsNI80XkkZeQumvIM/8g4xA3fJ/sqdvsuPmQ7vcfYJ/5C9crc/R/8BUDH94lsP0c1rY3iI3eRzartk3/gtRfVYS+I0j6KnTGJWhWdeb0ozVOIuHXkYO3SOu7jGX4CrodnxLbex3j8/cxHPoNic4iS0+hNRxF5+lDl9WEZgshelcvusyIIm1GTHVI2kpi0hWsjeicm5GsNSqgB82zES13ACk+ifiHFEEHsfaQ8m1AzI0qtgmxdiJ5/ga8vmZcC1Zjz2nH6FlDguNRhRYM7vUkZbeS5FG2s5kkRwPJbnXPqMXgCKHPXIle+aapmKy8dbj9G5AMi5f5rjwcmX6FQoxpBSSn+nA6FmEyF5Fu9uPOLsFsU7AXY7UVYbIUkpzux+ksJs2cT5qlCK+zgIVeH2Iw+tCb5hGfYsdgtLGwpJqconoKytrIzltBeXU7CwqWYMooIsnqo6Q6REGFevNWUVbVhiWrRBH7STEXYndUqKFo2SQamjEmTJCoTVJTtw7vwgBeTyV1gSDN9U24c/JJtfuxu8uoDAYIBEOUFlbidpdisxeSl1NKpieXefPL1QxkFpv8jVkeYpQv0eQplcWPxVxLV2MrHpf6lqOSRFMBZoufBH02Rls+5twWkl0NxNiWIouGSWh9m8SKPf8RzpEq35IiV0mWi6rKF4kRJYGYCrRY5Ry3GElcgRhbEe8wMj+KlClZdf+I7ATZ9jOySq1c522k756attxSld1UZJcUPlL2DZXga1K0GUza58RrfapiC1rmCBK8jn71Z+T0XsMSfgddWC1E3/fIlp+UuFWCrQ9UYvkCg7xGvBwgTsEo11ULwCJ/KPyJQXtV6UtVmFxLrKsP+/LTLF49hS+0F2PVIFK1T2lv6/9azOjgX08NIu3EhILeAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/799d3/f8-hackathon-night.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/00d96/f8-hackathon-night.png 148w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/0b23c/f8-hackathon-night.png 295w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/799d3/f8-hackathon-night.png 590w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/2a3d6/f8-hackathon-night.png 885w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/ae92f/f8-hackathon-night.png 1180w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/27cda/f8-hackathon-night.png 1874w&quot;
+        src=&quot;https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/fcda8/f8-hackathon-night.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/12f09/f8-hackathon-night.png 148w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/e4a3f/f8-hackathon-night.png 295w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/fcda8/f8-hackathon-night.png 590w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/efc66/f8-hackathon-night.png 885w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/c83ae/f8-hackathon-night.png 1180w,https://lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/064b2/f8-hackathon-night.png 1874w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -277,7 +277,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/3405a/f8-keynote.png&quot;
+    href=&quot;https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/da952/f8-keynote.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -289,15 +289,15 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.8931623931624%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADdUlEQVQ4yyVUS28bVRid8dx533mPx3Y8rpNxnNZxHsRxbCuprSSmRGmhj0iVKKhCiEoskBBFCLqBFsEClkhFKhWCLWLRHSuW/APEkgX/5HBmsji6D88995zzfdeKJkwI/RK6YUMTFucW5y5HG8KwYJoOkjjG9qCPLE24tmHZLgyOak1A51nLcuA4LpTysGGG/MjlpgvX9aHpJalDuBWxZXtIkjrSNIPnBbBJJr0Qnh9UJJ7nIQwCnnWgqDUduhlBUXRCgWlLEvi8xIMj63CJIGwg7xSIkyaJIgRBzL2YAmyYFh1YJp0J1DStVOjAD7uYD2d47/UL3Fu8SVUODEvyIq8iL1FPS/IAUpaq5KVK6fG7Mh4dgoRCpyhNuPji02/x6tff8O/f/+CnH15A00wqdBHHDZJEnEvabVJhxrmD9aKLN5YzRMy1tCx0oyITuigtW/jos+d49uXP+P7pL3j0/hP4fkrrIepZzlxiuF6CerPD9QrXIcb7O7h1Nud3Phy3LI4Bg6R6SdjJCyTdKQ/sYaOzh+7qJhrNHJvrQ5xMD3F2fIq3lufY7m+hxf2Ehclb7SpDm9ZdN6J9j5Z15kjLk8EQV7K0KojBPIush+3ePr579BVePX2B//74E3+9/B0fv/M5Hi7u4+7KGXrhOkxardqE8aiEaVBhSdja/wZRfhtZ8S56J89wcuc5Fuc/4uDGS4zHH+Di9tdYnnyCvD/H4eJDbG0scTydor96BaqiYTTo4dZiu8pdiBqU9rW3EXeWxE2kg8eQG08gi8eXWLmHqPsAMjtFmE1J+gAH07sYj44x2r8OL2njaDLB4WhM2w3EUQKlpqqUasBmLzWaWzDlFHYwg4zncPxdhPUZ3OAqTLdAEK2zCF04wRqK0RE6wxGaawPE9TX2pM/XlJZVZnfXJHPw0GSWjfYENXsMzeiiZuTQzA6EVRAd7iWoiQC6Xee6xdwdPj0Jwwg5N7AzWLtsmxKasPmDQBqzcvGIYXd5SQpVb8OQfRLn/JhFUPkkzZiEKV8GhVBQ2fhlgc6PD0isMkhVqyAMPjlm4QS7sPwJx9L6KVavXiBtTaBbbb6ejGNGtWVnmBVsJ8Z4dxMPL25C0R3erhn8Q5BwohsVbH/OzIaw5TX48R6kP4Drv8ZMx5DhIWQ0ofoIuzvXURRHSFmwRnPGHt3D/10kjHO8ie9zAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADdUlEQVQ4yyVUS28bVRid8dx533mPx3Y8rpNxnNZxHsRxbCuprSSmRGmhj0iVKKhCiEoskBBFCLqBFsEClkhFKhWCLWLRHSuW/APEkgX/5HBmsji6D88995zzfdeKJkwI/RK6YUMTFucW5y5HG8KwYJoOkjjG9qCPLE24tmHZLgyOak1A51nLcuA4LpTysGGG/MjlpgvX9aHpJalDuBWxZXtIkjrSNIPnBbBJJr0Qnh9UJJ7nIQwCnnWgqDUduhlBUXRCgWlLEvi8xIMj63CJIGwg7xSIkyaJIgRBzL2YAmyYFh1YJp0J1DStVOjAD7uYD2d47/UL3Fu8SVUODEvyIq8iL1FPS/IAUpaq5KVK6fG7Mh4dgoRCpyhNuPji02/x6tff8O/f/+CnH15A00wqdBHHDZJEnEvabVJhxrmD9aKLN5YzRMy1tCx0oyITuigtW/jos+d49uXP+P7pL3j0/hP4fkrrIepZzlxiuF6CerPD9QrXIcb7O7h1Nud3Phy3LI4Bg6R6SdjJCyTdKQ/sYaOzh+7qJhrNHJvrQ5xMD3F2fIq3lufY7m+hxf2Ehclb7SpDm9ZdN6J9j5Z15kjLk8EQV7K0KojBPIush+3ePr579BVePX2B//74E3+9/B0fv/M5Hi7u4+7KGXrhOkxardqE8aiEaVBhSdja/wZRfhtZ8S56J89wcuc5Fuc/4uDGS4zHH+Di9tdYnnyCvD/H4eJDbG0scTydor96BaqiYTTo4dZiu8pdiBqU9rW3EXeWxE2kg8eQG08gi8eXWLmHqPsAMjtFmE1J+gAH07sYj44x2r8OL2njaDLB4WhM2w3EUQKlpqqUasBmLzWaWzDlFHYwg4zncPxdhPUZ3OAqTLdAEK2zCF04wRqK0RE6wxGaawPE9TX2pM/XlJZVZnfXJHPw0GSWjfYENXsMzeiiZuTQzA6EVRAd7iWoiQC6Xee6xdwdPj0Jwwg5N7AzWLtsmxKasPmDQBqzcvGIYXd5SQpVb8OQfRLn/JhFUPkkzZiEKV8GhVBQ2fhlgc6PD0isMkhVqyAMPjlm4QS7sPwJx9L6KVavXiBtTaBbbb6ejGNGtWVnmBVsJ8Z4dxMPL25C0R3erhn8Q5BwohsVbH/OzIaw5TX48R6kP4Drv8ZMx5DhIWQ0ofoIuzvXURRHSFmwRnPGHt3D/10kjHO8ie9zAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/799d3/f8-keynote.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/00d96/f8-keynote.png 148w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/0b23c/f8-keynote.png 295w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/799d3/f8-keynote.png 590w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/2a3d6/f8-keynote.png 885w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/ae92f/f8-keynote.png 1180w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/3405a/f8-keynote.png 1872w&quot;
+        src=&quot;https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/fcda8/f8-keynote.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/12f09/f8-keynote.png 148w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/e4a3f/f8-keynote.png 295w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/fcda8/f8-keynote.png 590w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/efc66/f8-keynote.png 885w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/c83ae/f8-keynote.png 1180w,https://lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/da952/f8-keynote.png 1872w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -340,7 +340,7 @@ We also saw him for the opening keynote.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/3ae72/f8-mark.png&quot;
+    href=&quot;https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/ec5f6/f8-mark.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -352,15 +352,15 @@ We also saw him for the opening keynote.&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.622030237581%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEC0lEQVQ4yx2U2VOTZxSHv16oIKksCSQgBEiAQCQhQBYSSMhSsgcSCGETEklICGvYFQWHKiIyinbsdEY7Tu2MxWV0pp3a7bLT695413/m6de+M+/t8/7Oc95zhIJLzZO8j92kn6MJIy+XvNxOe9hJu/hwN8izZQN7CSN3JnWc3dDxYsvAwbSJN3vNvNhRk/Wr+P66nB/Em7KVIHy1v8NBZoyIzUqvXs/aaAiXXkvC3MHWoJXC9AjvDnIsxcNsJAIsRJzcTkVYngqRj9hYChh4shnn5oyHwkg/QjYzz2kqzEnITGtDIx2dRvL9nfw0O8hGv5ntzU2eb6YZd5rYyQQxdnVQyEwzPRPmKDfJ8Y1VxiJRxge+INTdgaCQy8mH+nmcHiQZ6MFjbGfcYePagIPjxTUO8otk1wtMio/kEnbyq2k62xpZHLLSLga4m3fy/tTNo2Mr35yuI6gb65gdMLE/7mFVLOFhapCgw0Gv3YXX0kNuvkC0sIVaUYUgfIbdrOXoZg6fWUeDUsmDBRPHh1rO3q7z5x9/IfRY7XTXV3GlsgSPupqXy9fIRHw4jF24DVqGvW68gTBJczN5Rxu5VILDky8xGzt5sJvj08dTUjEHT7eX+fHsNwR76Bo6VS0pYzPvs8P8ur9CoEuHs0uLpqmNmioFFmM3S1ej3Bp34RGbFbao2Uv72UoOcW8+SrCzkWWPlsOdWwhOf4IP2xn+OVnhzcYMc0En5WWllJWXodFcobioGGVdLTZRg6peSdjWLZYrQs3t1JZJqCuX4DNq8HbWY2ipR0gv3uNo4yZ3kkkyE7PEYzFa1I1crpKRSvgpuViMTCpF19ZEq1rF8e0v2S+s0lqroLT4PJKic1RILmDR1uPpakLYvfOM/OZDfEPzuP0pTo8eYbf2cLHoAr0GFUXnz/F5SREatZKEr4/717eYjkVpUVSirKzgsvQSNVIJmrpKrFoVwsLaIXML+0QTeaKjC/i8ozTLq6iuKCFiUSKvqaXlSjtWex+5ES9vbyyScphEWCUtlxUiqBqNshp1jUxMLUMYm1hkZGweh3MQp2+KbPwqGbsBnVLCSqiOYDyBIzbF6toST9M2Xs3HmTG1Ul4iupWVoqqWUSeXikApoYEehHh8jpHRNLZeryh+kJAnxG64lwcTQfztFcRiAdo6xC/Ua2LPryCf8LEWc6O4VIS8svx/oLRUgtvVx/WtvAgcmWFySvTnS9BlcmOz9OO16fnl2QGF0R783j5cFj3qhnqyZhkrY15xgQyzY2+iQdTSrlLy6vUb/v70ie++/RohMTxGMpklMpxGbxpgqM/M4/UYP79/yvP7C1wVZzzo0OPubiCtP4etpZrpASvvtuc4GQ0zGwxw9vF3/juvXr/lX2FROTWUnap3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 74.32432432432432%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEC0lEQVQ4yx2U2VOTZxSHv16oIKksCSQgBEiAQCQhQBYSSMhSsgcSCGETEklICGvYFQWHKiIyinbsdEY7Tu2MxWV0pp3a7bLT695413/m6de+M+/t8/7Oc95zhIJLzZO8j92kn6MJIy+XvNxOe9hJu/hwN8izZQN7CSN3JnWc3dDxYsvAwbSJN3vNvNhRk/Wr+P66nB/Em7KVIHy1v8NBZoyIzUqvXs/aaAiXXkvC3MHWoJXC9AjvDnIsxcNsJAIsRJzcTkVYngqRj9hYChh4shnn5oyHwkg/QjYzz2kqzEnITGtDIx2dRvL9nfw0O8hGv5ntzU2eb6YZd5rYyQQxdnVQyEwzPRPmKDfJ8Y1VxiJRxge+INTdgaCQy8mH+nmcHiQZ6MFjbGfcYePagIPjxTUO8otk1wtMio/kEnbyq2k62xpZHLLSLga4m3fy/tTNo2Mr35yuI6gb65gdMLE/7mFVLOFhapCgw0Gv3YXX0kNuvkC0sIVaUYUgfIbdrOXoZg6fWUeDUsmDBRPHh1rO3q7z5x9/IfRY7XTXV3GlsgSPupqXy9fIRHw4jF24DVqGvW68gTBJczN5Rxu5VILDky8xGzt5sJvj08dTUjEHT7eX+fHsNwR76Bo6VS0pYzPvs8P8ur9CoEuHs0uLpqmNmioFFmM3S1ej3Bp34RGbFbao2Uv72UoOcW8+SrCzkWWPlsOdWwhOf4IP2xn+OVnhzcYMc0En5WWllJWXodFcobioGGVdLTZRg6peSdjWLZYrQs3t1JZJqCuX4DNq8HbWY2ipR0gv3uNo4yZ3kkkyE7PEYzFa1I1crpKRSvgpuViMTCpF19ZEq1rF8e0v2S+s0lqroLT4PJKic1RILmDR1uPpakLYvfOM/OZDfEPzuP0pTo8eYbf2cLHoAr0GFUXnz/F5SREatZKEr4/717eYjkVpUVSirKzgsvQSNVIJmrpKrFoVwsLaIXML+0QTeaKjC/i8ozTLq6iuKCFiUSKvqaXlSjtWex+5ES9vbyyScphEWCUtlxUiqBqNshp1jUxMLUMYm1hkZGweh3MQp2+KbPwqGbsBnVLCSqiOYDyBIzbF6toST9M2Xs3HmTG1Ul4iupWVoqqWUSeXikApoYEehHh8jpHRNLZeryh+kJAnxG64lwcTQfztFcRiAdo6xC/Ua2LPryCf8LEWc6O4VIS8svx/oLRUgtvVx/WtvAgcmWFySvTnS9BlcmOz9OO16fnl2QGF0R783j5cFj3qhnqyZhkrY15xgQyzY2+iQdTSrlLy6vUb/v70ie++/RohMTxGMpklMpxGbxpgqM/M4/UYP79/yvP7C1wVZzzo0OPubiCtP4etpZrpASvvtuc4GQ0zGwxw9vF3/juvXr/lX2FROTWUnap3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Mark Zuckerberg&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/799d3/f8-mark.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/00d96/f8-mark.png 148w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/0b23c/f8-mark.png 295w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/799d3/f8-mark.png 590w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/2a3d6/f8-mark.png 885w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/ae92f/f8-mark.png 1180w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/3ae72/f8-mark.png 1852w&quot;
+        src=&quot;https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/fcda8/f8-mark.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/12f09/f8-mark.png 148w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/e4a3f/f8-mark.png 295w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/fcda8/f8-mark.png 590w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/efc66/f8-mark.png 885w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/c83ae/f8-mark.png 1180w,https://lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/ec5f6/f8-mark.png 1852w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -387,7 +387,7 @@ The have a memory budget per team, like they have only 5MB per team and they hav
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/a6965/f8-Uber.png&quot;
+    href=&quot;https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/8cdda/f8-Uber.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -399,15 +399,15 @@ The have a memory budget per team, like they have only 5MB per team and they hav
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 136.81506849315068%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 136.48648648648648%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Uber&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/799d3/f8-Uber.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/00d96/f8-Uber.png 148w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/0b23c/f8-Uber.png 295w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/799d3/f8-Uber.png 590w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/2a3d6/f8-Uber.png 885w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/a6965/f8-Uber.png 1168w&quot;
+        src=&quot;https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/fcda8/f8-Uber.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/12f09/f8-Uber.png 148w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/e4a3f/f8-Uber.png 295w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/fcda8/f8-Uber.png 590w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/efc66/f8-Uber.png 885w,https://lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/8cdda/f8-Uber.png 1168w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -446,7 +446,7 @@ I think I took every opportunity to talk and learn from them and how they work.&
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/154b4/f8-1-hacker-way.png&quot;
+    href=&quot;https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/0f586/f8-1-hacker-way.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -458,15 +458,15 @@ I think I took every opportunity to talk and learn from them and how they work.&
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 71.82910547396529%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD3UlEQVQ4yy2S+1MUdBTF939oxmlqTGNIGSUQA0GSFB0IQgJhWJZHsMuurGIqyLosu7yRd4EGrIGKRoIorwzkvYACrsCAPFaGiEmGkqASAWtGp2k+fdn64cy5c79n7r3nfq/EwcUFR1cPPP0CcPUOwdUrGK9QOcGqOALkp/EJP8XZzEt8VT9EavE1tNklnEjK55ShgKQLxcTpcknLL+H0mVg+/uQwkr1ubnj4BFHbMUnTwE98Z37G3UdL3N1k8xItw8vUdM1S3W7h+0fL3BtZofPxc3om1zBNr3N/eo2xp/+gTS/ggOd+JIFBPqjO6uibWmVg9k+raBM9Qtg1+ULwOjfbp7jeOEjL6Ardk6vWgt0TLzAJdI//wcj8K+K0edjudkTivN8NmfI0PePLotsqD2bW6LWsWQu1j/1G48ACTT0WuobmaOi2UG+apWfqv+l6LaKxaPBw7jWfG4p5Z4c9ki3b7ITlEDpGlzBNPhcFhXDmJV2PV4gtfkBIehvDE4vM//wXPyysU9/5mM6JVfosG/TNbNA7/YLh+b/RZBl5c7sdEtvduzh0VEbT4CKto8v/7+4ZbcOLSAuGCcwdwTL3O0+XXjO3sEFt27i1YLdYkWlK2BYTmn98RXJuJVu2vYfkbRsbDvnLaDb/yr2JDWpaxzFWNNIh9hdT1Ic0q4OGjjE6h+Zp7pmixfwLA8Ji35OX9Asn/U/WGRWfklNay1s2tkje2LoVN29/SuuGKK97wLnMEmRnDGRdaeXizft8+U03xjuDVnwtTqeqeYTKRjMVDQ+pqB+krMbEVcHxKUVs37kDib2DPbscnXA76Ie7V4CAFHe/GOxcPbF3OYyTuzf7PHxxFe9HjoZxNESFz7FofIMUeH0aSaBM3J9/BA7OH2K7S+zQZc9e3rffw76PfPELVrDfwx87x4PYOrry7k4nIXLGzsHNigNHAjgmUxOuSCBSlSjiWEIiTvKZMgHHD9zZsTlhrDyGmCg5YaERhErDUIYGo5QGIgsJRRocikzkZNJwIsOjiIqIQh4ZjSpagVqh5IRShVquIE6hIF4dS4L6OJKasnxuXS7klrGAussFZCSoOR8bSXleClWX8rhRXsTtq5doramgve4KXbev0nXnGqb6Knobb9DfdIOB5mqB6ww2VyFJOxdHhuYU6YknydScJEEZhuZ4BKnxx8nVx1OYqqEkOwljvgFjrp6yC1pKs7QYc5Ioz9FRKfLXClOoLk7l24tpSNJ1SaQlaTGcTyRFIPl8MjqNDp1Wj0GrIcugJyfNQG66nrwMPQUZBgo3OT3ZiiIRf5GRTEmWnovZev4FCwPgBwLJsA0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 71.62162162162163%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD3UlEQVQ4yy2S+1MUdBTF939oxmlqTGNIGSUQA0GSFB0IQgJhWJZHsMuurGIqyLosu7yRd4EGrIGKRoIorwzkvYACrsCAPFaGiEmGkqASAWtGp2k+fdn64cy5c79n7r3nfq/EwcUFR1cPPP0CcPUOwdUrGK9QOcGqOALkp/EJP8XZzEt8VT9EavE1tNklnEjK55ShgKQLxcTpcknLL+H0mVg+/uQwkr1ubnj4BFHbMUnTwE98Z37G3UdL3N1k8xItw8vUdM1S3W7h+0fL3BtZofPxc3om1zBNr3N/eo2xp/+gTS/ggOd+JIFBPqjO6uibWmVg9k+raBM9Qtg1+ULwOjfbp7jeOEjL6Ardk6vWgt0TLzAJdI//wcj8K+K0edjudkTivN8NmfI0PePLotsqD2bW6LWsWQu1j/1G48ACTT0WuobmaOi2UG+apWfqv+l6LaKxaPBw7jWfG4p5Z4c9ki3b7ITlEDpGlzBNPhcFhXDmJV2PV4gtfkBIehvDE4vM//wXPyysU9/5mM6JVfosG/TNbNA7/YLh+b/RZBl5c7sdEtvduzh0VEbT4CKto8v/7+4ZbcOLSAuGCcwdwTL3O0+XXjO3sEFt27i1YLdYkWlK2BYTmn98RXJuJVu2vYfkbRsbDvnLaDb/yr2JDWpaxzFWNNIh9hdT1Ic0q4OGjjE6h+Zp7pmixfwLA8Ji35OX9Asn/U/WGRWfklNay1s2tkje2LoVN29/SuuGKK97wLnMEmRnDGRdaeXizft8+U03xjuDVnwtTqeqeYTKRjMVDQ+pqB+krMbEVcHxKUVs37kDib2DPbscnXA76Ie7V4CAFHe/GOxcPbF3OYyTuzf7PHxxFe9HjoZxNESFz7FofIMUeH0aSaBM3J9/BA7OH2K7S+zQZc9e3rffw76PfPELVrDfwx87x4PYOrry7k4nIXLGzsHNigNHAjgmUxOuSCBSlSjiWEIiTvKZMgHHD9zZsTlhrDyGmCg5YaERhErDUIYGo5QGIgsJRRocikzkZNJwIsOjiIqIQh4ZjSpagVqh5IRShVquIE6hIF4dS4L6OJKasnxuXS7klrGAussFZCSoOR8bSXleClWX8rhRXsTtq5doramgve4KXbev0nXnGqb6Knobb9DfdIOB5mqB6ww2VyFJOxdHhuYU6YknydScJEEZhuZ4BKnxx8nVx1OYqqEkOwljvgFjrp6yC1pKs7QYc5Ioz9FRKfLXClOoLk7l24tpSNJ1SaQlaTGcTyRFIPl8MjqNDp1Wj0GrIcugJyfNQG66nrwMPQUZBgo3OT3ZiiIRf5GRTEmWnovZev4FCwPgBwLJsA0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;1 Hacker Way&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/799d3/f8-1-hacker-way.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/00d96/f8-1-hacker-way.png 148w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/0b23c/f8-1-hacker-way.png 295w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/799d3/f8-1-hacker-way.png 590w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/2a3d6/f8-1-hacker-way.png 885w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/ae92f/f8-1-hacker-way.png 1180w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/154b4/f8-1-hacker-way.png 1498w&quot;
+        src=&quot;https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/fcda8/f8-1-hacker-way.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/12f09/f8-1-hacker-way.png 148w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/e4a3f/f8-1-hacker-way.png 295w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/fcda8/f8-1-hacker-way.png 590w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/efc66/f8-1-hacker-way.png 885w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/c83ae/f8-1-hacker-way.png 1180w,https://lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/0f586/f8-1-hacker-way.png 1498w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -522,7 +522,7 @@ Conclusion on safety: positively surprised. 👍&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/ecfa3/uber-research-trip-mexico-yucatan.png&quot;
+    href=&quot;https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/52ab5/uber-research-trip-mexico-yucatan.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -534,15 +534,15 @@ Conclusion on safety: positively surprised. 👍&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 94.5070422535211%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAABYlAAAWJQFJUiTwAAAFHUlEQVQ4yx2UWUzUVxTG/+99aJvYVsVtZOmIiAgMMDAwA7PAMMy+L8wMy4DDsBkXBBdARUVHRKhYGFuoiEUo3RtbrVYTW9M2pjWxpm3aUE0f+mDbpH1rYn69+vDl3Jt775fvnPPdI527fJ03P/qGS18+ZObWb0xdX2b8s19JfvILh999gM4aoFJbQ9fhFJ2HXqd7cJL2wTfoGJqjM/kejQen0ToascSHiCY/RfKGWmmIdTF6+QsWv3vMtCB9/cYyr11b5sTHPz0j1FTp6RuepPf4BLuPTrLrxAW6h2bwN+3GYHKIcx2lqgpcXUmkGmsIu68Zi6eJgXNLLH3/mNk7v5O6+ZT0Fwz2AMaaGlLTF5mYmmZ4fJoDp97EF2zEZLRQbXZitHpRlhsoKNEgaWuc6I0uTFY/KnUdHftHWPz6IR/e/4vFu39gcodx2q3cv3+PO1/eYn7hXZJnZ6gPN2N1+jHUOdCaXFTorRSqqpEqdDaKSg1U6W3oDDbyFVVYva2cuXSFkbkPUVXqCfi9PHnyH//88ycfLb5DX+deAoGnhPVYnGGqLT60tU7U4r2kLDOhKNFToKhArdaj0WhRlWsor9CgrihCLs8gGAzy848/8O31z5noG2RHNEE03IpbkLr8zRgtfmrtIUyuCNKpfjPHek0kDxgZP2RmrL+O8UErZ4+4Od1vRafJw2Jzkxo9y+iOXgYTPSSa2wk3tOGLJDC7olhF/a2eBkxCrTQ5pOT8iRJmkkpmR7VirWZGYDap461hLXX6PEpLNXQ2Jdjd0k08GqexqY36xnahLobF3YAzsB2baGytqwHJ19ZEoCOGJxGjtzfC4QMRQm2tAjHq25opLS9DqVThD4p9KEYw1EIw2iaQwBuK44204wy24A7HMYq0JWXfbUp3fExpYp5UKsW1hTF0HTNs275Abss75JTbKSlWYBcpuf1N+MXDSMtO/CJdb1gQNwilwVbsQq3BHEQynvyefcfHuZLaw8JED7MjncyN9XDhTB/+/nlyKz0UF+aL+kSFig7q61vwOIPP1pFIi3BAlBrr006HhHXcSOaxe8xfvcnfd6e4vTSMVl3Cg+tjPPpqiq6pG2zVBygpKsTobMAeTBD0RPGW6wmZfZjNDqFKfM1qDxqDQLUXSR0b5NLSZZavDHJn6SjdrV4e3Rzh33vTHJm7yrYqm6hhGTXuVlyBNmKGAA1KG3ZLFINTNMIhbCNgMIepFXekE/2tpIbjHNvjYWIwwkCng4LcV2n26oUXi8nOzkahLKfCXI/JEiBQpKK52IrPvxNLqEv8pDhacxNV5kZqnXGkxan9vH12D+dPdjJ1fDsOnRJNdibPPb+CLbk5OOt0ZG3ORpb3KjmF2bgUZXSXubFpXRRU1lCmd1BW7cZgFU2r7xY+HGnm9CEvE8fDjOzzkwwauSaso9+2GZUyF59NS7p8E2uzN5K5JZ3KrQqq5FXIswpZszmT9Lw85IUKStQ6lHoj0kCPjuS+aoZFjPkKOOLScGsgzJCISpWMYkGal7+FDZvT2ChfS2lJPi+sSOfFVzJYJ98okM6G7CxxnkNalhzp4nick3ETi7s8WOoq2CqXscewhdGEhfZ2P+oyJXpDDolumRgGMhT56WTI0tgmyNMy01iTuZbVGTJWpctYLVuPdLTHysVuB1+PH2R65jw7W8K8v13Pg/cm+eD9BTELjWJgbGL/QAZ7+zJxV6/HVruOqsI0ZPJXeHn9S7y0bgWrMlaycuNq/gc+BDY0e5vAxgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 94.5945945945946%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAABYlAAAWJQFJUiTwAAAFHUlEQVQ4yx2UWUzUVxTG/+99aJvYVsVtZOmIiAgMMDAwA7PAMMy+L8wMy4DDsBkXBBdARUVHRKhYGFuoiEUo3RtbrVYTW9M2pjWxpm3aUE0f+mDbpH1rYn69+vDl3Jt775fvnPPdI527fJ03P/qGS18+ZObWb0xdX2b8s19JfvILh999gM4aoFJbQ9fhFJ2HXqd7cJL2wTfoGJqjM/kejQen0ToascSHiCY/RfKGWmmIdTF6+QsWv3vMtCB9/cYyr11b5sTHPz0j1FTp6RuepPf4BLuPTrLrxAW6h2bwN+3GYHKIcx2lqgpcXUmkGmsIu68Zi6eJgXNLLH3/mNk7v5O6+ZT0Fwz2AMaaGlLTF5mYmmZ4fJoDp97EF2zEZLRQbXZitHpRlhsoKNEgaWuc6I0uTFY/KnUdHftHWPz6IR/e/4vFu39gcodx2q3cv3+PO1/eYn7hXZJnZ6gPN2N1+jHUOdCaXFTorRSqqpEqdDaKSg1U6W3oDDbyFVVYva2cuXSFkbkPUVXqCfi9PHnyH//88ycfLb5DX+deAoGnhPVYnGGqLT60tU7U4r2kLDOhKNFToKhArdaj0WhRlWsor9CgrihCLs8gGAzy848/8O31z5noG2RHNEE03IpbkLr8zRgtfmrtIUyuCNKpfjPHek0kDxgZP2RmrL+O8UErZ4+4Od1vRafJw2Jzkxo9y+iOXgYTPSSa2wk3tOGLJDC7olhF/a2eBkxCrTQ5pOT8iRJmkkpmR7VirWZGYDap461hLXX6PEpLNXQ2Jdjd0k08GqexqY36xnahLobF3YAzsB2baGytqwHJ19ZEoCOGJxGjtzfC4QMRQm2tAjHq25opLS9DqVThD4p9KEYw1EIw2iaQwBuK44204wy24A7HMYq0JWXfbUp3fExpYp5UKsW1hTF0HTNs275Abss75JTbKSlWYBcpuf1N+MXDSMtO/CJdb1gQNwilwVbsQq3BHEQynvyefcfHuZLaw8JED7MjncyN9XDhTB/+/nlyKz0UF+aL+kSFig7q61vwOIPP1pFIi3BAlBrr006HhHXcSOaxe8xfvcnfd6e4vTSMVl3Cg+tjPPpqiq6pG2zVBygpKsTobMAeTBD0RPGW6wmZfZjNDqFKfM1qDxqDQLUXSR0b5NLSZZavDHJn6SjdrV4e3Rzh33vTHJm7yrYqm6hhGTXuVlyBNmKGAA1KG3ZLFINTNMIhbCNgMIepFXekE/2tpIbjHNvjYWIwwkCng4LcV2n26oUXi8nOzkahLKfCXI/JEiBQpKK52IrPvxNLqEv8pDhacxNV5kZqnXGkxan9vH12D+dPdjJ1fDsOnRJNdibPPb+CLbk5OOt0ZG3ORpb3KjmF2bgUZXSXubFpXRRU1lCmd1BW7cZgFU2r7xY+HGnm9CEvE8fDjOzzkwwauSaso9+2GZUyF59NS7p8E2uzN5K5JZ3KrQqq5FXIswpZszmT9Lw85IUKStQ6lHoj0kCPjuS+aoZFjPkKOOLScGsgzJCISpWMYkGal7+FDZvT2ChfS2lJPi+sSOfFVzJYJ98okM6G7CxxnkNalhzp4nick3ETi7s8WOoq2CqXscewhdGEhfZ2P+oyJXpDDolumRgGMhT56WTI0tgmyNMy01iTuZbVGTJWpctYLVuPdLTHysVuB1+PH2R65jw7W8K8v13Pg/cm+eD9BTELjWJgbGL/QAZ7+zJxV6/HVruOqsI0ZPJXeHn9S7y0bgWrMlaycuNq/gc+BDY0e5vAxgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Yucatan&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/799d3/uber-research-trip-mexico-yucatan.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/00d96/uber-research-trip-mexico-yucatan.png 148w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/0b23c/uber-research-trip-mexico-yucatan.png 295w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/799d3/uber-research-trip-mexico-yucatan.png 590w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/2a3d6/uber-research-trip-mexico-yucatan.png 885w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/ae92f/uber-research-trip-mexico-yucatan.png 1180w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/ecfa3/uber-research-trip-mexico-yucatan.png 1420w&quot;
+        src=&quot;https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/fcda8/uber-research-trip-mexico-yucatan.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/12f09/uber-research-trip-mexico-yucatan.png 148w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/e4a3f/uber-research-trip-mexico-yucatan.png 295w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/fcda8/uber-research-trip-mexico-yucatan.png 590w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/efc66/uber-research-trip-mexico-yucatan.png 885w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/c83ae/uber-research-trip-mexico-yucatan.png 1180w,https://lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/52ab5/uber-research-trip-mexico-yucatan.png 1420w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -559,7 +559,7 @@ Some were saying 50/50, other 70/30 and even 80/20, all for more cash than card 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/1dda8/uber-research-trip-mexico-cash.png&quot;
+    href=&quot;https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/1e043/uber-research-trip-mexico-cash.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -571,15 +571,15 @@ Some were saying 50/50, other 70/30 and even 80/20, all for more cash than card 
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 126.08695652173914%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 126.35135135135134%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Cash&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/799d3/uber-research-trip-mexico-cash.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/00d96/uber-research-trip-mexico-cash.png 148w,https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/0b23c/uber-research-trip-mexico-cash.png 295w,https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/799d3/uber-research-trip-mexico-cash.png 590w,https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/1dda8/uber-research-trip-mexico-cash.png 690w&quot;
+        src=&quot;https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/fcda8/uber-research-trip-mexico-cash.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/12f09/uber-research-trip-mexico-cash.png 148w,https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/e4a3f/uber-research-trip-mexico-cash.png 295w,https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/fcda8/uber-research-trip-mexico-cash.png 590w,https://lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/1e043/uber-research-trip-mexico-cash.png 690w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -635,7 +635,7 @@ Ops in the greenlight have to perfectly know everything in order to handle all k
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/dbe62/uber-research-trip-mexico-greenlight.png&quot;
+    href=&quot;https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/ab40b/uber-research-trip-mexico-greenlight.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -647,15 +647,15 @@ Ops in the greenlight have to perfectly know everything in order to handle all k
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 52.41935483870967%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAACzklEQVQozx2S60uTARTG9wf0PSrLEst5ZVmkWRp2NcGgkK6TMrUyVpZWdF2SyZw5dRo511pzTjEvw/lOfZ3Tdxf3upuVaKAJfer/+PXShwcOHM5zzvM8R7W6EmUlGkbyiwxEN9B+DnGz306z24VNFJiSA8yG/IjiDMK0gOSbZ9o2irvLwWirFb/NTSy6xJRnlMXFWVQb66ts/lolHpUZ+fmXAtMal4VZGleCNEUkOrrsfLUM4PAJzMx78U14GG+2IHQO4O0a4FtrL95BF8KgE3HYherXapJ4TOaHHKRv2s0dZfBV2E/r73VMfzYwLUZo8cxhTARZ/76Md9zO5MRn4skAaxsJYgvzxO2z/BhZIO4QUAWkAPauXqSxMebkEDqjgQZF2iuHk7deL1/kMC3+acyyxNbmGqJixaJ3jK2tTWVBjOSSRDwRwjUySCyxgEoQfEx8deHos2AwGblSVsG12lry8ovIOVtBu8FE3/FSjDXVWDveo9fV4rR+ZEbw4Bl3MmbrpfnpU549asDa80EhnIpgMbRTfjiX80c0lOdnodmXzh61hm07dnHpRBGd2Rpq8vNpqatCW1zIuVOnuXtdS3HRUcoO5ZCepqa8sIAbRXmoHHYRs76Fq0ey0ZYc5kzmXjJTd7N9Ryopu1MpyMsjM11NSkoaZeUXyVLncL2ykpePH1JcUsq927fQPWjkzeNHmJ43oHINSnwydFN1TENV6VEqSwo4f/IkubkHUR/IIiMjm7S0DA7sz1KQyc6dqVysuEBPRztDDjvub8PMTLoRFQuCPlG5sKcfq6EN8zs9QzYro0r8X/otvHjSRE2Vlrt1ddyvr0dXf5/qm9U06B7wsduMXxSRQ0EiwQBLAUmpA0QCSihznkmF2ac0gkTDYYJ+P56JcezWfsydJto+GNHrX2M2d9PeZmDIqfze8BBxOcLPZOI/Essyyegy32NR/gFhWxE27GmV8gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 52.70270270270271%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADEUlEQVQozx2S/U+bBRDH61/gDya64WZBsQxcsolGFkfr1CwR6djKuxUNU6KbOCy4sYhLxuTNUXUZw7JRoANaWgpdaaHP0/Yp9A363lLGSNx+MftLPj7zh0/ucpe7793lFPn0DmHJhzP9mG5Hlpa7D7mx+pAJjwv3dhghEUaURARhAzEgEPVJeO7bcN2x4ByeJu7wk0rF8bqdRMJBFE8P9sink2zsP6du6l/U5gC9GYmeXJybViczxgcsrD3CGVxHCvvxmeys/GpC+MuKe8SMY+QeG04bXts84rIVRbGQYS+bwC566Qqscz0S4OZ+jvHnTzEm00zYRX7xbbBWTJALizgX7uH32ckV4uweJEh4BDIzAgWbRMbiRWF9YEZcXCSS2+Ha5ATd64/4zSdwKxTAVMxjTEW4Xtgh+CTPs0IK9+IUqfgmz/45YD+fIrcTIZ2MsuywkU5IKBz351idm8fhdfFdxzd09BpoaOng+EdnuTE5y3xvP2NNzcyY/8Yy+Sd3hgaIbQbJpLYR3TYigpu7xt+5PTbKit0iT2gy06nTUld7Cp26Bk1VJZVV1bx0WMmJ96sZ0pxhokxFd9PnjLXW0/ipmm/1X2K4dJkvdHW0f3wK1Vvv0PzJGS6ePY3CNGyksboCfe17aE+oOFl6hLKyY7ymfJOa41U0aTTUvF6KRp64q01PpaqSHy92otc1olJV0VL/GdoLbVxqbaZPFlRM/zFFp7oa/el30Z6s4IOKco4eKaXk8FFKSpS8eugNXn7lEEplOUpZ6O3yY/z0fRfjw7cYl9dcssywMDuLy27Dv7aKwmycwNB2nsGey4wO9GMcGeHKD920XNBxXnuOrzu+oqG+gfbWdmo/VHNO28Dt0VFErwdJ/s1Nv0g0FCS+JREL+VG4ZAXRs8Z2OMxWIIBndQWjXDDwcx+GnisYrvbRf+0qg4ODDMnMTU/Lx7ezl8+RTSbZzWZIxGKyn5DZRpFNZeVAlET0BRFiW5tEQhKSKCD41rHbrDhklmSWrTJLS3I+xJPiLsVclseFPIVM+v/GL+x/tXVHM7qngqkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Greenlight&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/799d3/uber-research-trip-mexico-greenlight.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/00d96/uber-research-trip-mexico-greenlight.png 148w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/0b23c/uber-research-trip-mexico-greenlight.png 295w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/799d3/uber-research-trip-mexico-greenlight.png 590w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/2a3d6/uber-research-trip-mexico-greenlight.png 885w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/ae92f/uber-research-trip-mexico-greenlight.png 1180w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/dbe62/uber-research-trip-mexico-greenlight.png 1736w&quot;
+        src=&quot;https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/fcda8/uber-research-trip-mexico-greenlight.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/12f09/uber-research-trip-mexico-greenlight.png 148w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/e4a3f/uber-research-trip-mexico-greenlight.png 295w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/fcda8/uber-research-trip-mexico-greenlight.png 590w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/efc66/uber-research-trip-mexico-greenlight.png 885w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/c83ae/uber-research-trip-mexico-greenlight.png 1180w,https://lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/ab40b/uber-research-trip-mexico-greenlight.png 1736w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -686,7 +686,7 @@ I tested my code with Unit tests, Snapshot tests, End-to-end tests, and now also
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/11df0/uber-research-trip-mexico-oxxo.png&quot;
+    href=&quot;https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/541fe/uber-research-trip-mexico-oxxo.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -698,15 +698,15 @@ I tested my code with Unit tests, Snapshot tests, End-to-end tests, and now also
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.38452237001209%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADrElEQVQ4yx2Qa0+TBxiG3/9gnNoqp1JLSymKdFCsBQsFijoUFVCoQwaCoAUpKwpRPMEoggG0HIvoKBQMsCI4FJWDHKKg6MShzCXLFD5s2X+49sYPT/Lkzv1cue9HePPnGh/X/mXl8z8srn5h7OVH8h1D7LI0EpXdRLy1kyxbHUU1btIvetid305UfgeHLg7gaurm7tUSXN0u7g4/wzv1FmF49h0d3jmGpt7w5tMXXn74iwez78mv9aLNaWN3XjOW87cxFXURU9yLochDdHEfsRdHaSyoxZl2jGtFZ+hpb+DV6jpCeds41psPuD04x9Knz4zMvMY7vcT4wgdueGbZb+/BfrOHU/WPiCsbxnRhhISKEQy2fo4XWLliO0jtjzlcKizANfgE4c7DBZqHX9E4tMjA9HtGZt/S6Z1kcGKB6bcf6X7yDsetn+kYmqaqb5G28T9EbYlMezVqvZYdeiXGhFCSU82YDpoRni4ui2ne8+LD37xYXeOX579x7+H8V6h7bJ7ByUW6uge43PkUz+QyK2v/0d7jJjUrjaAwOcHfKlGHh6LS7iRUHKF3bIa+x3PcfzLP45fLTImpZt6t8uz1Cr/OvsLpGaWlf5SqrjG6H85SUfMTYXu0BKhlyNVBKEKU7IrSsn2HighRF+6NTHDHO07H4Bi3erzUdt7nUrOH6lY3lxpcnKvvoamlk+HxCYYm58krLWaLTEKASky3K0SEKvFV+OMTFECwNhjhcmsfFeKP7HWtWKuaOFnu4NyNDlrcvdS3teHwPKLllpO7j6Yorb7O0WwLgaH+aHThKMPUyDVyNm6VIJH5iuAAhGnbNVb2Z/L7PgvLZgsrplSexycz46hk3eNk3d1E/7killMt1CfGYYzaiUSxFT+Fnwjc/rX6NrkfPtt9xd0PoTE7lbodUtqjfOnSSXHrJDhNBmrO5tJqz8V5+hglSWYqgxSc1ASyL0LNZvlmNm3biH+wFKl8k1hXSpBGicRfgnA6zUDDKSM1P2g4X6gh50QghzOT0MbsJTLawN59ZiIjwtEZdBQUHqc4L4YNPt+gEsGGJB0H0/aj00cQrteQmZOBcDLrBMYYI+bvDpFiSiJSGkSIn4xSWyGuOy4uVFYQG2fAHB+D9ewBUg/vYYNsCzFpcSSmJ2ItzedMSR5pOSlcvZ6LUFZuJVc0ZRyJI108jFcpiNWF4bhio8xeTMmZ73HW2mmuKyMlI5ydUTL0CUqik1QYDyjRmwPZe0BBXLKKI0fU/A9NS2PAHiurhwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.21621621621621%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADrElEQVQ4yx2Qa0+TBxiG3/9gnNoqp1JLSymKdFCsBQsFijoUFVCoQwaCoAUpKwpRPMEoggG0HIvoKBQMsCI4FJWDHKKg6MShzCXLFD5s2X+49sYPT/Lkzv1cue9HePPnGh/X/mXl8z8srn5h7OVH8h1D7LI0EpXdRLy1kyxbHUU1btIvetid305UfgeHLg7gaurm7tUSXN0u7g4/wzv1FmF49h0d3jmGpt7w5tMXXn74iwez78mv9aLNaWN3XjOW87cxFXURU9yLochDdHEfsRdHaSyoxZl2jGtFZ+hpb+DV6jpCeds41psPuD04x9Knz4zMvMY7vcT4wgdueGbZb+/BfrOHU/WPiCsbxnRhhISKEQy2fo4XWLliO0jtjzlcKizANfgE4c7DBZqHX9E4tMjA9HtGZt/S6Z1kcGKB6bcf6X7yDsetn+kYmqaqb5G28T9EbYlMezVqvZYdeiXGhFCSU82YDpoRni4ui2ne8+LD37xYXeOX579x7+H8V6h7bJ7ByUW6uge43PkUz+QyK2v/0d7jJjUrjaAwOcHfKlGHh6LS7iRUHKF3bIa+x3PcfzLP45fLTImpZt6t8uz1Cr/OvsLpGaWlf5SqrjG6H85SUfMTYXu0BKhlyNVBKEKU7IrSsn2HighRF+6NTHDHO07H4Bi3erzUdt7nUrOH6lY3lxpcnKvvoamlk+HxCYYm58krLWaLTEKASky3K0SEKvFV+OMTFECwNhjhcmsfFeKP7HWtWKuaOFnu4NyNDlrcvdS3teHwPKLllpO7j6Yorb7O0WwLgaH+aHThKMPUyDVyNm6VIJH5iuAAhGnbNVb2Z/L7PgvLZgsrplSexycz46hk3eNk3d1E/7killMt1CfGYYzaiUSxFT+Fnwjc/rX6NrkfPtt9xd0PoTE7lbodUtqjfOnSSXHrJDhNBmrO5tJqz8V5+hglSWYqgxSc1ASyL0LNZvlmNm3biH+wFKl8k1hXSpBGicRfgnA6zUDDKSM1P2g4X6gh50QghzOT0MbsJTLawN59ZiIjwtEZdBQUHqc4L4YNPt+gEsGGJB0H0/aj00cQrteQmZOBcDLrBMYYI+bvDpFiSiJSGkSIn4xSWyGuOy4uVFYQG2fAHB+D9ewBUg/vYYNsCzFpcSSmJ2ItzedMSR5pOSlcvZ6LUFZuJVc0ZRyJI108jFcpiNWF4bhio8xeTMmZ73HW2mmuKyMlI5ydUTL0CUqik1QYDyjRmwPZe0BBXLKKI0fU/A9NS2PAHiurhwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;OXXO&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/799d3/uber-research-trip-mexico-oxxo.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/00d96/uber-research-trip-mexico-oxxo.png 148w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/0b23c/uber-research-trip-mexico-oxxo.png 295w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/799d3/uber-research-trip-mexico-oxxo.png 590w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/2a3d6/uber-research-trip-mexico-oxxo.png 885w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/ae92f/uber-research-trip-mexico-oxxo.png 1180w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/11df0/uber-research-trip-mexico-oxxo.png 1654w&quot;
+        src=&quot;https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/fcda8/uber-research-trip-mexico-oxxo.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/12f09/uber-research-trip-mexico-oxxo.png 148w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/e4a3f/uber-research-trip-mexico-oxxo.png 295w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/fcda8/uber-research-trip-mexico-oxxo.png 590w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/efc66/uber-research-trip-mexico-oxxo.png 885w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/c83ae/uber-research-trip-mexico-oxxo.png 1180w,https://lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/541fe/uber-research-trip-mexico-oxxo.png 1654w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -724,7 +724,7 @@ Here is a picture of the view from the office.  &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/178134668111502665109e83fa4d106d/536e4/uber-research-trip-mexico-office-view.png&quot;
+    href=&quot;https://lifegorithms.com/static/178134668111502665109e83fa4d106d/cf8f8/uber-research-trip-mexico-office-view.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -736,15 +736,15 @@ Here is a picture of the view from the office.  &lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.84333034914951%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEC0lEQVQ4yy2S7U+TVxiHu0XRGURxyz5sJkvcTBaXJSb7sL9g35aYLUu2RAlblL3gamkppaUF2gItfVBEUFCsbQHRFSpCEXkHeRPaQYFRqVgqlheRBJHxoptLdu3g/HDlvvPknOv8znNumbu1l+qmHiq83TjrO3Hc7ODoL2o00kVs9lrMpdUYSyowFbsoqGwg65wLyxUP7sFpGsaf4PFHqR2a5reBENU948jczT1ca+oWwg5c3k4ue1pQZFnpCj2kZTyMZ2Ccq+1DlNW1UeJpoy20TPvDNZqnVvBOLHBjZIZaX5iau0LYO4as5nY3Nc13qBLCSoHd04zKJPHg+b9E/oHQcwiuw8jy39QHIgzO/UVH+CktoUWa7y3gHZuh7ndx8FCI6/0ioVm6QH7xFaRSF44bt3HWtaA05hN89pzQ+kvGljcZWVoTbOANPMA3t0H/zCod9xdpn1wQt3hE03CYBv8knrtCqNCYkQvSsgtw1DZQdVMkzLYQWt1gevOlqJsEV9aZeLpOUyCEf3YFX/QpfdOP6b0/T+fEDK2jD2gevkeTTwhTM3JR6vLQGCUc7joqb3hJzTITWV1h9sULImtrhFdXBX/SGphg6OECI9En+CPz3J2K0hucpmssRMfIBG3+ADKl1kxKeg6pmfnYq91U1NaJPpvoyhJLL9aZW3vGo9VlooLu0TFGH80SnHvMaCSKfyqCbzLMYPA+d4YDdPn8yFRaEynaHFR6C0WXKymrciPXGRiemSH4ZIk/FhYZnZ1jbH6e+gEfTSJJq7h6+6hIFZiksW8Et3jUxt4Bbnb3IkvRGF8lVOosZBeUkiceKFGuxtHWT2XPMBfFjJa39FHe2oftaj351xpFvUVBVaOYSy9FFXWYSlzYyiuxljmQpWdaUeutqDIspBkL0OYW8lXCcU5Zi1BK50k2FaIpvIT+ghO1VIrSdh6F5QKp1hLkxtNIF51C5CQjX6zLtSE7dPhzDn7yGQc+PswHBz9l/4eH2PfeAeL3f8SOt9/ny2NJ6KVi0nJOYz5TSnreGcyF59HnSJhtxWTbirC7KpBKSjFZJWSymFhesWM3b+yMY9uuvWyP3ceOPe+Kb3F88/1xIThHhvUs2pxCDMY8MoXsbMklqpx20gyZHP9VjUprICcra8uzj5jYeMHe/+vueLYJYva+g2x7LEe+PYohT0KTmUuSQkviTwpSNCZOKPUYzQZUKhWGjGx0Wh1arUbs2bWH7W/FvSLmdb9tl+jj4pG9GcOxpJ+x1zRw1n5VTMB1LlXXinSXUah0JCWrSD6pJCU1jVNqDQpl6pZQCHbGvZbuFr1gSy4Sbwm/OPK1+E/5yNVKvktMQGexcavfR1v/IGXlDuQKNfJkBSd+PEnCDyf4D5KCMaifi4q/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEC0lEQVQ4yy2S7U+TVxiHu0XRGURxyz5sJkvcTBaXJSb7sL9g35aYLUu2RAlblL3gamkppaUF2gItfVBEUFCsbQHRFSpCEXkHeRPaQYFRqVgqlheRBJHxoptLdu3g/HDlvvPknOv8znNumbu1l+qmHiq83TjrO3Hc7ODoL2o00kVs9lrMpdUYSyowFbsoqGwg65wLyxUP7sFpGsaf4PFHqR2a5reBENU948jczT1ca+oWwg5c3k4ue1pQZFnpCj2kZTyMZ2Ccq+1DlNW1UeJpoy20TPvDNZqnVvBOLHBjZIZaX5iau0LYO4as5nY3Nc13qBLCSoHd04zKJPHg+b9E/oHQcwiuw8jy39QHIgzO/UVH+CktoUWa7y3gHZuh7ndx8FCI6/0ioVm6QH7xFaRSF44bt3HWtaA05hN89pzQ+kvGljcZWVoTbOANPMA3t0H/zCod9xdpn1wQt3hE03CYBv8knrtCqNCYkQvSsgtw1DZQdVMkzLYQWt1gevOlqJsEV9aZeLpOUyCEf3YFX/QpfdOP6b0/T+fEDK2jD2gevkeTTwhTM3JR6vLQGCUc7joqb3hJzTITWV1h9sULImtrhFdXBX/SGphg6OECI9En+CPz3J2K0hucpmssRMfIBG3+ADKl1kxKeg6pmfnYq91U1NaJPpvoyhJLL9aZW3vGo9VlooLu0TFGH80SnHvMaCSKfyqCbzLMYPA+d4YDdPn8yFRaEynaHFR6C0WXKymrciPXGRiemSH4ZIk/FhYZnZ1jbH6e+gEfTSJJq7h6+6hIFZiksW8Et3jUxt4Bbnb3IkvRGF8lVOosZBeUkiceKFGuxtHWT2XPMBfFjJa39FHe2oftaj351xpFvUVBVaOYSy9FFXWYSlzYyiuxljmQpWdaUeutqDIspBkL0OYW8lXCcU5Zi1BK50k2FaIpvIT+ghO1VIrSdh6F5QKp1hLkxtNIF51C5CQjX6zLtSE7dPhzDn7yGQc+PswHBz9l/4eH2PfeAeL3f8SOt9/ny2NJ6KVi0nJOYz5TSnreGcyF59HnSJhtxWTbirC7KpBKSjFZJWSymFhesWM3b+yMY9uuvWyP3ceOPe+Kb3F88/1xIThHhvUs2pxCDMY8MoXsbMklqpx20gyZHP9VjUprICcra8uzj5jYeMHe/+vueLYJYva+g2x7LEe+PYohT0KTmUuSQkviTwpSNCZOKPUYzQZUKhWGjGx0Wh1arUbs2bWH7W/FvSLmdb9tl+jj4pG9GcOxpJ+x1zRw1n5VTMB1LlXXinSXUah0JCWrSD6pJCU1jVNqDQpl6pZQCHbGvZbuFr1gSy4Sbwm/OPK1+E/5yNVKvktMQGexcavfR1v/IGXlDuQKNfJkBSd+PEnCDyf4D5KCMaifi4q/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Office View&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/178134668111502665109e83fa4d106d/799d3/uber-research-trip-mexico-office-view.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/178134668111502665109e83fa4d106d/00d96/uber-research-trip-mexico-office-view.png 148w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/0b23c/uber-research-trip-mexico-office-view.png 295w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/799d3/uber-research-trip-mexico-office-view.png 590w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/2a3d6/uber-research-trip-mexico-office-view.png 885w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/ae92f/uber-research-trip-mexico-office-view.png 1180w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/536e4/uber-research-trip-mexico-office-view.png 2234w&quot;
+        src=&quot;https://lifegorithms.com/static/178134668111502665109e83fa4d106d/fcda8/uber-research-trip-mexico-office-view.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/178134668111502665109e83fa4d106d/12f09/uber-research-trip-mexico-office-view.png 148w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/e4a3f/uber-research-trip-mexico-office-view.png 295w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/fcda8/uber-research-trip-mexico-office-view.png 590w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/efc66/uber-research-trip-mexico-office-view.png 885w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/c83ae/uber-research-trip-mexico-office-view.png 1180w,https://lifegorithms.com/static/178134668111502665109e83fa4d106d/cf8f8/uber-research-trip-mexico-office-view.png 2234w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -759,7 +759,7 @@ We also all went dancing with Uber employees from the Mexico city office, just t
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/aef6d/uber-research-trip-mexico-salsa.png&quot;
+    href=&quot;https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/a30c9/uber-research-trip-mexico-salsa.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -771,15 +771,15 @@ We also all went dancing with Uber employees from the Mexico city office, just t
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 51.798010711553175%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAACrElEQVQozw2R60tUURTFz32ce+887h0bx9GmGXMqR3pRaaY97CFSFqlFVGZSklGNMho1WfbCqISaTOgdhVbSE3pBEfgh6kt/QBBB/8yv/eGcs9lnr7X3WlsV21v4PF5kh+uTj2W539DGi+2nOZvso1/PpxSp5FNFEzPOCh57C7gbXcw9J8vdcAUTfpxhx6dD23SXlzGQTqLetuzjSH091YZij7+Nf9dP8OvME6ZqHvK6vJUpP8cHq47vaiWzVo4ZneWNquaRCigpj4LhMJgMmGiIcqfZRQ1Gstxc38f5td30L9rK14FDPOgoMpnrYTazm+n56yiEyhkNV3LKiXBFlIxGAvpsl72ey5WlVZQaQlxebrC3wkKttzQHUnXc2NTD6Lp2pncU6F3Yzpu+EpPLdnJCaS4FOcbjjQxbMZ6L5JuhFGNWFS1hh+KajNQHnMllOJ6Jow64DrulW1sQYa0XJx+kOBhN0xOtY0TN5YgRomDHOKkr6VQWV3WCa16SXtOj07I4nYozlPY5lQkYy4RRHabJSChgUKS0mS6v5gR8T2T4UtvKy2QjedOnGIpz2C5js6nptD2OOVF2aYcRx+G9b/PA1+y3Nd2ORg1ZNke1R0nHmLLCXLQdCtEEj5LNvK/YwPP4Koaj4pkUDxhCZgTsNLTId5jQLk/FxzHPYlji49JQdRmG+GRSUIZsTT5MWyYVb+wkV0M+JX8J5/2l3IvX8yO2kVKwjFY3Qq8QXhDiEcH2CDYlZ5VhohrlapNkk7wtpkVeNjnkV3MrluLFvAQ/a7fwpy7P30UD/M528bummV/pHM/Kk1wLh+kSy5oEXyaDLZRYVQlzVshWS+KcjPxOzO63fT4GzcxWRXhZo/hS4/EtkWY67HNbpI9ri3HbYtK12Wzb1ArRPMEvkIH+AwUlSRqYXV5EAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 52.02702702702703%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAACrElEQVQozw2R60tUURTFz32ce+887h0bx9GmGXMqR3pRaaY97CFSFqlFVGZSklGNMho1WfbCqISaTOgdhVbSE3pBEfgh6kt/QBBB/8yv/eGcs9lnr7X3WlsV21v4PF5kh+uTj2W539DGi+2nOZvso1/PpxSp5FNFEzPOCh57C7gbXcw9J8vdcAUTfpxhx6dD23SXlzGQTqLetuzjSH091YZij7+Nf9dP8OvME6ZqHvK6vJUpP8cHq47vaiWzVo4ZneWNquaRCigpj4LhMJgMmGiIcqfZRQ1Gstxc38f5td30L9rK14FDPOgoMpnrYTazm+n56yiEyhkNV3LKiXBFlIxGAvpsl72ey5WlVZQaQlxebrC3wkKttzQHUnXc2NTD6Lp2pncU6F3Yzpu+EpPLdnJCaS4FOcbjjQxbMZ6L5JuhFGNWFS1hh+KajNQHnMllOJ6Jow64DrulW1sQYa0XJx+kOBhN0xOtY0TN5YgRomDHOKkr6VQWV3WCa16SXtOj07I4nYozlPY5lQkYy4RRHabJSChgUKS0mS6v5gR8T2T4UtvKy2QjedOnGIpz2C5js6nptD2OOVF2aYcRx+G9b/PA1+y3Nd2ORg1ZNke1R0nHmLLCXLQdCtEEj5LNvK/YwPP4Koaj4pkUDxhCZgTsNLTId5jQLk/FxzHPYlji49JQdRmG+GRSUIZsTT5MWyYVb+wkV0M+JX8J5/2l3IvX8yO2kVKwjFY3Qq8QXhDiEcH2CDYlZ5VhohrlapNkk7wtpkVeNjnkV3MrluLFvAQ/a7fwpy7P30UD/M528bummV/pHM/Kk1wLh+kSy5oEXyaDLZRYVQlzVshWS+KcjPxOzO63fT4GzcxWRXhZo/hS4/EtkWY67HNbpI9ri3HbYtK12Wzb1ArRPMEvkIH+AwUlSRqYXV5EAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Salsa&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/799d3/uber-research-trip-mexico-salsa.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/00d96/uber-research-trip-mexico-salsa.png 148w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/0b23c/uber-research-trip-mexico-salsa.png 295w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/799d3/uber-research-trip-mexico-salsa.png 590w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/2a3d6/uber-research-trip-mexico-salsa.png 885w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/ae92f/uber-research-trip-mexico-salsa.png 1180w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/aef6d/uber-research-trip-mexico-salsa.png 2614w&quot;
+        src=&quot;https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/fcda8/uber-research-trip-mexico-salsa.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/12f09/uber-research-trip-mexico-salsa.png 148w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/e4a3f/uber-research-trip-mexico-salsa.png 295w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/fcda8/uber-research-trip-mexico-salsa.png 590w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/efc66/uber-research-trip-mexico-salsa.png 885w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/c83ae/uber-research-trip-mexico-salsa.png 1180w,https://lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/a30c9/uber-research-trip-mexico-salsa.png 2614w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -792,12 +792,11 @@ We also all went dancing with Uber employees from the Mexico city office, just t
 I advise everyone to go if you have the opportunity.&lt;br&gt;
 It was also a good 1-week team building event; I “knew” everyone from this trip already, but after this week I feel like I know them 200% more than before. It will make it easier to work together in the future. 👍&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/ux-research-mexico-uber/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[IBM Extreme Blue 2016 🍻]]></title><description><![CDATA[Dublin, we had a great time!]]></description><link>https://lifegorithms.com/ibm-extreme-blue-2016-internship/</link><guid isPermaLink="false">https://lifegorithms.com/ibm-extreme-blue-2016-internship/</guid><pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post summarizes my 2016 internship experience at IBM Dublin, &lt;strong&gt;from June to September 2016&lt;/strong&gt;.  &lt;/p&gt;
-&lt;p&gt;TLDR; That was awesome! 👏&lt;/p&gt;
+              </content:encoded></item><item><title><![CDATA[Sigfox 2017 📶]]></title><description><![CDATA[B2B, we're not meant for each other 🙁]]></description><link>https://lifegorithms.com/sigfox-2017-internship/</link><guid isPermaLink="false">https://lifegorithms.com/sigfox-2017-internship/</guid><pubDate>Thu, 20 Jul 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post summarizes my 2017 internship experience at Sigfox, Toulouse, France, &lt;strong&gt;from February to July 2017&lt;/strong&gt;.  &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/76e82/ibm-crew.png&quot;
+    href=&quot;https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/d2602/sigfox-screen-gun.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -809,15 +808,51 @@ It was also a good 1-week team building event; I “knew” everyone from this t
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 43.256578947368425%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAAClUlEQVQozxXQ20uTAQCG8Y+6CXRpU9OZc/OQfc6d3Dxs7rNNpzv6qZlW09IpFdqBLMk0TbTUaUurGVFhYRjdBUEXXRRdVFdedBNEhFRQgQVJh4sOFE/r/QOeF37Ct5/f+fH3F5+/rLLy6SPLr9+ytPSMJ4+f8vDBA24tLrJwfZ65C7OEdrSQl5uPyWCkrNSG1VqKc6sLORjA45Opl2WEF69ecS12nt/84f9Wv37m/YcVlt+84/mLl1y+eJHp6Side7tx1/oI1jXgD9bT2raH9vYOeg/3MNx/lGM9YWYjpxBmzkboamzg/r273L45z43oOAuXL/Ho3h1ig72MdXcxsK+VK3MRDu3vZOzkCQZ6uohNjnBybxtXL0wwNzXEudP9zIz3I4iFTgzFXqyb8zFr1WSmZVNSZOZ4ZxsHQjsIB5pwiVsY7JAZaQ/S4nFTJ9nYVefn2DZ3nGKCyYkhxoaPEI0MIazTtqG1huMWblJTNqHaJFJeJjE1HmFq9AyxkTNIOgNOvUhPSxXi5gLWrktFbyqnVfZgklwoK5tIMjpR2YMINneYEqkRo9GCYn06omjGW+0mOhmhPdRKbRx9q6UEyVxEZ5MLW0kpGzPy8AdkGuV6TJVuUuJBhcFFotmDIPu9eDweNiSnkKhIZXc8Eh0dYHpsBIPehCCsiR+lUV1mIRSsoLLSRXJaDnaplprqGsxVfpSORhRGF0kWH0KmKgvJbkOjVqPV5hJqbmKw9yCDfX1YzMXkarJJz8hELNBh0G3B5qhmoyofpUqHWqOn2BkguVwmUe9CYapBUCpTkJxOHOUWzHodUkUFAZ+Xnc3bqXKUkadRx6NqTEU6nHYLdpuDwrhptiaf9Jwisrxh1lt9JIgVJBiq+AeLkWqceasr2AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABWxZQKSLZZ//EABgQAAMBAQAAAAAAAAAAAAAAAAECAwAT/9oACAEBAAEFArIx0yBLjQ6swy8gMigr/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAgBAwEBPwFZpD//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAgEBPwGlP//EABsQAAICAwEAAAAAAAAAAAAAAAARAQIhMUGR/9oACAEBAAY/Ami1esxSTMM0jvp//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBYXH/2gAIAQEAAT8hao6exgZQqWFSeE2BGi4HHJ97Lgt2P//aAAwDAQACAAMAAAAQ2O//xAAXEQEBAQEAAAAAAAAAAAAAAAARAAFx/9oACAEDAQE/EFCdnl//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEVH/2gAIAQIBAT8Q3EP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMVFBkaH/2gAIAQEAAT8QqKnBs6yWunNzWNYFKqfMVIh8QvvKw8iWh2yI5FYjef/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Sigfox Screens&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/1c72d/sigfox-screen-gun.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/a80bd/sigfox-screen-gun.jpg 148w,https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/1c91a/sigfox-screen-gun.jpg 295w,https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/1c72d/sigfox-screen-gun.jpg 590w,https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/a8a14/sigfox-screen-gun.jpg 885w,https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/fbd2c/sigfox-screen-gun.jpg 1180w,https://lifegorithms.com/static/3bba815f93650f68943cc6aaae1cdef4/d2602/sigfox-screen-gun.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;what-is-sigfox&quot;&gt;&lt;a href=&quot;#what-is-sigfox&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is Sigfox?&lt;/h2&gt;
+&lt;p&gt;Resources: Please read my &lt;a href=&quot;https://drive.google.com/file/d/0B8yLdlWIuE-JWC1sT2ROU29tV0U/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;thesis&lt;/a&gt; (in french) for more information.&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/sigfox-2017-internship/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[IBM Extreme Blue 2016 🍻]]></title><description><![CDATA[Dublin, we had a great time!]]></description><link>https://lifegorithms.com/ibm-extreme-blue-2016-internship/</link><guid isPermaLink="false">https://lifegorithms.com/ibm-extreme-blue-2016-internship/</guid><pubDate>Fri, 09 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post summarizes my 2016 internship experience at IBM Dublin, &lt;strong&gt;from June to September 2016&lt;/strong&gt;.  &lt;/p&gt;
+&lt;p&gt;TLDR; That was awesome! 👏&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/4f9e8/ibm-crew.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 43.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAAClUlEQVQozxXQ20uTAQCG8Y+6CXRpU9OZc/OQfc6d3Dxs7rNNpzv6qZlW09IpFdqBLMk0TbTUaUurGVFhYRjdBUEXXRRdVFdedBNEhFRQgQVJh4sOFE/r/QOeF37Ct5/f+fH3F5+/rLLy6SPLr9+ytPSMJ4+f8vDBA24tLrJwfZ65C7OEdrSQl5uPyWCkrNSG1VqKc6sLORjA45Opl2WEF69ecS12nt/84f9Wv37m/YcVlt+84/mLl1y+eJHp6Side7tx1/oI1jXgD9bT2raH9vYOeg/3MNx/lGM9YWYjpxBmzkboamzg/r273L45z43oOAuXL/Ho3h1ig72MdXcxsK+VK3MRDu3vZOzkCQZ6uohNjnBybxtXL0wwNzXEudP9zIz3I4iFTgzFXqyb8zFr1WSmZVNSZOZ4ZxsHQjsIB5pwiVsY7JAZaQ/S4nFTJ9nYVefn2DZ3nGKCyYkhxoaPEI0MIazTtqG1huMWblJTNqHaJFJeJjE1HmFq9AyxkTNIOgNOvUhPSxXi5gLWrktFbyqnVfZgklwoK5tIMjpR2YMINneYEqkRo9GCYn06omjGW+0mOhmhPdRKbRx9q6UEyVxEZ5MLW0kpGzPy8AdkGuV6TJVuUuJBhcFFotmDIPu9eDweNiSnkKhIZXc8Eh0dYHpsBIPehCCsiR+lUV1mIRSsoLLSRXJaDnaplprqGsxVfpSORhRGF0kWH0KmKgvJbkOjVqPV5hJqbmKw9yCDfX1YzMXkarJJz8hELNBh0G3B5qhmoyofpUqHWqOn2BkguVwmUe9CYapBUCpTkJxOHOUWzHodUkUFAZ+Xnc3bqXKUkadRx6NqTEU6nHYLdpuDwrhptiaf9Jwisrxh1lt9JIgVJBiq+AeLkWqceasr2AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IBM Crew&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/799d3/ibm-crew.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/00d96/ibm-crew.png 148w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/0b23c/ibm-crew.png 295w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/799d3/ibm-crew.png 590w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/2a3d6/ibm-crew.png 885w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/ae92f/ibm-crew.png 1180w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/76e82/ibm-crew.png 2432w&quot;
+        src=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/fcda8/ibm-crew.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/12f09/ibm-crew.png 148w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/e4a3f/ibm-crew.png 295w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/fcda8/ibm-crew.png 590w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/efc66/ibm-crew.png 885w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/c83ae/ibm-crew.png 1180w,https://lifegorithms.com/static/ffdcde843436850fdc03d785cc081720/4f9e8/ibm-crew.png 2432w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -829,7 +864,7 @@ It was also a good 1-week team building event; I “knew” everyone from this t
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/93d1b/ibm-extreme-blue.jpg&quot;
+    href=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/d2602/ibm-extreme-blue.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -848,8 +883,8 @@ It was also a good 1-week team building event; I “knew” everyone from this t
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IBM Extreme Blue&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/88218/ibm-extreme-blue.jpg&quot;
-        srcset=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/7237a/ibm-extreme-blue.jpg 148w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/0cfdf/ibm-extreme-blue.jpg 295w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/88218/ibm-extreme-blue.jpg 590w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/77d57/ibm-extreme-blue.jpg 885w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/5a917/ibm-extreme-blue.jpg 1180w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/93d1b/ibm-extreme-blue.jpg 4032w&quot;
+        src=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/1c72d/ibm-extreme-blue.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/a80bd/ibm-extreme-blue.jpg 148w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/1c91a/ibm-extreme-blue.jpg 295w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/1c72d/ibm-extreme-blue.jpg 590w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/a8a14/ibm-extreme-blue.jpg 885w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/fbd2c/ibm-extreme-blue.jpg 1180w,https://lifegorithms.com/static/95a7bd8adcae7283ba23e5998db1f80f/d2602/ibm-extreme-blue.jpg 4032w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -872,7 +907,7 @@ Earny is based in Los Angeles and was in a Startup Incubator in Santa Monica.&lt
 &lt;p&gt;I had a hard time to decide, both companies seemed to have equally interesting projects! On one hand, Earny was located in Los Angeles, which would bring me closer to my Silicon Valley life, on the other hand IBM was a big name and would possibly either bring me to the US or at least add a valuable name on my resume.&lt;/p&gt;
 &lt;p&gt;As you can guess, I hope, I ended up choosing IBM. 🥳&lt;/p&gt;
 &lt;h2 id=&quot;selection-process&quot;&gt;&lt;a href=&quot;#selection-process&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Selection process&lt;/h2&gt;
-&lt;p&gt;The process for Early was a few phone calls with the founders, some technical calls but nothing to complex, more high level than code.  &lt;/p&gt;
+&lt;p&gt;The process for Early was a few phone calls with the founders, some technical calls but nothing too complex, more high level than code.  &lt;/p&gt;
 &lt;p&gt;The process for IBM was more similar to what we can expect from a tech company, some online coding interviews etc.&lt;br&gt;
 Overall, it was &lt;em&gt;waaaaay&lt;/em&gt; easier than any of my following Google/Uber/etc interviews because it was less coding and more of everything.&lt;br&gt;
 For instance, I had a managerial interview, a coding design challenge to do at home where I had to design/architecture a video game, some coding exercises and finally a skype live coding interview.&lt;br&gt;
@@ -901,7 +936,7 @@ Around two years after the internship, Toscana was discontinued and around 4 yea
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/3ed1b/presentation-toscana.jpg&quot;
+    href=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/e5bc7/presentation-toscana.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -913,15 +948,15 @@ Around two years after the internship, Toscana was discontinued and around 4 yea
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG+tmrF6Z8T/8QAGxAAAgMAAwAAAAAAAAAAAAAAAQMAAhIREzH/2gAIAQEAAQUCa2nHdWJbXBQCfRoif//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERASIVFh/9oACAEBAAY/AtexYlK3aH4cM//EABgQAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEBAAE/IRacS9AOs2rq24BSSDbTVk50qf/aAAwDAQACAAMAAAAQMw//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QdER//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxCKtf/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQWGRscH/2gAIAQEAAT8QTIU5dOHZ6YUyOQ4yXB3ZICdB8gy41mxsHPmGBuQd7gUI2oZ//9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG+tmrF6Z8T/8QAGxAAAgMAAwAAAAAAAAAAAAAAAQMAAhIREzH/2gAIAQEAAQUCa2nHdWJbXBQCfRoif//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERASIVFh/9oACAEBAAY/AtexYlK3aH4cM//EABgQAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEBAAE/IRacS9AOs2rq24BSSDbTVk50qf/aAAwDAQACAAMAAAAQMw//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QdER//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxCKtf/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQWGRscH/2gAIAQEAAT8QTIU5dOHZ6YUyOQ4yXB3ZICdB8gy41mxsHPmGBuQd7gUI2oZ//9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Presentation Toscana&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/88218/presentation-toscana.jpg&quot;
-        srcset=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/7237a/presentation-toscana.jpg 148w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/0cfdf/presentation-toscana.jpg 295w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/88218/presentation-toscana.jpg 590w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/77d57/presentation-toscana.jpg 885w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/5a917/presentation-toscana.jpg 1180w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/3ed1b/presentation-toscana.jpg 5184w&quot;
+        src=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/1c72d/presentation-toscana.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/a80bd/presentation-toscana.jpg 148w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/1c91a/presentation-toscana.jpg 295w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/1c72d/presentation-toscana.jpg 590w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/a8a14/presentation-toscana.jpg 885w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/fbd2c/presentation-toscana.jpg 1180w,https://lifegorithms.com/static/4fb284428e61122dcd72c895924a58e4/e5bc7/presentation-toscana.jpg 5184w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -933,7 +968,7 @@ Around two years after the internship, Toscana was discontinued and around 4 yea
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/2cfc4/guinness-storehouse.png&quot;
+    href=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/78363/guinness-storehouse.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -945,15 +980,15 @@ Around two years after the internship, Toscana was discontinued and around 4 yea
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75.29566360052563%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEDklEQVQ4yx2U+0+TVxjH3xkSrqVXoEV6fVv6ltaKCAIWqFqgFAMBCqUK2uAFRgQHVcTLvIzFGFEJ6MjCJglziS5GnBo22GYWp4jxFzeXJcsWw7Ltt/0Tnx36w0nO+zzv83y/z/d8z5EUtxuX04XLLuOVXWLJNDeGiMXaUTxuvB4PNVWVhOp2Eg7V0rinjtqqHfhEbpvfh+KWcStOSopdeIqdSGUVVVQHg5RWV+Dd6sPvVdgd2M6VidMc6osLMActAqCns4X+RIx4ezO7dm4nWL0Ds6WIIoeDOgESaqhFKVGQiuwOgqF6mjva2Btro7tvH3saa5m6eom159/THN7F2NBRJi+OM3npFKPvJ2ht2k1ZmZ+QAOpLHCASqcfmsJJfYEIKRBrYIth9dP0a8wsLnJ+4xOD4KWK9PTxdWWZh/nPOnhxh+vJFJs6cZLCvl/bWZpIjQ5w4PkigspSS7Vsprw2kppSi8RixfTFmZm6w9PBrkseHOTd2kumpKb6Y+5QPBgYYT47S3xMnEW3lYHeURG+cA61hSoV24YYQif7DfHh1kqb2MNLQ4GEunBvn1YvnvF1b5e3rV7x58ROvnq5w//YcDxbm+Wp2hudLj/jz11+4OzvF5JkkS/fv8frZU1Z/+JbFu3e4eWuGE2NHkOLxKMGaWt69+4OPx07w+5ufWV5+wsqjB/z2co3FuTm+u/Ml96amebz4kP/+XufFN4/4Z32dzz65yfnkMZ79+IRbs9c5c3oIyWg0k5dnoqqijM6mTl4urxJvbWL6yjWS/cNcGD7L49uLjHX1cmFklH//Wice7aQlHCFfp2GLx0tbtJ34/g6OH+tD0mr1ZGepxMpKJY8cPETH3saU93RqLXsqglwenaC7pYvK0m0c6ozidbkw6fNQqXKoqQ5QXl5O4kgvVy8mkTQaHRnpGej1OiRJYtOm9/ApMlXbPGg0avJFYXh3M5WBCJkZGRjUamSrGYspXzRU4SvxCsvI7ArVCG/6kVSqXNLTM8kzGMjKzCInJwfZZiYSLMclvKXRaDAVWYl2HaXM76exPkgkHCItLY3MzEyKXcXYZQf6jfpsFVJOdq5olI2xoIDNhSZKtygC1Ul9zQ7GhwaorwugEyxHR8ZoF+Yv9SvsF9bR6XTkCjJerw+rw4bFakn9J6ly1OTmqik0mTCIsT1uF5XlfpoEk+GBw0KjSowi53Q6sVjMaLUacY8VNpuMFIuYz+fDLq6n1WahoMAoNNQZyBYsNz7Uao3QMg+nw45TtuMQyI6NvTgExa0g220YxGgb2hmNBZQobmTxmJhtNmSnLGKiodFsESOrRDOtYKpl45AKCwsxm4tSxVqtVoynFwxloZcoEsz0ekMK3Gg0YbXaKbJYxUNhTcX/B4q1KCRxYn5yAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEDklEQVQ4yx2U+0+TVxjH3xkSrqVXoEV6fVv6ltaKCAIWqFqgFAMBCqUK2uAFRgQHVcTLvIzFGFEJ6MjCJglziS5GnBo22GYWp4jxFzeXJcsWw7Ltt/0Tnx36w0nO+zzv83y/z/d8z5EUtxuX04XLLuOVXWLJNDeGiMXaUTxuvB4PNVWVhOp2Eg7V0rinjtqqHfhEbpvfh+KWcStOSopdeIqdSGUVVVQHg5RWV+Dd6sPvVdgd2M6VidMc6osLMActAqCns4X+RIx4ezO7dm4nWL0Ds6WIIoeDOgESaqhFKVGQiuwOgqF6mjva2Btro7tvH3saa5m6eom159/THN7F2NBRJi+OM3npFKPvJ2ht2k1ZmZ+QAOpLHCASqcfmsJJfYEIKRBrYIth9dP0a8wsLnJ+4xOD4KWK9PTxdWWZh/nPOnhxh+vJFJs6cZLCvl/bWZpIjQ5w4PkigspSS7Vsprw2kppSi8RixfTFmZm6w9PBrkseHOTd2kumpKb6Y+5QPBgYYT47S3xMnEW3lYHeURG+cA61hSoV24YYQif7DfHh1kqb2MNLQ4GEunBvn1YvnvF1b5e3rV7x58ROvnq5w//YcDxbm+Wp2hudLj/jz11+4OzvF5JkkS/fv8frZU1Z/+JbFu3e4eWuGE2NHkOLxKMGaWt69+4OPx07w+5ufWV5+wsqjB/z2co3FuTm+u/Ml96amebz4kP/+XufFN4/4Z32dzz65yfnkMZ79+IRbs9c5c3oIyWg0k5dnoqqijM6mTl4urxJvbWL6yjWS/cNcGD7L49uLjHX1cmFklH//Wice7aQlHCFfp2GLx0tbtJ34/g6OH+tD0mr1ZGepxMpKJY8cPETH3saU93RqLXsqglwenaC7pYvK0m0c6ozidbkw6fNQqXKoqQ5QXl5O4kgvVy8mkTQaHRnpGej1OiRJYtOm9/ApMlXbPGg0avJFYXh3M5WBCJkZGRjUamSrGYspXzRU4SvxCsvI7ArVCG/6kVSqXNLTM8kzGMjKzCInJwfZZiYSLMclvKXRaDAVWYl2HaXM76exPkgkHCItLY3MzEyKXcXYZQf6jfpsFVJOdq5olI2xoIDNhSZKtygC1Ul9zQ7GhwaorwugEyxHR8ZoF+Yv9SvsF9bR6XTkCjJerw+rw4bFakn9J6ly1OTmqik0mTCIsT1uF5XlfpoEk+GBw0KjSowi53Q6sVjMaLUacY8VNpuMFIuYz+fDLq6n1WahoMAoNNQZyBYsNz7Uao3QMg+nw45TtuMQyI6NvTgExa0g220YxGgb2hmNBZQobmTxmJhtNmSnLGKiodFsESOrRDOtYKpl45AKCwsxm4tSxVqtVoynFwxloZcoEsz0ekMK3Gg0YbXaKbJYxUNhTcX/B4q1KCRxYn5yAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Guinness Storehouse&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/799d3/guinness-storehouse.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/00d96/guinness-storehouse.png 148w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/0b23c/guinness-storehouse.png 295w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/799d3/guinness-storehouse.png 590w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/2a3d6/guinness-storehouse.png 885w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/ae92f/guinness-storehouse.png 1180w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/2cfc4/guinness-storehouse.png 1522w&quot;
+        src=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/fcda8/guinness-storehouse.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/12f09/guinness-storehouse.png 148w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/e4a3f/guinness-storehouse.png 295w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/fcda8/guinness-storehouse.png 590w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/efc66/guinness-storehouse.png 885w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/c83ae/guinness-storehouse.png 1180w,https://lifegorithms.com/static/d5ae9ff10c1fc17e15d385e753073f87/78363/guinness-storehouse.png 1522w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -970,7 +1005,7 @@ But I highly advise to visit Dublin or the country, great views, great bars, gre
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/fd7f0/trip-galway.jpg&quot;
+    href=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/f1e22/trip-galway.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -989,8 +1024,8 @@ But I highly advise to visit Dublin or the country, great views, great bars, gre
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Trip Galway&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/88218/trip-galway.jpg&quot;
-        srcset=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/7237a/trip-galway.jpg 148w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/0cfdf/trip-galway.jpg 295w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/88218/trip-galway.jpg 590w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/77d57/trip-galway.jpg 885w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/5a917/trip-galway.jpg 1180w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/fd7f0/trip-galway.jpg 2576w&quot;
+        src=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/1c72d/trip-galway.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/a80bd/trip-galway.jpg 148w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/1c91a/trip-galway.jpg 295w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/1c72d/trip-galway.jpg 590w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/a8a14/trip-galway.jpg 885w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/fbd2c/trip-galway.jpg 1180w,https://lifegorithms.com/static/d1922c52bdcad6cb6365cb62cd396ee3/f1e22/trip-galway.jpg 2576w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1001,7 +1036,7 @@ But I highly advise to visit Dublin or the country, great views, great bars, gre
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/669ac/trip-galway2.png&quot;
+    href=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/69f8f/trip-galway2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1013,15 +1048,15 @@ But I highly advise to visit Dublin or the country, great views, great bars, gre
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.69684721099435%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD40lEQVQ4yx2TSW9aVwBGnw3YPPwMj+HBY34MD4wxZjI2NgZPARs3dj3FTrBTmkGJYmJVSSMlbQapVZppUUWJuuiiqbKtVHXXVfsDqi667J/ofzi9yeJu7uLTOd/9rlRIeylNBGlUkswW0xTMCF6PinPcTTiSxasFGVcUgpoP15idyViEOxv7vN66zfvOCx7UrrE8VeW0e8wnuQWkiK5gxjXqJZOFygS1qQyhUJRyocm797+ze3Ad2aGyWChTjKcoppLc+fSAb3b73G1c4HJuk052nv7SHguxKpLdYcWjjuLzyGQSQaYFYTqqM5sr8uDsK5r1FUGaYmOmzkzapGKmuLG5xcOjHsf1Ja4srvP48JBBe4dls46ke+0sTsXZLCWZCPuI6yqllM60YRDxBAh7ffh9fj5rd1gq5Cik4pzt7fPw5ISdWpW/3nzLv+9ecn2jznw2g3TraINLqzUG2ytUUhE01U49EyCfSBAJhDD8IjxssN9sMhEVBuk4dy8d8cXhPuuVPG+uHjBYn+d6p87ObB7p0dEar/pdBrurTCeDdKdNykmdvBGmlk2T0DXifh9mWCepeykafrq1Mr3OGtWMweVmhdO1Ofprdc7PFZCe9bd43Nvk5lqRz5cqvDjeFl2F8LtlYn4VM+RjLhMjqakkfU7ubbTo1UusVqfRfSqFqJejRp7dxTyNfATp7a0LnJ1foDUR4t76Ak/3uqxMJtDcDkKaQqecZbC6SG8uJ4JD3DnX4OZKnULaENNyYLdJlAwv1axG0O9EutjK0ymmhI6Lwbk5Ls9OkQyqZGIaT046fHdzm/5ykz+eXuSnB4c0hGbR0PG6xwkHRRWRIFFBOmK3IIudSmZAYbOao1GcYErMJiv6C3od3BfUv1xtcbJYpF1O8s+7M77vrZAX1JLNgi4q8IugmakcmZTBkFVi3OlAUsdGaeUMJqM+IgI5qbtpiC0OVku8vTTPk94Oz0XQ36/ucXthmpBiw+UaJxbSUETAh+NyjTGm2AmLFUjK2AipgIuAS8atjGCKHbZEBTGfzI32LPcP1/n59JhXvfNc6zbp1Ao0Jw00j/JxFZWswbBtGI+g1cN+JLdbQZZHsFmHcYoe4pqDWkbD5xgm4ZBIyhLL6QBtM8Bvz7/mzx+e8WV7hh/FY/7361tenx5h+aArKGVhK3m8inCXsVqGUMU3DCgWEqqValihGVepR50clGP0ZzNsR11cyQXotYo8Ou7SW6syY4ZwCjPrqJVh65Ag9DhwOEaQhqSPF7JsEeo2Im47xaCDUsDOUlJlpxihbbhZijvRxm0YqkTeb8MtW7HbbciiQ+uohf8BgBvVmowaZ8QAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD40lEQVQ4yx2TSW9aVwBGnw3YPPwMj+HBY34MD4wxZjI2NgZPARs3dj3FTrBTmkGJYmJVSSMlbQapVZppUUWJuuiiqbKtVHXXVfsDqi667J/ofzi9yeJu7uLTOd/9rlRIeylNBGlUkswW0xTMCF6PinPcTTiSxasFGVcUgpoP15idyViEOxv7vN66zfvOCx7UrrE8VeW0e8wnuQWkiK5gxjXqJZOFygS1qQyhUJRyocm797+ze3Ad2aGyWChTjKcoppLc+fSAb3b73G1c4HJuk052nv7SHguxKpLdYcWjjuLzyGQSQaYFYTqqM5sr8uDsK5r1FUGaYmOmzkzapGKmuLG5xcOjHsf1Ja4srvP48JBBe4dls46ke+0sTsXZLCWZCPuI6yqllM60YRDxBAh7ffh9fj5rd1gq5Cik4pzt7fPw5ISdWpW/3nzLv+9ecn2jznw2g3TraINLqzUG2ytUUhE01U49EyCfSBAJhDD8IjxssN9sMhEVBuk4dy8d8cXhPuuVPG+uHjBYn+d6p87ObB7p0dEar/pdBrurTCeDdKdNykmdvBGmlk2T0DXifh9mWCepeykafrq1Mr3OGtWMweVmhdO1Ofprdc7PFZCe9bd43Nvk5lqRz5cqvDjeFl2F8LtlYn4VM+RjLhMjqakkfU7ubbTo1UusVqfRfSqFqJejRp7dxTyNfATp7a0LnJ1foDUR4t76Ak/3uqxMJtDcDkKaQqecZbC6SG8uJ4JD3DnX4OZKnULaENNyYLdJlAwv1axG0O9EutjK0ymmhI6Lwbk5Ls9OkQyqZGIaT046fHdzm/5ykz+eXuSnB4c0hGbR0PG6xwkHRRWRIFFBOmK3IIudSmZAYbOao1GcYErMJiv6C3od3BfUv1xtcbJYpF1O8s+7M77vrZAX1JLNgi4q8IugmakcmZTBkFVi3OlAUsdGaeUMJqM+IgI5qbtpiC0OVku8vTTPk94Oz0XQ36/ucXthmpBiw+UaJxbSUETAh+NyjTGm2AmLFUjK2AipgIuAS8atjGCKHbZEBTGfzI32LPcP1/n59JhXvfNc6zbp1Ao0Jw00j/JxFZWswbBtGI+g1cN+JLdbQZZHsFmHcYoe4pqDWkbD5xgm4ZBIyhLL6QBtM8Bvz7/mzx+e8WV7hh/FY/7361tenx5h+aArKGVhK3m8inCXsVqGUMU3DCgWEqqValihGVepR50clGP0ZzNsR11cyQXotYo8Ou7SW6syY4ZwCjPrqJVh65Ag9DhwOEaQhqSPF7JsEeo2Im47xaCDUsDOUlJlpxihbbhZijvRxm0YqkTeb8MtW7HbbciiQ+uohf8BgBvVmowaZ8QAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Trip Galway 2&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/799d3/trip-galway2.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/00d96/trip-galway2.png 148w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/0b23c/trip-galway2.png 295w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/799d3/trip-galway2.png 590w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/2a3d6/trip-galway2.png 885w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/ae92f/trip-galway2.png 1180w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/669ac/trip-galway2.png 2474w&quot;
+        src=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/fcda8/trip-galway2.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/12f09/trip-galway2.png 148w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/e4a3f/trip-galway2.png 295w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/fcda8/trip-galway2.png 590w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/efc66/trip-galway2.png 885w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/c83ae/trip-galway2.png 1180w,https://lifegorithms.com/static/eac12410d3825da8eefc3f0f39a40f6c/69f8f/trip-galway2.png 2474w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1032,7 +1067,7 @@ But I highly advise to visit Dublin or the country, great views, great bars, gre
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/669ac/trip-galway3.png&quot;
+    href=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/69f8f/trip-galway3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1044,15 +1079,15 @@ But I highly advise to visit Dublin or the country, great views, great bars, gre
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.93936944219887%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADzUlEQVQ4yx2Uy28bVRSHvQLsOH7P2+N52B7P2IljJ3biJnWa1HacpE2aEkJJQ0mgtAhapFSAVFqJdlMqISFVolKRitiAygIJFcQaWCLYsWHFFom/4uO0i6tzNffMd37ncW/MK0zg5CdQMgmUbAI9N4Gu5UlMJIgn4iSerXicVDKBmkthKlmKWo5aSaETWjR9hZqZZlzx6ek6sbKaxFeSaFkBCdiUvavnqek5immByMpnJqmXClxZb7M3mKFcLBA6AnJUrJz4iwA7nyaTeIFYTZ8kMFLYalp+jKMLcE6cb55ucu/oHDv9FmUrx8G0y5NXT/FyN8DX0tR9lYpdoJidpCDZqGLTiZeIhWaKZyqVbJKl6ZCKo9N1Ve6MZ3lwfMTW6oIEKPB4fYZ3BdYS5ec6dRbqHg3PYDRbEyFpKVWKyfiLxCI7R8UtYhoKr60tS0onCFyTWd+i6+ssNqrMuRrXFkMG7TqhmuPDnSFXt1ZZn2/w8cEG7ZpDOhknl0qKQt9k1J/n5tUDDraGTJVt3j434uKgT8XSGc/PYGTTLDciDiVgp+w9B48Wu1Rdnxv7Q061q9K8JJOSeiyoOBwf7fLXdw/5+u4xoV1ib+0k7ShEUQwU1ULL5RnMzfHe0T6jbhdLvuXVEtmCTUsCNesNTMsTf+lyqaixPV7ihy/usDvuU5KDSHfIZhTyeY2VTpdxp8W43eJw+wyXNoZMRw2BORTtCiU3xLIDrGIZTS8RyxdU+r0Wbx1sU3YtHC+gbpRZm4q4Pl7l4f4ml3sztF2HwWzEZq/N4cYK++vLNKJI/OvYTiDwMp7jE9N0F13IhmETBT5lx6VoVJkOmiy3Ory/2ef67llCt8Qrq8tSvynmqyaXxz05b+AITDV8aazHG6MusaJdlfwrEiF8bk/2RwzWzlOphKiFvNQvg++6hDWX+WbEVMWlZGsMWzUuDXusLTRZkf1Gt87hsENMN8sCC54DG1GT+3du8+Y7N1g6vUU98ghsRW6FRSDLM1VKcivUTBI9M4GRm6RoFan6vkyHw0zgEasHEfmCxURKF6jL1Ytb3Lp+yK0b17i2v835nfM0p6dkNhUZExXPVun0TtCcXaBaa4jt0VpYQTE9kuk8sZ8ffcKTz2/z6O4HPL53kx+/+oy/f/sW/vuDP58+ZvfiFcySj6GKGiMjD0eWmd4plkbbDLb2OLP3Oqvjs3Tn2igyXrELMjJPv/yUf3//iX9+/Z5fvnnA/Y+ucPf4MoOlLqbtoxsGmpJCKySxzALjnT3OXjjk9OYuc4sDonqTM70GnrxC/wNi9Nm1s0H8tgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADzUlEQVQ4yx2Uy28bVRSHvQLsOH7P2+N52B7P2IljJ3biJnWa1HacpE2aEkJJQ0mgtAhapFSAVFqJdlMqISFVolKRitiAygIJFcQaWCLYsWHFFom/4uO0i6tzNffMd37ncW/MK0zg5CdQMgmUbAI9N4Gu5UlMJIgn4iSerXicVDKBmkthKlmKWo5aSaETWjR9hZqZZlzx6ek6sbKaxFeSaFkBCdiUvavnqek5immByMpnJqmXClxZb7M3mKFcLBA6AnJUrJz4iwA7nyaTeIFYTZ8kMFLYalp+jKMLcE6cb55ucu/oHDv9FmUrx8G0y5NXT/FyN8DX0tR9lYpdoJidpCDZqGLTiZeIhWaKZyqVbJKl6ZCKo9N1Ve6MZ3lwfMTW6oIEKPB4fYZ3BdYS5ec6dRbqHg3PYDRbEyFpKVWKyfiLxCI7R8UtYhoKr60tS0onCFyTWd+i6+ssNqrMuRrXFkMG7TqhmuPDnSFXt1ZZn2/w8cEG7ZpDOhknl0qKQt9k1J/n5tUDDraGTJVt3j434uKgT8XSGc/PYGTTLDciDiVgp+w9B48Wu1Rdnxv7Q061q9K8JJOSeiyoOBwf7fLXdw/5+u4xoV1ib+0k7ShEUQwU1ULL5RnMzfHe0T6jbhdLvuXVEtmCTUsCNesNTMsTf+lyqaixPV7ihy/usDvuU5KDSHfIZhTyeY2VTpdxp8W43eJw+wyXNoZMRw2BORTtCiU3xLIDrGIZTS8RyxdU+r0Wbx1sU3YtHC+gbpRZm4q4Pl7l4f4ml3sztF2HwWzEZq/N4cYK++vLNKJI/OvYTiDwMp7jE9N0F13IhmETBT5lx6VoVJkOmiy3Ory/2ef67llCt8Qrq8tSvynmqyaXxz05b+AITDV8aazHG6MusaJdlfwrEiF8bk/2RwzWzlOphKiFvNQvg++6hDWX+WbEVMWlZGsMWzUuDXusLTRZkf1Gt87hsENMN8sCC54DG1GT+3du8+Y7N1g6vUU98ghsRW6FRSDLM1VKcivUTBI9M4GRm6RoFan6vkyHw0zgEasHEfmCxURKF6jL1Ytb3Lp+yK0b17i2v835nfM0p6dkNhUZExXPVun0TtCcXaBaa4jt0VpYQTE9kuk8sZ8ffcKTz2/z6O4HPL53kx+/+oy/f/sW/vuDP58+ZvfiFcySj6GKGiMjD0eWmd4plkbbDLb2OLP3Oqvjs3Tn2igyXrELMjJPv/yUf3//iX9+/Z5fvnnA/Y+ucPf4MoOlLqbtoxsGmpJCKySxzALjnT3OXjjk9OYuc4sDonqTM70GnrxC/wNi9Nm1s0H8tgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Trip Galway 3&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/799d3/trip-galway3.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/00d96/trip-galway3.png 148w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/0b23c/trip-galway3.png 295w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/799d3/trip-galway3.png 590w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/2a3d6/trip-galway3.png 885w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/ae92f/trip-galway3.png 1180w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/669ac/trip-galway3.png 2474w&quot;
+        src=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/fcda8/trip-galway3.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/12f09/trip-galway3.png 148w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/e4a3f/trip-galway3.png 295w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/fcda8/trip-galway3.png 590w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/efc66/trip-galway3.png 885w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/c83ae/trip-galway3.png 1180w,https://lifegorithms.com/static/48e23ea8bb078324b3d9744bb4f005a8/69f8f/trip-galway3.png 2474w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -1070,7 +1105,7 @@ I did ask them if I could join IBM Austin but they were not super excited about 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/7241a/ibm-dublin.png&quot;
+    href=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/af975/ibm-dublin.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1082,15 +1117,15 @@ I did ask them if I could join IBM Austin but they were not super excited about 
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 52.78450363196126%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADJElEQVQozx2OW08TBgCF+xeW6ebSZcLmNDLAMiSzdmTYFait3CrFSjqgFSeXjnsdHWXWgR1rV+iNS7EUeoGAEQErRUcnSjYKDsFonMnYJcte9rBsTy5xWfat8eHkS05OvhyBIfQPjcFnGELPaA4/xTj6iE/8D/jIu01jMobBZIbu0zS8RfPwfdp9m3QMr9EW/AXj3H90X/+X3hjYlsF5GwTm8E90hXcwhXboDHyPcyKGe+I67lAUbySGJ7LI4GSM4aklPKEFHP5ZrN5JxqPfMbv+O4GlJ4zMbeOaTuAIryLoH1tMjm7QN7KAxTmNb2aF8flvaDxvQV1VR4WuEXV1PeqaRko0NVzsH8MViXNv+xF//fEbiY0NorE44ekFRgJXEIgkpWRIVBw8ouItyUnc4ze4Ft9GVqbjhdQc9mQWsDsjn9dEBexKfZu2CwMErt5lY+shfz/9kyc/7LC6tkn05iozs7cQqPUmyqqMFFebUGqNDIYWWYhvJt/oeTMzB9F7CsSyE2RJlaRlHaHTYmdqfoXlO6v02vupOVuHRltNabmGItUpBNJiLdl5Sg7nysmWyOkdmGBueYvjJWpSDqSRkezzFCWkScsRvn6QL+xOvlpZZ+nWTTKz32G3MIVX9u57TmHK/qRQ9j7H8mXkJ6mQy+npc2F3Xaay6gNys0ScKlKiLFYil+ZRdEJJS3MLft8QwctDNNXpOKevor62hrozVTTU6hDYrN30fNqB9TMjvZYWRnx22ltruRL20nBOR//nZuKLk9gvmbBaPuaCqYkv7V1csjbhcZvxuMy4nWZ6kh7XQBcCV0iHxVtIl+sYRpuEseCHfD3v4OHdSFLWydUJB2sxP/MRJ6Oui0SnvNjsrWibJNQYc9CfF6PveJezHVo09WIEnrCabncmNk8hM+PtBAZMtBpqqaw8TXmFhjL1aRSlFchLKlCqKp8zt+Akh8RyUtMPseuNPby472WOFpTx0v5XETi85VybbODxbR+/JiL8nAjx47dBHt8J8CDuZz3m497SKInFEab9fbS1GJAeV1FYVIFMoUacV8gBUQZ709MRpgn5HweCG66ObT3aAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 52.70270270270271%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADJElEQVQozx2OW08TBgCF+xeW6ebSZcLmNDLAMiSzdmTYFait3CrFSjqgFSeXjnsdHWXWgR1rV+iNS7EUeoGAEQErRUcnSjYKDsFonMnYJcte9rBsTy5xWfat8eHkS05OvhyBIfQPjcFnGELPaA4/xTj6iE/8D/jIu01jMobBZIbu0zS8RfPwfdp9m3QMr9EW/AXj3H90X/+X3hjYlsF5GwTm8E90hXcwhXboDHyPcyKGe+I67lAUbySGJ7LI4GSM4aklPKEFHP5ZrN5JxqPfMbv+O4GlJ4zMbeOaTuAIryLoH1tMjm7QN7KAxTmNb2aF8flvaDxvQV1VR4WuEXV1PeqaRko0NVzsH8MViXNv+xF//fEbiY0NorE44ekFRgJXEIgkpWRIVBw8ouItyUnc4ze4Ft9GVqbjhdQc9mQWsDsjn9dEBexKfZu2CwMErt5lY+shfz/9kyc/7LC6tkn05iozs7cQqPUmyqqMFFebUGqNDIYWWYhvJt/oeTMzB9F7CsSyE2RJlaRlHaHTYmdqfoXlO6v02vupOVuHRltNabmGItUpBNJiLdl5Sg7nysmWyOkdmGBueYvjJWpSDqSRkezzFCWkScsRvn6QL+xOvlpZZ+nWTTKz32G3MIVX9u57TmHK/qRQ9j7H8mXkJ6mQy+npc2F3Xaay6gNys0ScKlKiLFYil+ZRdEJJS3MLft8QwctDNNXpOKevor62hrozVTTU6hDYrN30fNqB9TMjvZYWRnx22ltruRL20nBOR//nZuKLk9gvmbBaPuaCqYkv7V1csjbhcZvxuMy4nWZ6kh7XQBcCV0iHxVtIl+sYRpuEseCHfD3v4OHdSFLWydUJB2sxP/MRJ6Oui0SnvNjsrWibJNQYc9CfF6PveJezHVo09WIEnrCabncmNk8hM+PtBAZMtBpqqaw8TXmFhjL1aRSlFchLKlCqKp8zt+Akh8RyUtMPseuNPby472WOFpTx0v5XETi85VybbODxbR+/JiL8nAjx47dBHt8J8CDuZz3m497SKInFEab9fbS1GJAeV1FYVIFMoUacV8gBUQZ709MRpgn5HweCG66ObT3aAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IBM Dublin&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/799d3/ibm-dublin.png&quot;
-        srcset=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/00d96/ibm-dublin.png 148w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/0b23c/ibm-dublin.png 295w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/799d3/ibm-dublin.png 590w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/2a3d6/ibm-dublin.png 885w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/ae92f/ibm-dublin.png 1180w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/7241a/ibm-dublin.png 2478w&quot;
+        src=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/fcda8/ibm-dublin.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/12f09/ibm-dublin.png 148w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/e4a3f/ibm-dublin.png 295w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/fcda8/ibm-dublin.png 590w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/efc66/ibm-dublin.png 885w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/c83ae/ibm-dublin.png 1180w,https://lifegorithms.com/static/9ea687a5a36ac3149ff21d359d763b5e/af975/ibm-dublin.png 2478w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
