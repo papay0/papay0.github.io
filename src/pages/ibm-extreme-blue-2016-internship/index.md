@@ -39,7 +39,7 @@ As you can guess, I hope, I ended up choosing IBM. 🥳
 
 ## Selection process
 
-The process for Early was a few phone calls with the founders, some technical calls but nothing to complex, more high level than code.  
+The process for Early was a few phone calls with the founders, some technical calls but nothing too complex, more high level than code.  
 
 The process for IBM was more similar to what we can expect from a tech company, some online coding interviews etc.  
 Overall, it was _waaaaay_ easier than any of my following Google/Uber/etc interviews because it was less coding and more of everything.  
