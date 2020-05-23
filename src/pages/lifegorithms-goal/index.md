@@ -1,9 +1,13 @@
 ---
 title: Lifegorithms, what is it about? 🤔
-date: '2020-04-14'
+date: '2016-04-14'
 spoiler: Why would I have a website, in 2020?
 category: 'article'
 ---
+*----*  
+*This article has been written on April, 14th, 2020.*  
+*Because I wrote some articles in the past on medium or Google Docs, I am purposely changing the date to April, 14th, 2016 so that it appears last on the website.*  
+*----*
 
 I had a few (very random & useless) websites/blogs in my life.
 
@@ -39,6 +43,3 @@ So far, I've lived my jobs as projects, I like what I do, I have fun doing it, s
 In this section, I want to describe where I worked, what I learned, what I liked etc.
 
 Maybe you realized that I am not at all talking about the name of this website, **Lifegorithms**, I'm sure it will come later, maybe in the **Article** section! 🙃
-
-PS: I will date every articles, projects and jobs concerning the past with the actual date of real life event. For instance, if I describe my job from 2017, the date of the post will be from 2017.  
-It would be confusing otherwise.
