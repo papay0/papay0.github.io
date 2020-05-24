@@ -111,7 +111,7 @@ I LOVED doing it, people told me that just by looking at me they could see I was
 
 The second one was one hosted at Uber HQ, please read the _highlights_ at the beginning of this article.
 
-# My mentorship experiences
+# My mentoring experiences
 
 ## In the company
 
