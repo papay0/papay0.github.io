@@ -1,4 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 May 2020 06:21:10 GMT</lastBuildDate><item><title><![CDATA[Day2Day, your task manager operating on Google Docs 🤓]]></title><description><![CDATA[Trust me you will feel so good after using it for two days!]]></description><link>https://lifegorithms.com/day2day/</link><guid isPermaLink="false">https://lifegorithms.com/day2day/</guid><pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 May 2020 07:52:40 GMT</lastBuildDate><item><title><![CDATA[Mentoring & Hackathons]]></title><description><![CDATA[From Hackathon participant to mentor]]></description><link>https://lifegorithms.com/hackathons-mentor/</link><guid isPermaLink="false">https://lifegorithms.com/hackathons-mentor/</guid><pubDate>Sat, 23 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Highlights of this article:&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;I was a mentor at a Hackathon hosted at Uber HQ in February 2020.&lt;br&gt;
+Out of nowhere, I ended up teaching &amp;#x26; doing workshop about introduction to iOS development to a group of students.&lt;br&gt;
+The group seemed to love it, especially one person who was asking the right questions, all the time. Most of the people wanted to learn how to make an iOS app in order to deliver for the Hackathon, but a person in particular wanted to understand, really understand things.&lt;br&gt;
+Most of them almost never programmed before.&lt;br&gt;
+I absolutely loved explaining complex things in a simple way, and see the happiness in their faces when they clicked on RUN and they had their first iOS app ever! 😍&lt;br&gt;
+In total, I was helping 3 groups to get started with iOS.&lt;/p&gt;
+&lt;p&gt;At the end of the Hackathon I received the following message from the person who, I felt, really wanted to learn iOS development:&lt;br&gt;
+&lt;em&gt;“Hi again Arthur! I just wanted to update you that we were able to finish a prototype of our app EcoBud. We also won Director’s Choice Award: Best Environmental Hack. Thank you for helping us get started and teaching us the basics. I’m inspired by you to continue learning iOS app dev :) have a great weekend!”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I almost wanted to cry 😭, from 0 to learning so much and receiving an award in 24 hours, that’s insane!&lt;/p&gt;
+&lt;p&gt;So I asked her if she wanted me to mentor her outside of the Hackathon, by providing learning resources etc, and maybe check on her ~ once a month: she accepted.&lt;/p&gt;
+&lt;p&gt;It’s been approximately 3 months since the Hackathon, you wanna know what she did during that time?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;She is now participating to other online Hackathons (COVID…) and won some!&lt;/li&gt;
+&lt;li&gt;She is doing iOS developement 3 to 4 hours a day &amp;#x26; she loves it! She is learning different architectures, ARKit, CreateML 🤯&lt;/li&gt;
+&lt;li&gt;And the big news, she is starting her Computer Science degree at Stanford University in a few months… WOW!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This makes me even more want to cry, in ~ 3 months she went from 0 to creating apps and being accepted at Stanford University!&lt;/p&gt;
+&lt;p&gt;I have the feeling that I had a very positive impact in her life and that is an amazing feeling! 😃&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/eea4a/Uber-hackathon-mentor.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABCjIonqT/xAAaEAACAwEBAAAAAAAAAAAAAAABAgARIgMS/9oACAEBAAEFAqyqJCKPVNeqhn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAABAwUAAAAAAAAAAAAAAAABABARAiExUWH/2gAIAQEABj8CkLrVQLKMHbf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8hammnHdlSi3nwuNQzO7Iso6cS4z//2gAMAwEAAgADAAAAEFPP/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qp//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ECf/xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMUFhcaH/2gAIAQEAAT8QvMXoMPdb9ijlFUrgezrGMQF8MsAgRV1AC5F1JmlHURLdqf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Superposition IV Uber Hackathon&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/1c72d/Uber-hackathon-mentor.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/a80bd/Uber-hackathon-mentor.jpg 148w,https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/1c91a/Uber-hackathon-mentor.jpg 295w,https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/1c72d/Uber-hackathon-mentor.jpg 590w,https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/a8a14/Uber-hackathon-mentor.jpg 885w,https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/fbd2c/Uber-hackathon-mentor.jpg 1180w,https://lifegorithms.com/static/c5b5a2dad1c4d454bf040817126ac2fe/eea4a/Uber-hackathon-mentor.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This article is about describing what a Hackathon is, what is a role of a mentor, and my personal experiences.&lt;/p&gt;
+&lt;h1 id=&quot;definitions&quot;&gt;&lt;a href=&quot;#definitions&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Definitions&lt;/h1&gt;
+&lt;p&gt;If you already know what a hackathon and a mentor are, you can directly click &lt;a href=&quot;https://lifegorithms.com/hackathons-mentor/#my-hackathons-experiences&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-a-hackathon&quot;&gt;&lt;a href=&quot;#what-is-a-hackathon&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is a Hackathon?&lt;/h2&gt;
+&lt;p&gt;It’s an event, usually lasting between 1 to 2 days (24 to 48 hours, but can be longer) where people meet and create a product from scratch. There is usually a theme like for instance it can be Smart Cities or Education.&lt;br&gt;
+In the word “Hackathon” there is the word “Hack”, which indicates that it’s about hacking together, and not delivering a perfect production-ready solution. It’s expected that the product barely works.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-a-mentor&quot;&gt;&lt;a href=&quot;#what-is-a-mentor&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is a mentor?&lt;/h2&gt;
+&lt;p&gt;A mentor is a person who can help/guide another person.&lt;/p&gt;
+&lt;h3 id=&quot;mentor-in-hackathon&quot;&gt;&lt;a href=&quot;#mentor-in-hackathon&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mentor in hackathon&lt;/h3&gt;
+&lt;p&gt;A mentor in a Hackathon is someone who usually had done a few Hackathons as a participant in the past. The mentor is usually more experienced than the average experience of the participant group.
+The job of the mentor varies depending of the stage of the hackathon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beginning of hackathon:&lt;br&gt;
+He or she will brainstorm with the participants if they want to, to make sure that the idea/product is not too crazy so that it can be done in the hackathon time. For exemple “creating a new computer operating system” might be a stretch if you’re a beginner and you have 24 hours. 😇&lt;/li&gt;
+&lt;li&gt;During the hackathon:&lt;br&gt;
+The mentor will go from group to group and help/unblock if they need. For instance if a group is stuck on a technical subject, the mentor will read the code and try to unblock, or call another mentor.
+The mentor can also teach, for instance if a group wants to do an iOS app but nobody from the participants knows about iOS development, the mentor can organize a workshop and teach the basics.&lt;/li&gt;
+&lt;li&gt;End of hackathon:&lt;br&gt;
+Participants usually need to prepare a quick presentation to explain what the project was about, the solution, the challenges etc.
+The mentor can help, provide some advice for the presentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;mentor-in-a-company&quot;&gt;&lt;a href=&quot;#mentor-in-a-company&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mentor in a company&lt;/h3&gt;
+&lt;p&gt;We can dissociate two types of mentors: “mentor” and “buddy”.&lt;/p&gt;
+&lt;p&gt;A buddy is someone who help a new hire to be onboarded, explain how to company works, how to find help, who to talk to, the office, if he or she is new to the city maybe explaining how to open a bank account etc, basically answer all the questions the new hire can have.&lt;br&gt;
+The job of a buddy is to make sure the new hire integration is as perfect as possible.&lt;br&gt;
+The duty of a buddy slowly fades out over time, as the new hire integrates more and more into the company.&lt;/p&gt;
+&lt;p&gt;A mentor is someone who will be here to help and guide on a longer term. The mentor is usually more experienced than the mentee, so they meet at least once a week or every two weeks to talk about how the work is doing, careers progressions etc. It can also be more personal discussions if they are comfortable, up to them!&lt;/p&gt;
+&lt;h3 id=&quot;mentor-in-real-life&quot;&gt;&lt;a href=&quot;#mentor-in-real-life&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mentor in real life&lt;/h3&gt;
+&lt;p&gt;I guess you start to understand what a mentor is about.&lt;br&gt;
+A lot of people in Silicon Valley have mentors, even CEOs!&lt;br&gt;
+Anyone can have a mentor, for instance to talk about career progressions, personal development etc.&lt;/p&gt;
+&lt;h1 id=&quot;my-hackathons-experiences&quot;&gt;&lt;a href=&quot;#my-hackathons-experiences&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My Hackathons experiences&lt;/h1&gt;
+&lt;h2 id=&quot;as-a-participant&quot;&gt;&lt;a href=&quot;#as-a-participant&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;As a participant&lt;/h2&gt;
+&lt;p&gt;I personally participated to a few hackathons, at different stages of my career. (student or engineer)&lt;/p&gt;
+&lt;p&gt;At the beginning, I was super excited because I was either learning a new technology, or using a cool techno with some time constraints.
+That’s pretty fun, meeting people for the first time, brainstorming, coding day and &lt;strong&gt;night&lt;/strong&gt;, usually eating pizza; the dream!&lt;/p&gt;
+&lt;p&gt;But after doing a few hackathons + constantly doing side projects, using the same techno, I felt I was having less fun.&lt;br&gt;
+Of course it’s up to me, I could use different techno, doing maybe some AI or ML stuff instead of the usual website/mobile application, but that’s what the team usually lands on.&lt;/p&gt;
+&lt;p&gt;You can learn more about my favorite hackathon as a participant, &lt;a href=&quot;https://lifegorithms.com/f8-2019/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;the Facebook F8 hackathon&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;The hackathon hosted at UC Berkley, named &lt;a href=&quot;https://calhacks.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Cal Hacks&lt;/a&gt;, was also pretty impressive in a sense that more than 2500 people were hacking day and night inside the Berkley stadium. It was my first time in the Berkley University campus so the WOW effect was definitely there!&lt;br&gt;
+Now that I think about it, (during the COVID quarantine) I have a hard time imagining something similar happening again, we were 2500 people in the same location, next to each other! 🦠&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/0e149/Berkley-hackathon-2020.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAECElEQVQ4yx2T20/TdxjGf9kWZ1SQCWIbW0tXaEtbaIGeoJaWnlt6ADrKoRxaWgoIooBFRQWdcaIbjqFkZirEY9S4bG6a3enFkiXb9e7df/LZN148N9/kffO8z+f5SjqTGZWuHrPNjKXNwHQ+xeM7K5zIJelyWRhKugm5mzEbVFiMKrQaOfoGGT1RG7O5MLovK7lzvciHv3dpaTqKpNXvxWw+InSYi4tpHtyaJREwEvaY6YvYiXibiflbaTYoMRuV5Ad9zE3EOCkU8hqolVWws7nAv++2mRiOIqnr5Wi0SgyNKrrcZvzHm0gFHER9VnoiDs7O9pHL+IUrJUadEq9Tj81ch1pZhVy2D7vdxNsn6/z5yzqlXC+SUX8YnfYIdXUHcbYphDsL9hYNlialOClKyNNMV4eIYjTKeNqNz9kgXDeRFicbxJzDaeDe5hJ/PL1MJGRF+mz/HlT1dZxbKJJO+lGr5cjlh1DXyVAoanFYTUxlI0IhJofDhENu2uw2rDYrGr0Wf9DF7t01Xj+8wuhAAMnutGJp1fPP+9ecEUtVqi+4Uh7HZDiGu70Rk/4oKuVhDJoa5gasLM8O0peKMSmG8yk7iWgHP3x3jp93vybd40W6uHqZr5I+VspzLJwoUBwf5vKFJeIRLyun83S2W7AIIG59BRsFE3eXAqzPBLg5aWMhrSHWZWR5foSndy+R6Q8jxZOdRP0mioKQtkGB2enCE4wKmhE83g4yPd0kQi4cAkQ82MFQys3sWITSsIhgPILP7+LCUpGXOzd5snMb6Xh3mha7mVy4haH+DEa7n7DXxlg6xHGLhmCXk3jMRy7lojzVQ3fEw5npMUojCebH4zjadJxbzPHmxX1uXZlBWpoZpVaEP19KcX31PCPpBKmwk8ViLyN9SbIDUS6eHGFtIcfV+WEc7S6y4t1mbsTlMBHtbBNRDfDo3halwSBS2OtBqZDR72thoFNP3G2hXnlIgDLTHe9hJjvCcjFJXpR8zGGkSlaDQ/yqod52Tg6GuVTI8Pxalpfby2xOxZB83lYmMkEBIcipnKAnFhSm1kj4WgkLIFPpHhQaNTG3jmLaSaizkemsj59uTLK9vsirb4r892CGx7fKPN84jbS3uppswkl/wk8o4CLZN8b5rb94d/sEea+a7+fTbJRH0dQrPvbswXqeRxtTPN+apjDsEQYCFIM6Prws8+v2KaQDBz6nsnIvTY0ytI1HqKo5iLu5gW8nrJRiDVwrhbAa5VRU7WNjdZQX23O8+nGex5vT2NvUBLpbyOY83FsJsXNW9PBg9SGsVg37q6qoqJFT+UUte/ZVIH36CYpj1fx+v1csCn6s1LOtOX7bLQst8+bheTIJE+XVAs/ev+XUjXUKa1f5H1DlQJQUksTtAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berkley Cal Hacks 2020&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/fcda8/Berkley-hackathon-2020.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/12f09/Berkley-hackathon-2020.png 148w,https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/e4a3f/Berkley-hackathon-2020.png 295w,https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/fcda8/Berkley-hackathon-2020.png 590w,https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/efc66/Berkley-hackathon-2020.png 885w,https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/c83ae/Berkley-hackathon-2020.png 1180w,https://lifegorithms.com/static/660ff963b19d82741af94aa6aa75d1b1/0e149/Berkley-hackathon-2020.png 2466w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;as-a-mentor&quot;&gt;&lt;a href=&quot;#as-a-mentor&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;As a mentor&lt;/h2&gt;
+&lt;p&gt;I participated to two hackathons as a mentor so far.&lt;/p&gt;
+&lt;p&gt;The first one was a Facebook hackathon in San Francisco.&lt;br&gt;
+I LOVED doing it, people told me that just by looking at me they could see I was having a fun moment!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/7c616/Facebook-SF-Hackathon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGs+Uoxgf/EABwQAAIBBQEAAAAAAAAAAAAAAAECIQADERITFP/aAAgBAQABBQI3tD6YJlnjozAHFf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAEEAwEAAAAAAAAAAAAAAAABAiExEUFRkf/aAAgBAQAGPwKa6SQ5fRgudlH/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFRof/aAAgBAQABPyEzBv6lT07ojmCeQ1yXqt9xFIrlkpcGf//aAAwDAQACAAMAAAAQWB//xAAWEQEBAQAAAAAAAAAAAAAAAAAAIRH/2gAIAQMBAT8QmI//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQIBAT8Q2q//xAAdEAEAAwEAAgMAAAAAAAAAAAABABEhMUFRYYGR/9oACAEBAAE/EKnQVR5rEm2KCUTlW98xJaNNK+Jq9Lp1FKlsfQz8gCKfas//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Facebook SF Hackathon 2020&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/1c72d/Facebook-SF-Hackathon.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/a80bd/Facebook-SF-Hackathon.jpg 148w,https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/1c91a/Facebook-SF-Hackathon.jpg 295w,https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/1c72d/Facebook-SF-Hackathon.jpg 590w,https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/a8a14/Facebook-SF-Hackathon.jpg 885w,https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/fbd2c/Facebook-SF-Hackathon.jpg 1180w,https://lifegorithms.com/static/79df7dce62e6c7e72a38cb53e10674f1/7c616/Facebook-SF-Hackathon.jpg 1837w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The second one was one hosted at Uber HQ, please read the &lt;em&gt;highlights&lt;/em&gt; at the beginning of this article.&lt;/p&gt;
+&lt;h1 id=&quot;my-mentorship-experiences&quot;&gt;&lt;a href=&quot;#my-mentorship-experiences&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My mentorship experiences&lt;/h1&gt;
+&lt;h2 id=&quot;in-hackathons&quot;&gt;&lt;a href=&quot;#in-hackathons&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In Hackathons&lt;/h2&gt;
+&lt;p&gt;See &lt;a href=&quot;https://lifegorithms.com/hackathons-mentor/#as-a-mentor&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;in-the-company&quot;&gt;&lt;a href=&quot;#in-the-company&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In the company&lt;/h2&gt;
+&lt;p&gt;In my current job @Uber, I had the opportunity the become a buddy and a mentor, I love it!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am mentoring a Junior engineer. Uber is his first full-time job.&lt;br&gt;
+We’re on the same team so we can talk daily, but we have a 1-1 meeting once a week. (twice a week for the first two months)&lt;br&gt;
+I have the feeling that I am helping, but also that I can be even more helpful by having something more structured in mind. I’ll do more research about it.&lt;/li&gt;
+&lt;li&gt;I am mentoring a designer to code.&lt;br&gt;
+He is a super talented designer, and also now (almost?) a software engineer! He is super excited about learning more, coding, GIT, how it works at Uber etc.&lt;br&gt;
+I have to admit; he impressed me, he was able to land his first code in production super quickly, he is now able to write his code without me, mainly UI fixes (padding, colors etc), create Feature Flags, and land his code in production!
+He unfortunately left Uber yesterday (when I’m writing those lines) to go to Apple, super happy for him and I wish him all the best there!&lt;br&gt;
+He told me a few times that he was waaaaaay more excited about coding and fixing bugs than doing his daily design work 🙈&lt;br&gt;
+I &lt;em&gt;will&lt;/em&gt; miss you!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;in-real-life&quot;&gt;&lt;a href=&quot;#in-real-life&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In real life&lt;/h2&gt;
+&lt;p&gt;I am only checking / answering questions to one person at the moment, see &lt;em&gt;highlights&lt;/em&gt; at the beginning of this article.&lt;br&gt;
+This can be something I can focus more in the future.&lt;/p&gt;
+&lt;h2 id=&quot;in-developer-circles-san-francisco&quot;&gt;&lt;a href=&quot;#in-developer-circles-san-francisco&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In Developer Circles San Francisco&lt;/h2&gt;
+&lt;p&gt;I won’t spend too much time in this article describing what &lt;a href=&quot;https://developers.facebook.com/developercircles/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Developer Circles&lt;/a&gt; is, but part of being the lead for San Francisco I decided to create a Mentorship program to help CS students.&lt;br&gt;
+It’s a Work In Progress program, stay tuned!&lt;/p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;By mentoring, I have the feeling that I can have an impact on people’s life.&lt;br&gt;
+I know that when I create a feature for my company, I also have an impact, but it’s not the same kind of impact.&lt;/p&gt;
+&lt;p&gt;I absolutely love sharing and explaining things to people.&lt;/p&gt;
+&lt;p&gt;I am wondering if, part of my daily job, I can make this mentorship idea more important?&lt;br&gt;
+It can be either about mentoring, or creating a program to teach designers/PMs how to code inside the company, or …? 🤷‍♂️&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/hackathons-mentor/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Day2Day, your task manager operating on Google Docs 🤓]]></title><description><![CDATA[Trust me you will feel so good after using it for two days!]]></description><link>https://lifegorithms.com/day2day/</link><guid isPermaLink="false">https://lifegorithms.com/day2day/</guid><pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;https://lifegorithms.com/static/32d9d508a4eee28b53d81b91062aee8c/0244a/day2day.png&quot;
