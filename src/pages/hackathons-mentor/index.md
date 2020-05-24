@@ -1,9 +1,11 @@
 ---
 title: Mentoring & Hackathons
 date: '2020-05-23'
-spoiler: From Hackathon participant to mentor
+spoiler: From Hackathon participant to Mentor
 category: 'article'
 ---
+
+![Superposition IV Uber Hackathon](./Uber-hackathon-mentor.JPG)
 
 _Highlights of this article:_  
 
@@ -31,8 +33,6 @@ This makes me even more want to cry, in ~ 3 months she went from 0 to creating a
 I have the feeling that I had a very positive impact in her life and that is an amazing feeling! 😃
 
 --------------------
-
-![Superposition IV Uber Hackathon](./Uber-hackathon-mentor.JPG)
 
 This article is about describing what a Hackathon is, what is a role of a mentor, and my personal experiences.
 
@@ -113,10 +113,6 @@ The second one was one hosted at Uber HQ, please read the _highlights_ at the be
 
 # My mentorship experiences
 
-## In Hackathons
-
-See [here](/hackathons-mentor/#as-a-mentor).
-
 ## In the company
 
 In my current job @Uber, I had the opportunity the become a buddy and a mentor, I love it!
@@ -142,9 +138,13 @@ This can be something I can focus more in the future.
 I won't spend too much time in this article describing what [Developer Circles](https://developers.facebook.com/developercircles/) is, but part of being the lead for San Francisco I decided to create a Mentorship program to help CS students.  
 It's a Work In Progress program, stay tuned!
 
+## In Hackathons
+
+See [here](/hackathons-mentor/#as-a-mentor).
+
 # Conclusion
 
-By mentoring, I have the feeling that I can have an impact on people's life.  
+By mentoring, I have the feeling that I can have an impact on people's lives.  
 I know that when I create a feature for my company, I also have an impact, but it's not the same kind of impact.
 
 I absolutely love sharing and explaining things to people.
