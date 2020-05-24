@@ -1,7 +1,7 @@
 ---
-title: Mentorship & Hackathons
+title: Mentoring & Hackathons
 date: '2020-05-23'
-spoiler: Dublin, we had a great From hackathon participant to mentor
+spoiler: From Hackathon participant to mentor
 category: 'article'
 ---
 
@@ -32,14 +32,14 @@ I have the feeling that I had a very positive impact in her life and that is an 
 
 --------------------
 
-![Superposition IV Uber Hackathon](./Uber-hackathon-mentor.jpg)
+![Superposition IV Uber Hackathon](./Uber-hackathon-mentor.JPG)
 
 This article is about describing what a Hackathon is, what is a role of a mentor, and my personal experiences.
 
 
 # Definitions
 
-If you already know what a hackathon and a mentor are, you can directly click here. [TODO: insert link]
+If you already know what a hackathon and a mentor are, you can directly click [here](/hackathons-mentor/#my-hackathons-experiences).
 
 ## What is a Hackathon?
 
@@ -107,7 +107,7 @@ I participated to two hackathons as a mentor so far.
 The first one was a Facebook hackathon in San Francisco.  
 I LOVED doing it, people told me that just by looking at me they could see I was having a fun moment!
 
-![Facebook SF Hackathon 2020](./Facebook-SF-Hackathon.jpg)
+![Facebook SF Hackathon 2020](./Facebook-SF-Hackathon.JPG)
 
 The second one was one hosted at Uber HQ, please read the _highlights_ at the beginning of this article.
 
@@ -115,7 +115,7 @@ The second one was one hosted at Uber HQ, please read the _highlights_ at the be
 
 ## In Hackathons
 
-Same here, please read the _highlights_ at the beginning of this article.
+See [here](/hackathons-mentor/#as-a-mentor).
 
 ## In the company
 
@@ -140,7 +140,7 @@ This can be something I can focus more in the future.
 ## In Developer Circles San Francisco
 
 I won't spend too much time in this article describing what [Developer Circles](https://developers.facebook.com/developercircles/) is, but part of being the lead for San Francisco I decided to create a Mentorship program to help CS students.  
-It's a Work In Progress, stay tuned!
+It's a Work In Progress program, stay tuned!
 
 # Conclusion
 
@@ -149,5 +149,5 @@ I know that when I create a feature for my company, I also have an impact, but i
 
 I absolutely love sharing and explaining things to people.
 
-I am wondering if, part of my daily job, I can make this mentorship idea more dominant?  
-It can be either about mentoring, or creating a program to teach designers/PMs how to code, or ...?
+I am wondering if, part of my daily job, I can make this mentorship idea more important?  
+It can be either about mentoring, or creating a program to teach designers/PMs how to code inside the company, or ...? 🤷‍♂️
