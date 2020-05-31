@@ -33,9 +33,7 @@ The two boxes would look like:
 
 ![Two boxes](./two-boxes.png)
 
-Video of a hole + the small box inside the big one:
-
-[![WIP Amazon Nightstand](http://img.youtube.com/vi/dVpYiGXWpVA/0.jpg)](https://www.youtube.com/watch?v=dVpYiGXWpVA "WIP Amazon Nightstand")
+Click [here](https://www.youtube.com/watch?v=dVpYiGXWpVA) to see the video of the Work In Progress nightstand: a hole + the small box inside the big one.
 
 `First problem` solved! 🥳
 
@@ -53,10 +51,7 @@ What about the `third problem`?
 
 Well, let's just create more holes and we should be good to go!
 
-See the full demo of this brand new Amazon Nightstand 2020:
-
-
-[![Amazon NightStand 2020](http://img.youtube.com/vi/KxRz7Igzli4/0.jpg)](https://www.youtube.com/watch?v=KxRz7Igzli4 "Amazon NightStand 2020")
+Click [here](https://www.youtube.com/watch?v=KxRz7Igzli4) to see the full demo of this brand new Amazon Nightstand 2020.
 
 You can 👇 `Subscribe to the Newsletter` 👇 if you want to preorder. ☺️
 
