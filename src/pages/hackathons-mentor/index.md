@@ -1,5 +1,5 @@
 ---
-title: Mentoring & Hackathons
+title: Mentoring & Hackathons 🤝
 date: '2020-05-23'
 spoiler: From Hackathon participant to Mentor
 category: 'article'

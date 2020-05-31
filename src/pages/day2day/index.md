@@ -1,5 +1,5 @@
 ---
-title: Day2Day, your task manager operating on Google Docs 🤓
+title: Day2Day, your task manager on Google Docs 🤓
 date: '2020-02-04'
 spoiler: Trust me you will feel so good after using it for two days!
 category: 'project'
