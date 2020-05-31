@@ -1,5 +1,5 @@
 ---
-title: Amazon Nightstand 2020 🧰
+title: Amazon Charging Nightstand 2020 🧰
 date: '2020-05-30'
 spoiler: Simple, efficace & pas cher, soon to be pretty
 category: 'project'
