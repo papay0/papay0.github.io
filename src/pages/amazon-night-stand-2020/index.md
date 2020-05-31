@@ -33,7 +33,9 @@ The two boxes would look like:
 
 ![Two boxes](./two-boxes.png)
 
-Click [here](https://www.youtube.com/watch?v=dVpYiGXWpVA) to see the video of the Work In Progress nightstand: a hole + the small box inside the big one.
+Work In Progress nightstand: a hole + the small box inside the big one:
+
+![WIP Amazon Nightstand 2020](./demo-wip-amazon-charging-nightstand.gif)
 
 `First problem` solved! 🥳
 
@@ -51,7 +53,9 @@ What about the `third problem`?
 
 Well, let's just create more holes and we should be good to go!
 
-Click [here](https://www.youtube.com/watch?v=KxRz7Igzli4) to see the full demo of this brand new Amazon Nightstand 2020.
+Full demo of this brand new Amazon Charging Nightstand 2020:
+
+![Amazon Nightstand 2020](./demo-amazon-charging-nightstand.gif)
 
 You can 👇 `Subscribe to the Newsletter` 👇 if you want to preorder. ☺️
 
