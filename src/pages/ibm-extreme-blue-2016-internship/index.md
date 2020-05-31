@@ -3,6 +3,7 @@ title: IBM Extreme Blue 2016 🍻
 date: '2016-09-09'
 spoiler: Dublin, we had a great time!
 category: 'job'
+published: true
 ---
 
 This post summarizes my 2016 internship experience at IBM Dublin, **from June to September 2016**.  

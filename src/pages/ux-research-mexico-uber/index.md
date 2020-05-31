@@ -3,6 +3,7 @@ title: Uber UX Research Trip 🇲🇽
 date: '2018-11-18'
 spoiler: A week researching in Mexico, from the point of view of an Engineer!
 category: 'article'
+published: true
 ---
 
 A few words before the article:

@@ -94,6 +94,7 @@ module.exports = {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.spoiler,
                   category: edge.node.frontmatter.category,
+                  published: edge.node.frontmatter.published,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
@@ -120,6 +121,7 @@ module.exports = {
                         date
                         spoiler
                         category
+                        published
                       }
                     }
                   }

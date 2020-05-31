@@ -3,6 +3,7 @@ title: My Facebook F8/Hackathons 2019 Experience 😍
 date: '2019-05-01'
 spoiler: Why would Facebook invite me? 🙄
 category: 'article'
+published: true
 ---
 
 # F8 / Hackathon 2019

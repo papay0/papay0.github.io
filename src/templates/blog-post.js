@@ -271,6 +271,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         spoiler
         category
+        published
       }
       fields {
         slug

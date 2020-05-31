@@ -3,6 +3,7 @@ title: Day2Day, your task manager operating on Google Docs 🤓
 date: '2020-02-04'
 spoiler: Trust me you will feel so good after using it for two days!
 category: 'project'
+published: true
 ---
 
 ![Day2Day](./day2day.png)
