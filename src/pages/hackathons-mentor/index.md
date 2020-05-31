@@ -3,7 +3,7 @@ title: Mentoring & Hackathons
 date: '2020-05-23'
 spoiler: From Hackathon participant to Mentor
 category: 'article'
-published: false
+published: true
 ---
 
 ![Superposition IV Uber Hackathon](./Uber-hackathon-mentor.JPG)
@@ -12,26 +12,29 @@ _Highlights of this article:_
 
 I was a mentor at a Hackathon hosted at Uber HQ in February 2020.  
 Out of nowhere, I ended up teaching & doing workshop about introduction to iOS development to a group of students.  
-The group seemed to love it, especially one person who was asking the right questions, all the time. Most of the people wanted to learn how to make an iOS app in order to deliver for the Hackathon, but a person in particular wanted to understand, really understand things.  
+The group seemed to love it, especially one person who was asking the right questions, all the time.  
+Most of the people wanted to learn how to make an iOS app in order to deliver for the Hackathon (which is great & totally fine!), but a person in particular wanted to understand, really understand things.  
 Most of them almost never programmed before.  
-I absolutely loved explaining complex things in a simple way, and see the happiness in their faces when they clicked on RUN and they had their first iOS app ever! 😍  
-In total, I was helping 3 groups to get started with iOS.
+I absolutely loved explaining `complex things in a simple way`, and see the happiness in their faces when they clicked on RUN and they had their first iOS app ever! 😍
 
 At the end of the Hackathon I received the following message from the person who, I felt, really wanted to learn iOS development:  
+
 _“Hi again Arthur! I just wanted to update you that we were able to finish a prototype of our app EcoBud. We also won Director's Choice Award: Best Environmental Hack. Thank you for helping us get started and teaching us the basics. I’m inspired by you to continue learning iOS app dev :) have a great weekend!”_
 
-I almost wanted to cry 😭, from 0 to learning so much and receiving an award in 24 hours, that's insane!
+I almost wanted to cry 😭, from `0` to `learning so much and receiving an award` in 24 hours, that's insane!
 
 So I asked her if she wanted me to mentor her outside of the Hackathon, by providing learning resources etc, and maybe check on her ~ once a month: she accepted.
 
-It's been approximately 3 months since the Hackathon, you wanna know what she did during that time?
+It's been approximately 3 months since the Hackathon, you wanna know what she did during that time? _I can already tell you this person is super impressive!_
 - She is now participating to other online Hackathons (COVID...) and won some!
-- She is doing iOS developement 3 to 4 hours a day & she loves it! She is learning different architectures, ARKit, CreateML 🤯
-- And the big news, she is starting her Computer Science degree at Stanford University in a few months... WOW!!
+- She is doing iOS development 3 to 4 hours a day & she loves it! She is learning different architectures, ARKit, CreateML 🤯
+- And the big news, `she is starting her Computer Science degree at Stanford University in a few months`... WOW!!
 
-This makes me even more want to cry, in ~ 3 months she went from 0 to creating apps and being accepted at Stanford University!
+This makes me even more want to cry, in ~ 3 months she went from `0` to `creating apps and being accepted at Stanford University` to pursue a career in Computer Science!
 
-I have the feeling that I had a very positive impact in her life and that is an amazing feeling! 😃
+I have the feeling that I had a positive impact in her life by helping a tiny bit and that is an amazing feeling! 😃  
+I'm super impressed by her, she just did not stop, found a passion, kept going, tried, and honestly she did not ask for help either.  
+I just provided the initial help/resources and she did everything by herself! 👏
 
 --------------------
 
@@ -57,7 +60,7 @@ A mentor in a Hackathon is someone who usually had done a few Hackathons as a pa
 The job of the mentor varies depending of the stage of the hackathon.
 
 - Beginning of hackathon:  
-He or she will brainstorm with the participants if they want to, to make sure that the idea/product is not too crazy so that it can be done in the hackathon time. For exemple “creating a new computer operating system” might be a stretch if you’re a beginner and you have 24 hours. 😇
+He or she will brainstorm with the participants if they want to, to make sure that the idea/product is not too crazy so that it can be done in the hackathon time. For example “creating a new computer operating system” might be a stretch if you’re a beginner and you have 24 hours. 😇
 
 - During the hackathon:  
 The mentor will go from group to group and help/unblock if they need. For instance if a group is stuck on a technical subject, the mentor will read the code and try to unblock, or call another mentor.
