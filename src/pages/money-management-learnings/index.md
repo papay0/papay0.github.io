@@ -9,7 +9,7 @@ published: true
 ___Disclaimer:  
 This article is about sharing knowledge. You should also do your own research and not simply do what is written here. I will not be responsible for what you do with your money. I am not a financial advisor.  
 I will generalize a lot of things and use simple terms on purpose.  
-Please [let me know](https://twitter.com/papay0) if I write something wrong so that I can learn and correct this article.  
+Please [let me know](https://twitter.com/papay0) if I wrote something wrong so that I can learn and correct this article.  
 This is NOT a step by step tutorial about how to invest your money.  
 I only describe things related to the stock market, other ways to invest exist and I will not describe them here.___
 
