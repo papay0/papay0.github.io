@@ -17,10 +17,10 @@ I only describe things related to the stock market, other ways to invest exist a
 
 There are a few things you should know about your money.  
 This article is about what I learned in my first 10 months living in the US, and what I wish someone would have told me on my first day.  
-I will explain why you should NOT let all your money on your savings account, if you have the luxury to spend less than what you earn.
+I will explain why you should NOT let all your money sit on your savings account, if you have the luxury to spend less than what you earn.
 
 **TLDR;**
-- Because of the inflation rate, letting your money in your bank is like losing some money every year.
+- Because of the inflation rate, letting your money sit in your bank is like losing some money every year.
 - You should invest only if you’re willing to lose.
 - You should max out your 401k if you can.
 
