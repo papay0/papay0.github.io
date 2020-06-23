@@ -44,7 +44,7 @@ It was just a perfect match! 👩‍❤️‍👨
 
 ![Cables inside box](./cables-inside-box.png)
 
-But what about, if I want to add sometimes else to charge, should I really remove everything?  
+But what about, if I want to add something else to charge, should I really remove everything?  
 Obviously not, I created the first Amazon Window, sold separately, where you can access the only single slot still available for urgent need of charge.
 
 ![Amazon Window](./amazon-window.png)
