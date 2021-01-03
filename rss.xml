@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 22:24:08 GMT</lastBuildDate><item><title><![CDATA[2020 - The Year in Review]]></title><description><![CDATA[First half of 2020 sucked, second half sucked less]]></description><link>https://lifegorithms.com/review-2020/</link><guid isPermaLink="false">https://lifegorithms.com/review-2020/</guid><pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This article contains two parts, the first one &lt;a href=&quot;http://localhost:8000/review-2020/#key-moments&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;describing the key moments of 2020&lt;/a&gt; (it also serves as memories), months after months, and the second one being a &lt;a href=&quot;http://localhost:8000/review-2020/#reflection&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;reflection of the year&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;2020 was my first full year ‘living’ San Francisco, as I moved there in September 2019.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 22:42:07 GMT</lastBuildDate><item><title><![CDATA[2020 - Year in Review]]></title><description><![CDATA[First half of 2020 sucked, second half sucked less]]></description><link>https://lifegorithms.com/review-2020/</link><guid isPermaLink="false">https://lifegorithms.com/review-2020/</guid><pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This article contains two parts&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8000/review-2020/#key-moments&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;description of the key moments of 2020&lt;/a&gt; (it also serves as memories), months after months&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8000/review-2020/#reflection&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;reflection of the year&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2020 was my first full year ‘living’ San Francisco, as I moved there in September 2019. (previously living in Amsterdam for 2 years)&lt;/p&gt;
 &lt;h1 id=&quot;key-moments&quot;&gt;&lt;a href=&quot;#key-moments&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Key moments&lt;/h1&gt;
 &lt;h2 id=&quot;january&quot;&gt;&lt;a href=&quot;#january&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;January&lt;/h2&gt;
-&lt;p&gt;I was in France for the first two weeks, visiting Paris and Bandol.&lt;/p&gt;
+&lt;p&gt;I was in France 🇫🇷 for the first two weeks, visiting Paris and Bandol.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -34,7 +38,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;I was in San Francisco for the last two weeks, in my studio in Dolores.&lt;/p&gt;
+&lt;p&gt;I was in San Francisco 🇺🇸 for the last two weeks, in my studio in Dolores.&lt;/p&gt;
 &lt;p&gt;I went skiing in Tahoe, it was my first time there. This place is beautiful!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -99,8 +103,9 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h2 id=&quot;february&quot;&gt;&lt;a href=&quot;#february&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;February&lt;/h2&gt;
-&lt;p&gt;Moved with a roommate in Mission Bay, worst decision of the year, it was a disaster. She was behaving like a monster.&lt;/p&gt;
-&lt;p&gt;Rented a motorcycle with my friend Marta and drove to Napa.&lt;/p&gt;
+&lt;p&gt;Moved with a roommate in Mission Bay, worst decision of the year, it was a disaster.&lt;br&gt;
+She was behaving like a monster.&lt;/p&gt;
+&lt;p&gt;Rented a motorcycle with my friend Marta and drove to Napa. (first time there)&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -132,7 +137,8 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;I went to Angel Island with friends. Might have been the last social interaction without freaking out about Covid, February 22nd.&lt;/p&gt;
+&lt;p&gt;I went to Angel Island with friends.&lt;br&gt;
+February 22nd: might have been the last social interaction without freaking out about Covid.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -169,7 +175,7 @@
 &lt;li&gt;Pretty bad months, living hell with my roommate.&lt;/li&gt;
 &lt;li&gt;Started to work remotely.&lt;/li&gt;
 &lt;li&gt;Uber (my current company) was doing lots of layoff, I was extremely stressed because of my VISA situation. If I was laid off I’d need to leave the country.&lt;/li&gt;
-&lt;li&gt;I was going on daily walks around Mission Bay, I was taking my (non-computer-required) meetings from a bench facing the water.&lt;/li&gt;
+&lt;li&gt;I was going on daily walks around Mission Bay, I was taking my (non-computer-required) meetings from a bench facing the water. This helped me a lot to fight stress.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
   &lt;a
@@ -202,7 +208,8 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;I was introduced to a Messenger Zoom Workout group, this saved my year. People leading the workouts were amazing, great human being, it gave me a sensation of belonging to a community, much needed during Covid.&lt;/p&gt;
+&lt;p&gt;I was introduced to a Messenger Zoom Workout group, this saved my year.&lt;br&gt;
+People leading the workouts were amazing, great human being, it gave me a sensation of belonging to a community, much needed during Covid.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -234,7 +241,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Did my birthday with Family &amp;#x26; Friends over zoom.&lt;/p&gt;
+&lt;p&gt;I did my birthday with Family &amp;#x26; Friends over zoom.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -336,7 +343,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;Even with Covid, my step sister decided to not cancel her wedding.
-My sister &amp;#x26; I originally didn’t want to go &lt;em&gt;because&lt;/em&gt; it was too dangerous, but this decision started a family drama. So we ended up going.&lt;/p&gt;
+My sister &amp;#x26; I originally didn’t want to go &lt;em&gt;because&lt;/em&gt; it was too Covid-dangerous, but this decision started a family drama. So we ended up going.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -368,12 +375,13 @@ My sister &amp;#x26; I originally didn’t want to go &lt;em&gt;because&lt;/em&g
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Around eng of July/August, I started to learn about Options Trading. Very risky but also very interesting. Trading in France almost doesn’t exist, people don’t really invest in stocks.&lt;br&gt;
+&lt;p&gt;Around eng of July/August, I started to learn about Options Trading. Very risky but also very interesting.&lt;br&gt;
+Trading in France almost doesn’t exist, people don’t really invest in stocks.&lt;br&gt;
 Or maybe I was just too young as a student to realize.&lt;br&gt;
-Since I arrived in the US, I learned so much about 401k, different types of investments etc.&lt;/p&gt;
+Since I arrived in the US, I learned so much about 401k, different types of investments, etc.&lt;/p&gt;
 &lt;p&gt;Wrote this article to summarize my knowledge and share with people new to the country: &lt;a href=&quot;https://lifegorithms.com/money-management-learnings/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;What I wish someone would have told me about money management 💸&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;september&quot;&gt;&lt;a href=&quot;#september&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;September&lt;/h2&gt;
-&lt;p&gt;Covid test negative: with a few friends we went at the beach for a few days to ~ Seignosse, France.&lt;/p&gt;
+&lt;p&gt;Covid test negative: with a few friends we went at the beach for a few days, in ~ Seignosse, France.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -636,7 +644,7 @@ I was sleeping on the floor in a room full of people, it was looking like dead p
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;My room:&lt;/p&gt;
+&lt;p&gt;My room during the night:&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -701,7 +709,7 @@ I was sleeping on the floor in a room full of people, it was looking like dead p
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;After a few more days spent in another place, I finally came back to the original hotel for a few days, then flew to San Francisco where I stayed for 3 weeks.&lt;/p&gt;
-&lt;p&gt;First dinner, best dinner, In-N-Out!&lt;/p&gt;
+&lt;p&gt;First dinner, best dinner, In-N-Out! 🍔&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -733,10 +741,11 @@ I was sleeping on the floor in a room full of people, it was looking like dead p
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;The plan was to go to LA, but then it changed to NYC, but it got canceled because of Covid so I ended up choosing Hawaii and went with my friend Zach.&lt;/p&gt;
+&lt;p&gt;The plan was to go to LA, but then it changed to NYC, but it got canceled because of Covid so I ended up choosing Hawaii.&lt;br&gt;
+I went with my friend Zach.&lt;/p&gt;
 &lt;h2 id=&quot;november&quot;&gt;&lt;a href=&quot;#november&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;November&lt;/h2&gt;
 &lt;p&gt;Hawaii was AMAZING. Highly recommend!&lt;br&gt;
-I started surfing, almost everyday, best thing that happened in 2020 for sure!&lt;/p&gt;
+I started surfing 🏄‍♂️, almost everyday, best thing that happened in 2020, for sure!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -830,7 +839,7 @@ I started surfing, almost everyday, best thing that happened in 2020 for sure!&l
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Almost everyday, I was going to the beach to watch the sunset.
+&lt;p&gt;Almost everyday, I was going to the beach for the sunset.&lt;br&gt;
 My level of happiness around the beach and surfing was very high!!&lt;br&gt;
 I hiked, rented a scooter, did my first skydiving jump: so beautiful! (&lt;a href=&quot;https://www.youtube.com/watch?v=YSLpYZO9cDU&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;video&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;
