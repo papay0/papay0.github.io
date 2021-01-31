@@ -136,15 +136,15 @@ I do have some <a href="https://en.wikipedia.org/wiki/Dogecoin" target="_blank" 
 You can see that Index funds are missing from this list, it’s because I use <code class="language-text">Fidelity</code> for that. I don’t want to do day trading with it, I want to keep it separate, invest monthly, automatically, not look at it and forget about it.</p>
 <h1 id="what-is-sotrade-what-functionalities-and-how-did-i-build-it"><a href="#what-is-sotrade-what-functionalities-and-how-did-i-build-it" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is SoTrade, what functionalities, and how did I build it?</h1>
 <p>SoTrade is a cross-platform app (iOS, Android) built with <a href="https://reactnative.dev/" target="_blank" rel="nofollow noopener noreferrer">React Native</a>.<br>
-I created a <code class="language-text">widget</code> for every feature that I think Robinhood was missing.<br>
-Users will be able to go to the settings and add only the one they want.</p>
+I created like a <code class="language-text">widget</code> for every feature that I think Robinhood was missing.<br>
+Users will be able to go to the settings and only add the one they are interested in.</p>
 <h2 id="notifications"><a href="#notifications" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Notifications</h2>
 <p>I wish Robinhood had personalized notifications about how my day/week/month went.<br>
 For instance, <code class="language-text">This week you made $143, way to go!</code>.</p>
 <p>👉 I built a <a href="https://firebase.google.com/docs/functions/schedule-functions" target="_blank" rel="nofollow noopener noreferrer">CRON system running on Firebase Cloud Functions</a>.<br>
 It runs every trading day, at pre-market time, market opening time and closing time.<br>
 It tells me how much I made/lost overnight and how my day went.</p>
-<p>Example of notification:</p>
+<p>Example of notifications:</p>
 <p>
   <a
     class="gatsby-resp-image-link"
@@ -180,7 +180,7 @@ It tells me how much I made/lost overnight and how my day went.</p>
   
   </a>
     </p>
-<p>Once I have access to my Robinhood data, I can really send any useful things, possibilities are endless!</p>
+<p>Once I have access to my Robinhood data, I can really send any useful things: possibilities are endless!</p>
 <h2 id="debit-spreads-1"><a href="#debit-spreads-1" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Debit Spreads</h2>
 <p>Debit spreads are capped, meaning there is a max profit. The max profit is done when both legs of the options are ITM (In The Money). You get the max profit only at expiration.<br>
 Robinhood doesn’t tell you what is the max profit. It’s actually not complex to compute it yourself. It’s not hard at all, I don’t see why Robinhood would not show it!</p>
@@ -338,7 +338,7 @@ Robinhood shows pre-market for stocks but not for options, AFAIK.</p>
   </a>
     </p>
 <h2 id="login-screen"><a href="#login-screen" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Login screen</h2>
-<p>👉 I built a login screen for SoTrade describing what it does, showing the Terms of Service.</p>
+<p>👉 I built a login screen describing what it does &#x26; showing the Terms of Service.</p>
 <p>This creates an anonymous user on Firebase Firestore, using <a href="https://firebase.google.com/docs/auth/web/anonymous-auth" target="_blank" rel="nofollow noopener noreferrer">Firebase Anonymous Auth</a>.<br>
 The user in database is useful to store the notification APN tokens, the timezone, and the Robinhood account number. I do not store any personal information like name, age or address.</p>
 <p>
@@ -376,9 +376,9 @@ The user in database is useful to store the notification APN tokens, the timezon
     </p>
 <h2 id="sign-in-screen"><a href="#sign-in-screen" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Sign-in screen</h2>
 <p>👉 SoTrade has a Sign-in screen working with Robinhood’s email/password. It can also handle 2FA, it will wait for your passcode to arrive in your phone and ask you to enter it.  </p>
-<p>To manage this signin on the backend, I’m using the NodeJS Framework named <a href="https://github.com/aurbano/robinhood-node" target="_blank" rel="nofollow noopener noreferrer">robinhood-node</a>.</p>
-<p>Robinhood doesn’t have a public API, but they of course do have private APIs on <a href="https://api.robinhood.com/" target="_blank" rel="nofollow noopener noreferrer">api.robinhood.com</a>!
-To get those APIs, the only thing to do is to go to <a href="https://robinhood.com" target="_blank" rel="nofollow noopener noreferrer">robinhood.com</a>, right-click, inspect element, go to the Network tab and start analysing the network calls.<br>
+<p>To manage this sign-in on the backend, I’m using the NodeJS Framework named <a href="https://github.com/aurbano/robinhood-node" target="_blank" rel="nofollow noopener noreferrer">robinhood-node</a>. (unofficial)</p>
+<p>Robinhood doesn’t have a public API, but they of course do have their own private APIs on <a href="https://api.robinhood.com/" target="_blank" rel="nofollow noopener noreferrer">api.robinhood.com</a>!</p>
+<p>To get those APIs, the only thing to do is to go to <a href="https://robinhood.com" target="_blank" rel="nofollow noopener noreferrer">robinhood.com</a>, right-click, inspect element, go to the Network tab and start analysing the network calls.<br>
 You will see all the GET requests, how the authentication is done, that’s the reverse-enginnering fun part! 🥳</p>
 <p>
   <a
@@ -420,17 +420,17 @@ You will see all the GET requests, how the authentication is done, that’s the 
 <p>After a successful login, a token will be generated by Robinhood to authenticate future logins.<br>
 This is very important to have a strong security &#x26; encryption to store this token, because this is the key to your Robinhood’s account! 🔑<br>
 You can do absolutely anything with this token, so it should not get hacked, under any circumstances!  </p>
-<p>Here is how I secure it at the moment:<br>
-I generated a random string as a secret key, I store it as an ENV variable on my Firebase Cloud Functions backend. This secret key is not stored anywhere, except in the environment variable.<br>
+<p>Here is how I secure it at the moment 👇</p>
+<p>I generated a random string as a secret key, I store it as an ENV variable on my Firebase Cloud Functions backend. This secret key is not stored anywhere, except in the environment variable.<br>
 I’m using <a href="https://cryptojs.gitbook.io/docs/" target="_blank" rel="nofollow noopener noreferrer">CryptoJS.AES</a> to encrypt and decrypt using this secret key.<br>
 Only the encrypted token is stored on the database so that if hackers succeeds to have access to the database, they will never be able to retrieve the original Robinhood token without the secret key.</p>
 <p>I encrypt using:</p>
 <div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">const encryptedToken = CryptoJS.AES.encrypt(token, secretKey).toString();</code></pre></div>
-<p>For every request, I decrypt the token using the following lines:  </p>
+<p>For every request, I decrypt the token using the following line:  </p>
 <div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">const decryptedToken = CryptoJS.AES.decrypt(encryptedToken, secretKey).toString(CryptoJS.enc.Utf8);</code></pre></div>
 <p>Please let me know if you see a big security flaw here &#x26; I’ll work on it!</p>
 <h2 id="statistics"><a href="#statistics" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Statistics</h2>
-<p>I love statistics, I’d love to see how well/poor I did compare to S&#x26;P500, or compare to other people like <code class="language-text">Today, you are in the 9% of worst traders</code> or <code class="language-text">You’re up 9% this week while S&amp;P500 is up 2.3%, Yaaay</code>!</p>
+<p>I love statistics, I’d love to see how well/poor I did compare to S&#x26;P500, or compare to other people like <code class="language-text">Today, you are in the 9% of worst traders</code> or <code class="language-text">You’re up 9% this week while S&amp;P500 is up 2.3%, yaaay</code>!</p>
 <p>Or just to make it more social: <code class="language-text">You’re down 1.8% this week while Robinhood users are on average up 0.2%!</code> 🥳</p>
 <h1 id="whats-next-for-sotrade"><a href="#whats-next-for-sotrade" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What’s next for SoTrade?</h1>
 <p>I don’t even know if I’m allowed to do that for someone else than my personal use, because Robinhood doesn’t have public APIs.<br>
@@ -442,7 +442,7 @@ I have other ideas for a more long term project, but let’s do baby steps and s
 <h1 id="robinhood-if-you-read-this-i-have-some-more-important-complaints"><a href="#robinhood-if-you-read-this-i-have-some-more-important-complaints" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Robinhood, if you read this, I have some more important complaints!</h1>
 <p>Robinhood is often buggy. Sometimes the cancel button doesn’t work right after placing an order.<br>
 Or I receive notifications a few hours after my order was placed. They suffered from their success and it looks like they haven’t succeeded to work the scale.</p>
-<p>Customer support is terrible. They answer a few days after, saying <code class="language-text">Sorry we again had an outage, we can’t do anything.</code>.<br>
+<p>Customer support is terrible. They answer a few days after, saying <code class="language-text">Sorry we again had an outage, we can’t do anything.</code>!<br>
 That’s not good Robinhood, please improve your downtime and have a valid customer support.</p>
 <p>
   <a
