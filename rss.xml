@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Feb 2021 17:59:43 GMT</lastBuildDate><item><title><![CDATA[Clubhouse · iOS Software Engineer]]></title><description><![CDATA[Kinda cover letter!]]></description><link>https://lifegorithms.com/clubhouse-application/</link><guid isPermaLink="false">https://lifegorithms.com/clubhouse-application/</guid><pubDate>Sun, 07 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 Aug 2021 04:54:27 GMT</lastBuildDate><item><title><![CDATA[Weekly Personal Challenges ✅]]></title><description><![CDATA[Successes, failures, but more importantly learnings!]]></description><link>https://lifegorithms.com/weekly-personal-challenges/</link><guid isPermaLink="false">https://lifegorithms.com/weekly-personal-challenges/</guid><pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I decided to challenge myself on a weekly basis.
+This article will describe the different challenges that I’m doing, explain why I do them and what I learned.&lt;/p&gt;
+&lt;h2 id=&quot;drink-2l-of-water-a-day-&quot;&gt;&lt;a href=&quot;#drink-2l-of-water-a-day-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Drink 2L of water a day ❌&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Monday, August 2nd to Monday, August 9th, 2021&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;I realized that I was peeing was less than other people around me, which reminded me that I was drinking way less water than I should.&lt;/p&gt;
+&lt;p&gt;My challenge was to drink 2L of water a day, or about 0.5 gallons a day.
+I think I succeeded most days, but I remember 1 or 2 days I didn’t do it.
+A friend even gave me this giant 3.5L bottle to help me with this challenge!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/0f586/water-bottle.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAYAAAB836/YAAAACXBIWXMAABYlAAAWJQFJUiTwAAAG8klEQVRIx0WVeVCU5x3HXzWONdM6nZhoay/TZppx1FFr0YoOWG85RE4FDxRYEBaBdbnZi+XYhRWWG3RZdllguS9B8Upo6iSN7bRRUo1Jh+jEqKltrI1pEk3jpz8kM/3jM8/7Pvv+Ps/398y7z6tEN98m2iE0f0yM865wj5jmuxxw/YND7Q+JOjFJWP0NwuWZjRoPi1f6sywin+iOf8ncTSIct9jrucfizSqU5xegRLs/IcZ9j33uv7O/9f4zDrY9IFxEL8eXM8d3N7N8tvHcmh3M94vk5dVbWRFVQGzff9jb+rHIJIT3Pj/xi50WxnZ8ykEhtuOB8G8OeR9yuPsz9rd/wgsRGpRVG6dZ9htmSrqfidAnxkjiyH+J7ZQuuv7J4Z4H/Ng3GmXuSyiqvkeoej8jsfdzEvu/RDXwBQkDn6M+Cz/POInis4VZq/2ZtdKX2b/exCIRrjlYTNp55PmHJA4+4sjQIxb5hKF8R4TqkceoT32FeuQJqaNfkzL2lPRxiOu6g19UPKHBAYQE7SQyJICwXQGs37iNLYkWst6CtLEnHD3zmNQzX7FwVaAIX0TJuvCUZ1z8huzfQfaFL8mz95Ov1WFMTcGcnozuaBLG9COYUxPQJ8SQdWgP2sJa8sYfk38Jcse/ZsHyzSKcj2KQlQxvPcX0B+GPUFTmwJKciDUzG1uBgQq9AZtgN5mpFipysylWx5MTup4CSx2WCal5+wkvLtkwLayceErF1W+ougHV4x9ikzRWTYYIM2m0lNFa04irqh53dT0uew0nSkuw52Vhio8iNy6SuqtfUHvtKfN/8SuUOS+gdN6EjknoviPjG3+l8mg85do07Lp8HDYbnppaOhpO0uNw0dXUjKvSTq1RR1HyQfIOh+F88xb1l27z0uKlzHpehGXDExj730U/cB1zy1kqMhKp0uXikEJPQwN9rR663W1CO90uD+6GE9RbLBSnJ6HZF0ycqY6ILBuz5/0AZeZ3UcJUmUQl5xAUpyVWnUNFjgZrQQ720mLanC2MDJ2mq7OftrYe3O5OGhqdlJVaydOkYy0ycOrNy7Sfu4jflu0sX70OZfDUGP1Do3T0DNHm7cViMmIrr6DF1U5HZy/t3h48XUM4vYM0uLopqaxHqzNzvMnF1etXmLx1nQ9vv88770/QO34JxXy8jrzSSlILSjhqKKeg2Ialppnm7hE6hs4x/PplPKdeo6FzmOq2fvTHa8kuq6Vh8DUuXrmB7dQE2rZ3SG25jFpQ4rINJOQZidUWkJRfSLa1Bl21mzJnF029Z+j//V9wjIxj845Q2jZIpt2BpvIkxxxniXNeE97lgP11YmvfIL7pbZSe0WFq3S5K66w0txkx19eRWdNBRdcotQPnhbOUdY9haB8l2z2Eyu4SPOwvcbJDZWBrnA7/aA1++zLxP5iL8un9v3H33gd8MHmFO3euYPN4SbA5MXeOYu0/T0nPGPkdZ1A7h4l3DBJZ4SaivIVAs5tVuxJY5hfI2tAk1kWk4BuhRrl18woffTTB5OSfuX/vPWzt3YSbG0hu9JLqGiBNZAktI0TWDxBS38+Wchf+JQ7WGl38NtmOT0gyK7YfYOnmPSzZGIFy7b0/MXB2lNImD3G6enbmVrPVVEOg9SRBkiaoysv2qm42HO/Cx9bJiqJmlplO8Kq5VZKe40DJaSL1XQRrmtiWVI6yWWVhbawV34QagrTtbNC7+KW8rCutLawob2V5sZMlxW4WF7eyQNqcp2tkfn49rxbLAkW9HCg/z/7yC8J59pWeRtme5iA830uUoZsYQx8+ejeKrpo5hgbmmJqYa3Yyp7CFWXo5G/UOlNxaZufWsNDkZlFOw7dCkVnHiCkelk+AsU8i9xCm62KPoZ91Og9Ktk3OteNChQhq/k+OkFUlv9tR0sws1NiIsZwmunTkmWxvYT/KHkkVaeglXN9LhHEQf50XJb0Y5ViZIHuisaJkCBq5zpC5dAsz0opQkvNYKNfh5j4iTD1EGbuI0neI0NhPhEhDhd2mQTZJ0pkpJjnKjSgpQqp5mpTC6fsjOmYcKZBvRyYLZH6Xvp3d0lVYgZvwXKcIRRIh0lBpN1jYLu1/L2UqgRROCZKmiuWFVeVNjwnZzEjIkr+Yhp+qzezMaSJQCBF2ZzWi7C0UoWmAUOMAwdJ2oKGHV9JljxKlOCnvmUCJnxJkClq5lzFBy3Nxx1ilLmLrMTs7tFXyhlQTfEz2d495SjiVsFfidxOg97JBVvpRspmZ8VIcL5LD6d/KBJWWudLuK6psfFMMbEorZVu6lYD0MoLSZJ9D89oIl1Shuk5ChIACD5tFuCGjgqXqEn6YWMD3pcV5Ip8v42JVFisTc1gj0vXSwSa1ia3qQnZI2sCUYv4HaHgwb+uhq4AAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Water bottle&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/fcda8/water-bottle.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/12f09/water-bottle.png 148w,https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/e4a3f/water-bottle.png 295w,https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/fcda8/water-bottle.png 590w,https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/efc66/water-bottle.png 885w,https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/c83ae/water-bottle.png 1180w,https://lifegorithms.com/static/6b96c04a3ec97875de4aa0ae85741a25/0f586/water-bottle.png 1498w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3 id=&quot;how-did-that-happen&quot;&gt;&lt;a href=&quot;#how-did-that-happen&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How did that happen?&lt;/h3&gt;
+&lt;p&gt;I might have succeeded in the challenge if I count the glass of water I drank at lunchtime at the office, but I wanted to drink 4 times my 0.5L bottle per day, which at some point did not happen.
+I’m really not used to drink that amount of water. Because it’s not natural, it felt very forced to drink a full bottle every few hours.&lt;/p&gt;
+&lt;h3 id=&quot;what-did-i-learn&quot;&gt;&lt;a href=&quot;#what-did-i-learn&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What did I learn?&lt;/h3&gt;
+&lt;p&gt;Drinking more water ⇒ peeing more often. LOL okay, I knew that already.
+The difference is that now I experienced it.
+Creating a habit of drinking more water is hard.&lt;/p&gt;
+&lt;h3 id=&quot;whats-the-conclusion&quot;&gt;&lt;a href=&quot;#whats-the-conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What’s the conclusion?&lt;/h3&gt;
+&lt;p&gt;I’m now drinking more water, I don’t think I’m still at the level I should be, but I now have my bottle or glass on my desk when I work, which is a win!&lt;/p&gt;
+&lt;h2 id=&quot;screentime-challenge-&quot;&gt;&lt;a href=&quot;#screentime-challenge-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Screentime Challenge ✅&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Monday, July 26th to Monday, August 2nd, 2021&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;I realized that I was spending way too much time on my phone, endlessly scrolling on Twitter, Instagram, etc. I was averaging about 5 hours a day. 5 hours sounds like a lot, but it goes up really fast!
+I would advise you to check it out for yourself: Settings ⇒ Screen Time. Answering a few messages here and there throughout the day &amp;#x26; it’s already 2 hours!&lt;/p&gt;
+&lt;p&gt;My challenge was to do under 2 hours a day for a week.
+I ended up doing 1 hour 9 minutes, what a success!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/ec605/screen-time.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 216.2162162162162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAArABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfHy0IYUMzSpMLy6kcwC/wD/xAAaEAADAQEBAQAAAAAAAAAAAAAAARECECES/9oACAEBAAEFApRlPlSInW65tHp6Nd1lXeUsn//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EAB0QAAAFBQAAAAAAAAAAAAAAAAEQIDFBAFFxkeH/2gAIAQEABj8CjddSymixhgD/AP/EAB8QAAEDBQADAAAAAAAAAAAAAAEAESEQMUFRcWGBkf/aAAgBAQABPyEEANnCYC2eEV2vVJqBAIh9QIGBqU8GA+kWDjD17VkLVdDk8J2AT2n/2gAMAwEAAgADAAAAEGArw+zP/8QAFxEBAAMAAAAAAAAAAAAAAAAAERAgIf/aAAgBAwEBPxCi7H//xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQIBAT8QNLMP/8QAIBABAQACAgICAwAAAAAAAAAAAREAITFBYYEQsVHB8P/aAAgBAQABPxCoNFknAwGndDFIQ0eMdqV1pz9Z3E9uN+suKM8bz/esMW1HZ45/eQUos4GFiNAGcJRyPnWL+Y+jLRGxtLrnf338wcUpq72xm4Cbpwz/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Screen Time&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/1c72d/screen-time.jpg&quot;
+        srcset=&quot;https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/a80bd/screen-time.jpg 148w,https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/1c91a/screen-time.jpg 295w,https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/1c72d/screen-time.jpg 590w,https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/a8a14/screen-time.jpg 885w,https://lifegorithms.com/static/1ef7a8cc36ec52a8de81999d45ddc5b7/ec605/screen-time.jpg 1125w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3 id=&quot;how-did-that-happen-1&quot;&gt;&lt;a href=&quot;#how-did-that-happen-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How did that happen?&lt;/h3&gt;
+&lt;p&gt;I simply didn’t use my phone, meaning it was staying in my bag during the workday at the office &amp;#x26; it was staying in my room during the evening!
+I really felt like I didn’t have a phone, and also felt disconnected.&lt;/p&gt;
+&lt;h3 id=&quot;what-did-i-learn-1&quot;&gt;&lt;a href=&quot;#what-did-i-learn-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What did I learn?&lt;/h3&gt;
+&lt;p&gt;I learned that the main issue with my screen time was about endless scrolling apps. It’s fine to go on Twitter, but scrolling for one hour is not fine!&lt;/p&gt;
+&lt;h3 id=&quot;whats-the-conclusion-1&quot;&gt;&lt;a href=&quot;#whats-the-conclusion-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What’s the conclusion?&lt;/h3&gt;
+&lt;p&gt;I’m back at using my phone like before except for one thing. I set a time limit for Twitter &amp;#x26; Instagram.
+Does it work?
+Well yeah, it kinda does! I do admit that sometimes I click on “extend the limit for 15 minutes”, but my screentime decreased for sure compared to before!&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/weekly-personal-challenges/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Clubhouse · iOS Software Engineer]]></title><description><![CDATA[Kinda cover letter!]]></description><link>https://lifegorithms.com/clubhouse-application/</link><guid isPermaLink="false">https://lifegorithms.com/clubhouse-application/</guid><pubDate>Sun, 07 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;📩 papailhau@gmail.com  📩&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Hi Clubhouse team 👋,&lt;/p&gt;
