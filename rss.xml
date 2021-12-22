@@ -1,4 +1,167 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 Aug 2021 19:41:43 GMT</lastBuildDate><item><title><![CDATA[Weekly Personal Challenges ✅]]></title><description><![CDATA[Successes, failures, but more importantly learnings!]]></description><link>https://lifegorithms.com/weekly-personal-challenges/</link><guid isPermaLink="false">https://lifegorithms.com/weekly-personal-challenges/</guid><pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I decided to challenge myself on a weekly basis.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 22 Dec 2021 05:32:42 GMT</lastBuildDate><item><title><![CDATA[VISAs in the US 🇺🇸]]></title><description><![CDATA[Probably lots of people around you are in the US with a VISA!]]></description><link>https://lifegorithms.com/us-visas/</link><guid isPermaLink="false">https://lifegorithms.com/us-visas/</guid><pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;VISAs in the US are real, especially in the tech world.&lt;br&gt;
+After some years of research and living the struggle of VISAs myself, I decided to write down all my knowledge.&lt;br&gt;
+Hopefully, it can be helpful for non-American trying to come to the US, and/or for people in the US who want to learn more about what their friends have to do in order to legally stay in this country.&lt;/p&gt;
+&lt;p&gt;I will only talk about the VISAs related to tech people, but tons of other VISAs exist.&lt;br&gt;
+You can find the list &lt;a href=&quot;https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/all-visa-categories.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I currently have an H1B, and I’m in the process of getting a green card!&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;L1 —&gt; H1B —&gt; green card&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&quot;tourism&quot;&gt;&lt;a href=&quot;#tourism&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tourism&lt;/h1&gt;
+&lt;p&gt;ESTA &lt;em&gt;(Electronic System for Travel Authorization)&lt;/em&gt; is not a VISA per se, but kinda is, and is valid for a maximum of 90 days.&lt;br&gt;
+You need to apply for an ESTA when you want to come to the US as a tourist. Most ESTAs are approved automatically.&lt;br&gt;
+So if my parents want to visit me in SF, they will need to apply for this visa.&lt;/p&gt;
+&lt;h1 id=&quot;work&quot;&gt;&lt;a href=&quot;#work&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Work&lt;/h1&gt;
+&lt;p&gt;All work VISA must have a sponsor, which is usually an American company.&lt;/p&gt;
+&lt;h2 id=&quot;h1b&quot;&gt;&lt;a href=&quot;#h1b&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H1B&lt;/h2&gt;
+&lt;p&gt;This is probably the most well known VISAs of all tech workers, also my current VISA.&lt;br&gt;
+This VISA is valid for 3 years and can be extended for another 3 years, only once.&lt;br&gt;
+In order to get it, you need to get selected for the H1B lottery. There is about 25% chance to win this golden ticket. &lt;/p&gt;
+&lt;p&gt;In 2021, there were 308,613 applicants for 87,500 selected, which is a 28% chance to get it. &lt;a href=&quot;https://www.fragomen.com/insights/uscis-s-fy-2022-h-1b-cap-statistics-show-significant-drop-in-lottery-selection-rate.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;(details)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After being selected, lucky winners can legally enter and work in the US on H1B starting on October 1st of the same year.&lt;/p&gt;
+&lt;p&gt;Tricks exist in order to extend indefinitely, for instance when you have a valid I140, see more details in the green card section down below.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/baae1/h1b-timeline.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 37.16216216216216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABQUlEQVQoz1VQXU/CQBDk/7/6KmrigzExEsUooFDuet97V1pbMBqj/pNxr1jRh8nuzO3OTjsiIsQYQRRAwXNPfe05vwWu+T38cAo8T3G/E4bdQx0NZmnTwjXvkL4DtZ+IdYeGatS2hReEjnaIIYG6AF2XKCuJuKP9ETqYjjKJOUX9gvPJGqeXc1xMNdxmi7f6FYvrAuOjMzRqiyY9I31EnE1OML46RvW1D5ON/iX0zkEbi0JaSB0glO+5M6wLAyX4AGuWNeVKSCtQOglDGmVZwlp7SJhSgta8wKJYFyilgFL7Iec9VsUKgjXrmPPhYlX0EEJi+bSE55lsmj16wz4hi9nAmAwDw33mnvt8yHH1RveGGXl5gFKq3//95CHqgJQrp66swXY+Rbe4Q/dwg+7xHu3sFs1yhlhVSIlnee7v/8v4BgBR0sYyIInOAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;H1B Timeline&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/fcda8/h1b-timeline.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/12f09/h1b-timeline.png 148w,https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/e4a3f/h1b-timeline.png 295w,https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/fcda8/h1b-timeline.png 590w,https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/efc66/h1b-timeline.png 885w,https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/c83ae/h1b-timeline.png 1180w,https://lifegorithms.com/static/be83071b72112665a53a659234a0c11f/baae1/h1b-timeline.png 2424w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;l1&quot;&gt;&lt;a href=&quot;#l1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;L1&lt;/h2&gt;
+&lt;p&gt;This is the VISA that I used when I first worked in San Francisco. This VISA is valid for 5 years and cannot be extended.&lt;br&gt;
+L1, by the full name &lt;em&gt;L1 Intracompany Transferee&lt;/em&gt;, is used for people working for 12+ months in an American company outside of the US.&lt;br&gt;
+After 12+ months, they’re allowed to transfer within the same company inside the US. This VISA has some pros and cons, cons being that you cannot change your job, ever. If you want to change your job/employer, you need another VISA like H1B.  &lt;/p&gt;
+&lt;p&gt;Lots of people start with L1, then apply every year for H1B until they get the lottery.  &lt;/p&gt;
+&lt;p&gt;What I personally did was to work at Uber in Amsterdam for 12+ months (actually 24 months because I liked it) and then I was able to move to SF.&lt;/p&gt;
+&lt;h2 id=&quot;opt&quot;&gt;&lt;a href=&quot;#opt&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;OPT&lt;/h2&gt;
+&lt;p&gt;This is the VISA used by students.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Faced with limited immigration options, OPT is the primary way international graduates gain U.S. work experience and enter the jobs pipeline.&lt;br&gt;
+This VISA is valid for 12 months, but you can also extend it for another 24 months. During that time, people usually apply for H1B and hope to get selected.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;greencard&quot;&gt;&lt;a href=&quot;#greencard&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Greencard&lt;/h2&gt;
+&lt;p&gt;La fameuse carte verte that everone is talking about all the time!&lt;br&gt;
+There are 3 ways to get it:&lt;/p&gt;
+&lt;h3 id=&quot;1-marriage&quot;&gt;&lt;a href=&quot;#1-marriage&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Marriage&lt;/h3&gt;
+&lt;p&gt;If you marry an American, you will probably have a green card in about a year.&lt;/p&gt;
+&lt;h3 id=&quot;2-lottery&quot;&gt;&lt;a href=&quot;#2-lottery&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Lottery&lt;/h3&gt;
+&lt;p&gt;Every year, the US opens a &lt;a href=&quot;https://dvprogram.state.gov/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;lottery to win a green card&lt;/a&gt;.&lt;br&gt;
+The chances are low but not extremely low either.&lt;br&gt;
+Each world region receives a certain number of green cards. The average chance of winning a green card is about 1:25 to 1:75, depending on the region and year, for Europeans recently it’s been around 1:45.&lt;/p&gt;
+&lt;h3 id=&quot;3-company-sponsor&quot;&gt;&lt;a href=&quot;#3-company-sponsor&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Company Sponsor&lt;/h3&gt;
+&lt;p&gt;This is the way most people get their green cards, what I’m currently doing now!&lt;br&gt;
+I’ll detail the steps, feel free to skip them, it’s more for me to remember what I had to do to get it!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/772aa/greencard-steps.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 59.45945945945946%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACZElEQVQoz62R22sTQRTG97/ySUR8E0TxT1BEnwSLYsEHoUiffKxFLFKh9YIPrRa0IhQlRjRVam26uTTZbDa7m+w2e5+9X/I5OylFxUdn+PGdmTPMfGcOt90Yoxymm6C6O4CsDtFXNHT7CnqSCkFSGOValIfoijLaQh+aYcMmESwvYNgkhO2F4GYWfmJxvYMbC3tY3uBh6hIGgwH6Yo8iQuwJUBQZmjaCrmsYjYZQVQW2ZTJM04BtW3AdG45HwN18sIeztz/izEwFq2+aUGURQk9Cu93BwUEXgiAiimJMJkCeT1AUYJRxlhXH5HmBME7BvasNcfp6FZfmd8APDIwJwdDxoLmEMtVDEvwTnfjQqCvdI+ycQdfck34FTz+1sfithg+HPEBfC5OIvjYlSuJpHIV/aYQ4TVBQ6/mkwITOMKMOr9VWcWV7GecrC1hpVZE5Pizbpn9jwhiP6T9ZsGg8PopNwzjeC/wAv48kz8HN1TdxYnMep97fx5beYYmoyJHSF9PJlIQ6+D2Oab4kyjME1GXprIQkCbid0Q9crj3Dvb3XkI0OXN+F6RlwfJthE4upexS7voMoC/8gTAIEiQ8/9sAtfb6DV/UVPP46h7UvS+g0e2i1m6jX64z9I+V5HkK3C0mScKjrjLL88iuyNGWVpVkM7lH1LmbXL+DW+jm8/f4cnbaARotHs9VgF+836GVNnu41MNRUKKoM27GQpDFtGG0MJc0S5EWGKKVd3mq9xNUXJzG7cRG9MU+TKYKYsDKispTYZxpS9SMPJHBpzkdclpuGtNOlTs+WcKXVtd2H2JUr+B/jFyCgcX71kfHWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Green card steps&quot;
+        title=&quot;&quot;
+        src=&quot;https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/fcda8/greencard-steps.png&quot;
+        srcset=&quot;https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/12f09/greencard-steps.png 148w,https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/e4a3f/greencard-steps.png 295w,https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/fcda8/greencard-steps.png 590w,https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/efc66/greencard-steps.png 885w,https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/c83ae/greencard-steps.png 1180w,https://lifegorithms.com/static/4fd0d4ee9477ea24656a26e7da4eff3e/772aa/greencard-steps.png 2042w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;More details &lt;a href=&quot;https://cbkimmigration.com/employment-based-immigration/perm-labor-certification/green-card-through-perm-roadmap/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;step-1&quot;&gt;&lt;a href=&quot;#step-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 1&lt;/h4&gt;
+&lt;p&gt;You need to create a job description of your job.&lt;br&gt;
+The goal will be to send this job description and see if an American applies and succeeds the interview process.&lt;br&gt;
+This step could be fast, it depends on how responsive your company is, same for your lawyers, etc.&lt;br&gt;
+It usually takes 2-4 months of sending emails back and forth.&lt;/p&gt;
+&lt;h4 id=&quot;step-2&quot;&gt;&lt;a href=&quot;#step-2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 2&lt;/h4&gt;
+&lt;p&gt;DOL &lt;em&gt;(Department Of Labor)&lt;/em&gt; will determine what is the minimum salary for this position.&lt;/p&gt;
+&lt;p&gt;This step usually takes 5-6 months. Yep, it takes forever!&lt;/p&gt;
+&lt;h4 id=&quot;step-3&quot;&gt;&lt;a href=&quot;#step-3&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 3&lt;/h4&gt;
+&lt;p&gt;That’s the recruitment process, which lasts 2 months.&lt;br&gt;
+If during those 2 months, no American successfully gets the job from step 1, then you can go to step 4.&lt;br&gt;
+If an American gets the job, then you need to wait 6 months before sending another job description.&lt;/p&gt;
+&lt;h4 id=&quot;step-4&quot;&gt;&lt;a href=&quot;#step-4&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 4&lt;/h4&gt;
+&lt;p&gt;Sending all the documents to DOL. The marks the end of the PERM.&lt;br&gt;
+So far it’s about 10-12 months, and it can take even longer if there is an audit on your case!&lt;/p&gt;
+&lt;h4 id=&quot;step-5&quot;&gt;&lt;a href=&quot;#step-5&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 5&lt;/h4&gt;
+&lt;p&gt;This is called &lt;code class=&quot;language-text&quot;&gt;I140&lt;/code&gt;.&lt;br&gt;
+This step is very important, it’s an application to have the right to wait in the green card line.&lt;br&gt;
+The department of immigration (USCIS) is giving X green cards per year, based on country. In some countries like China or India, there are more applicants than green cards given, so there is a wait.&lt;/p&gt;
+&lt;p&gt;Filing the I140 usually takes 6 to 8 months.&lt;br&gt;
+You can pay $2500 for &lt;code class=&quot;language-text&quot;&gt;Premium Processing&lt;/code&gt;, which reduces this time to 2 weeks… yes, from 6 months to 14 days!!&lt;/p&gt;
+&lt;h4 id=&quot;step-6&quot;&gt;&lt;a href=&quot;#step-6&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 6&lt;/h4&gt;
+&lt;p&gt;Waiting.  🤯&lt;/p&gt;
+&lt;p&gt;After filing the I140, and after approval, &lt;code class=&quot;language-text&quot;&gt;the priority date is locked&lt;/code&gt;, which means that you enter the line and you wait for your turn.&lt;br&gt;
+Like in a nightclub, you wait in line and they let X people in at a time.
+Depending on your country of origin, it can take 5 years (China) or way more (India) or no wait at all. (most European countries)&lt;/p&gt;
+&lt;p&gt;During that time, if you have an H1B you’re allowed to change employer, and your position in the line will update as it moves, meaning you’re not resetting your position in the line when you change company. (which is great!)&lt;/p&gt;
+&lt;h4 id=&quot;step-7--8&quot;&gt;&lt;a href=&quot;#step-7--8&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 7 &amp;#x26; 8&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;I485&lt;/code&gt;!&lt;br&gt;
+This step is also super important! Well, they’re all important, but this one is especially important. This step can only start once your position in the line &lt;code class=&quot;language-text&quot;&gt;becomes current&lt;/code&gt;, which means that it’s your turn!&lt;/p&gt;
+&lt;p&gt;It’s the real green card application. All steps before that are just preparation for the I485. It’s also called &lt;code class=&quot;language-text&quot;&gt;Adjustment of status&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;This step is usually 8 to 14 months and is not too dependent on which country you come from.&lt;br&gt;
+During that time, you will also do the biometric appointments, and you will receive AP (Advance Parole) which is a travel document that will allow you to leave/come back to the US!&lt;/p&gt;
+&lt;p&gt;The travel documents usually come after 5-6 months of applying for the I485.&lt;/p&gt;
+&lt;h4 id=&quot;step-9&quot;&gt;&lt;a href=&quot;#step-9&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Step 9&lt;/h4&gt;
+&lt;p&gt;The green card interview. I’m not too sure what this step is about because (1) I’m currently at step 7, and (2) all interviews are canceled because of Covid and are not mandatory.&lt;br&gt;
+People have been receiving their green cards after step 8.&lt;/p&gt;
+&lt;p&gt;To summarize, the green card timeline depends on the country of origin.&lt;br&gt;
+It can be as fast as 2 years, and as long as … very long!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Some extra information just for fun:&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;When a company lays off a lot of people (not sure about the exact numbers), the PERM step has to stop for 6 months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why?&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Because if you remember, it’s about making sure that no American can take your job. When the company lays off employees, there is a window of 6 months where the company cannot continue PERM because they need to wait to see during those 6 months if Americans can apply and get (back) the job.&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;That’s what happened to me, &lt;a href=&quot;https://www.cnbc.com/2020/05/06/uber-to-lay-off-3700-employees-about-14percent-of-workforce.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Uber laid off 14% of the company / 3700 people&lt;/a&gt;, so it took an additional 6 months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;On top of that, most of the USCIS offices were closed because of Covid, so everything was even more delayed.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;j1&quot;&gt;&lt;a href=&quot;#j1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;J1&lt;/h2&gt;
+&lt;p&gt;This VISA is usually used for interns.&lt;/p&gt;
+&lt;h2 id=&quot;o1&quot;&gt;&lt;a href=&quot;#o1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;O1&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Individuals with Extraordinary Ability or Achievement&lt;/code&gt;, it’s a great VISA!&lt;br&gt;
+I thought it was hard to get but I know people who kinda faked it… &amp;#x26; I get it, it’s relatively easy to send proof of tech achievements to people who don’t understand tech.&lt;/p&gt;
+&lt;p&gt;So I understand how it’s relatively easy to have the O1 visa even if you don’t have extraordinary abilities!&lt;/p&gt;
+&lt;h2 id=&quot;u&quot;&gt;&lt;a href=&quot;#u&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;U&lt;/h2&gt;
+&lt;p&gt;I mention this visa which has nothing to do with tech, just because I was surprised to learn it existed.&lt;/p&gt;
+&lt;p&gt;It’s a real VISA, it’s when you are a victim of a crime and you can help the police to close an investigation! More info &lt;a href=&quot;https://en.wikipedia.org/wiki/U_visa&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After 3 years of U VISA, you can apply for a I485 to get your green card.&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/us-visas/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Weekly Personal Challenges ✅]]></title><description><![CDATA[Successes, failures, but more importantly learnings!]]></description><link>https://lifegorithms.com/weekly-personal-challenges/</link><guid isPermaLink="false">https://lifegorithms.com/weekly-personal-challenges/</guid><pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I decided to challenge myself on a weekly basis.
 This article will describe the different challenges that I’m doing, explain why I do them and what I learned.&lt;/p&gt;
 &lt;p&gt;Please text me if you have ideas of challenges for the following weeks!&lt;/p&gt;
 &lt;h2 id=&quot;morning-workout-routine&quot;&gt;&lt;a href=&quot;#morning-workout-routine&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Morning Workout Routine&lt;/h2&gt;
